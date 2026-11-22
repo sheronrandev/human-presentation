@@ -1,0 +1,1095 @@
+{
+  "category": "FIN",
+  "count": 15,
+  "systems": [
+    {
+      "id": "FIN-01",
+      "name": "Wall Street Institutional Azure",
+      "category": "FIN",
+      "sub_mood": "Institutional Investment Banking Pitchbook",
+      "reference_benchmark": "Goldman Sachs Brand & Envato Corporate Financial",
+      "reference_urls": [
+        "https://pickcoloronline.com/brands/goldman-sachs/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#EEF2F7",
+        "primary_30": "#00355F",
+        "accent_10": "#7399C6",
+        "ink": "#231F20",
+        "muted_ink": "#5D6B7A",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Source Serif 4",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Cambria",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Clean banking pitchbook 3-column exhibit grid",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#00355F",
+        "#7399C6",
+        "#205680",
+        "#4878A3",
+        "#749DC7",
+        "#A4C2E4"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 20.45,
+      "brand_override_flag": false,
+      "grid_component_placement": "Clean banking pitchbook grid; top-bar section breadcrumb",
+      "focal_highlight_mechanics": "Muted #7399C6 historical bars contrasting with #00355F projected-year anchor"
+    },
+    {
+      "id": "FIN-02",
+      "name": "Financial Times Salmon Editorial",
+      "category": "FIN",
+      "sub_mood": "Macroeconomic Analysis & Global Markets",
+      "reference_benchmark": "Financial Times Brand & Web System",
+      "reference_urls": [
+        "https://www.schemecolor.com/financial-times-web-site.php"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FFF1E5",
+        "surface": "#F2DFCE",
+        "primary_30": "#262A33",
+        "accent_10": "#0D7680",
+        "ink": "#1A1A1A",
+        "muted_ink": "#66605B",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Trebuchet MS",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#262A33",
+        "#0D7680",
+        "#4B5466",
+        "#1495A3",
+        "#758099",
+        "#20B6C7"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 12.15,
+      "brand_override_flag": false,
+      "grid_component_placement": "Iconic warm salmon paper ground reduces glare in bright rooms",
+      "focal_highlight_mechanics": "#0D7680 teal carries primary line curves (4.84:1 AA on #FFF1E5) with direct end labels"
+    },
+    {
+      "id": "FIN-03",
+      "name": "Private Wealth Forest & Sand",
+      "category": "FIN",
+      "sub_mood": "Family Office & High-Net-Worth Advisory",
+      "reference_benchmark": "InspoAI Private Wealth & Envato Finement",
+      "reference_urls": [
+        "https://www.inspoai.io/blogs/banking-app-color-palette"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FAF9F5",
+        "surface": "#F3EEE3",
+        "primary_30": "#123524",
+        "accent_10": "#C8A45D",
+        "ink": "#14231B",
+        "muted_ink": "#69736B",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Mulish",
+        "mono": "Consolas",
+        "win_native_major": "Garamond",
+        "win_native_minor": "Candara",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#123524",
+        "#C8A45D",
+        "#26543C",
+        "#43785A",
+        "#659E7C",
+        "#8FC4A3"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 12.8,
+      "brand_override_flag": false,
+      "grid_component_placement": "High-net-worth briefing layout; wide 0.75\" margins; #123524 AAA (15.5:1) typography",
+      "focal_highlight_mechanics": "#C8A45D gold restricted to thin borders and badges"
+    },
+    {
+      "id": "FIN-04",
+      "name": "Vault Banking Navy & Zomp",
+      "category": "FIN",
+      "sub_mood": "Commercial Banking & Corporate Treasury",
+      "reference_benchmark": "InspoAI Vault & Envato Bank Pitch",
+      "reference_urls": [
+        "https://www.inspoai.io/blogs/banking-app-color-palette"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#EDF1F5",
+        "primary_30": "#0B2545",
+        "accent_10": "#13A89E",
+        "ink": "#0B2545",
+        "muted_ink": "#5A6E85",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Instrument Sans",
+        "body": "DM Sans",
+        "mono": "Consolas",
+        "win_native_major": "Avenir Next LT Pro",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#0B2545",
+        "#13A89E",
+        "#1B477D",
+        "#2CA5B8",
+        "#436FA8",
+        "#59C1D4"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 11.06,
+      "brand_override_flag": true,
+      "grid_component_placement": "Muted #EDF1F5 panel separation without box borders; tabular-figure financial tables",
+      "focal_highlight_mechanics": "#13A89E highlights YoY net-retention uplift",
+      "brand_override_justification": "Canonical institutional benchmark: InspoAI Vault & Envato Bank Pitch (Delta E = 11.06 from Tailwind Slate-900 (Cold Slop Ink))"
+    },
+    {
+      "id": "FIN-05",
+      "name": "Neobank Coral & Gunmetal",
+      "category": "FIN",
+      "sub_mood": "Consumer Fintech & Challenger Bank Pitch",
+      "reference_benchmark": "Monzo Brand & Neo Card Fintech",
+      "reference_urls": [
+        "https://brandarchive.xyz/identity/monzo"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F7F7F5",
+        "surface": "#E5E5E5",
+        "primary_30": "#2F2F33",
+        "accent_10": "#FF5A4E",
+        "ink": "#1B1B1F",
+        "muted_ink": "#68686E",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Plus Jakarta Sans",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Tenorite",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2F2F33",
+        "#FF5A4E",
+        "#54545C",
+        "#80808B",
+        "#ADADB8",
+        "#D9D9E0"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 6.85,
+      "brand_override_flag": true,
+      "grid_component_placement": "Bold challenger-bank pitch rhythm; single #FF5A4E metric or smartphone frame anchored against matte #F7F7F5",
+      "focal_highlight_mechanics": "Explicit text labels on negative values; coral accent",
+      "brand_override_justification": "Canonical institutional benchmark: Monzo Brand & Neo Card Fintech (Delta E = 6.85 from Tailwind Red-500 (RAG Semantic Slop))"
+    },
+    {
+      "id": "FIN-06",
+      "name": "Midnight Sapphire Asset Mgmt",
+      "category": "FIN",
+      "sub_mood": "Hedge Fund & Alternative Asset Allocation",
+      "reference_benchmark": "Midnight Sapphire & Envato Investlux",
+      "reference_urls": [
+        "https://paletadecolores.org/en/luxury-color-palettes/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F4F4F2",
+        "surface": "#C9CED6",
+        "primary_30": "#0A2E5C",
+        "accent_10": "#B08D57",
+        "ink": "#0B1A33",
+        "muted_ink": "#5D687A",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Libre Baskerville",
+        "body": "Lato",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#0A2E5C",
+        "#B08D57",
+        "#1D477D",
+        "#3B66A1",
+        "#6089C5",
+        "#8EADE6"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 20.68,
+      "brand_override_flag": false,
+      "grid_component_placement": "Formal LP fundraise deck; 2-column performance attribution with subtle silver divider",
+      "focal_highlight_mechanics": "Left cumulative return curve in #0A2E5C, right 3-bullet thesis"
+    },
+    {
+      "id": "FIN-07",
+      "name": "Private Credit Navy & Brass",
+      "category": "FIN",
+      "sub_mood": "Direct Lending, Private Debt & Underwriting",
+      "reference_benchmark": "Navy Brass & Envato Ledger",
+      "reference_urls": [
+        "https://paletadecolores.org/en/luxury-color-palettes/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F3EEE3",
+        "surface": "#FFFFFF",
+        "primary_30": "#1B2A41",
+        "accent_10": "#B5A642",
+        "ink": "#1B2A41",
+        "muted_ink": "#616A75",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Vollkorn",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Palatino Linotype",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1B2A41",
+        "#B5A642",
+        "#324B6E",
+        "#4E709F",
+        "#7394C9",
+        "#9FBDF0"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 9.36,
+      "brand_override_flag": true,
+      "grid_component_placement": "Debt/credit underwriting format; white data cards seated cleanly on warm #F3EEE3 parchment",
+      "focal_highlight_mechanics": "#4A0E0E secondary wine reserved for risk triggers; #B5A642 brass accents",
+      "brand_override_justification": "Canonical institutional benchmark: Navy Brass & Envato Ledger (Delta E = 9.36 from Tailwind Slate-900 (Cold Slop Ink))"
+    },
+    {
+      "id": "FIN-08",
+      "name": "Digital Asset Electric Cobalt",
+      "category": "FIN",
+      "sub_mood": "Crypto, Web3 & Digital Asset Infrastructure",
+      "reference_benchmark": "Coinbase Brand & Seed Deck",
+      "reference_urls": [
+        "https://dwglogo.com/color-codes/coinbase/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F5F7FA",
+        "primary_30": "#0052FF",
+        "accent_10": "#0A2463",
+        "ink": "#1E1B18",
+        "muted_ink": "#64676E",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Urbanist",
+        "body": "DM Sans",
+        "mono": "Consolas",
+        "win_native_major": "Bierstadt",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#0052FF",
+        "#0A2463",
+        "#3375FF",
+        "#6699FF",
+        "#99BDFF",
+        "#CCE0FF"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 11.42,
+      "brand_override_flag": true,
+      "grid_component_placement": "Stark minimalist 11-slide seed structure; monumental blue traction numbers (72–96pt)",
+      "focal_highlight_mechanics": "Paired with crisp 1-sentence thesis headers",
+      "brand_override_justification": "Canonical institutional benchmark: Coinbase Brand & Seed Deck (Delta E = 11.42 from Tailwind Indigo-600 (Universal Gradient Anchor))"
+    },
+    {
+      "id": "FIN-09",
+      "name": "Payments Infrastructure Indigo",
+      "category": "FIN",
+      "sub_mood": "Global Payments & Developer Infrastructure",
+      "reference_benchmark": "Stripe Design System & Fintech Startup",
+      "reference_urls": [
+        "https://www.omoro.io/brands/stripe"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F8FAFD",
+        "surface": "#EEF2F7",
+        "primary_30": "#061B31",
+        "accent_10": "#533AFD",
+        "ink": "#061B31",
+        "muted_ink": "#526375",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Söhne / Albert Sans",
+        "body": "Source Code Pro",
+        "mono": "Consolas",
+        "win_native_major": "Neue Haas Grotesk Text Pro",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#061B31",
+        "#533AFD",
+        "#223F63",
+        "#7462FD",
+        "#4A6E9C",
+        "#9A8EFD"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 4,
+      "brand_override_flag": true,
+      "grid_component_placement": "Brand Override Authorized: Deep #061B31 navy ink (16.6:1 AAA) warms cool cloud ground",
+      "focal_highlight_mechanics": "Dense API/payment-flow diagrams with #533AFD CTA focus",
+      "brand_override_justification": "Canonical institutional benchmark: Stripe Design System & Fintech Startup (Delta E = 4.00 from Tailwind Slate-900 (Cold Slop Ink))"
+    },
+    {
+      "id": "FIN-10",
+      "name": "Auditorium Earnings Gold-Dark",
+      "category": "FIN",
+      "sub_mood": "Annual Shareholder Meeting & Earnings Call",
+      "reference_benchmark": "Dark Presentation & Black-Gold Pitch",
+      "reference_urls": [
+        "https://paletadecolores.org/en/presentation-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#1E1E24",
+        "surface": "#2E2E38",
+        "primary_30": "#F5F5F5",
+        "accent_10": "#F4C430",
+        "ink": "#F5F5F5",
+        "muted_ink": "#9E9EA8",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Montserrat",
+        "body": "Lato",
+        "mono": "Consolas",
+        "win_native_major": "Century Gothic",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "luminance_spotlight",
+      "chart_palette_6": [
+        "#F4C430",
+        "#F5F5F5",
+        "#C79D18",
+        "#A6A6B0",
+        "#E0B838",
+        "#6E6E78"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 1.61,
+      "brand_override_flag": true,
+      "grid_component_placement": "Investor Day dark-hall stage deck; dimmed #1E1E24 ground reduces halation",
+      "focal_highlight_mechanics": "High-luminance #F4C430 illuminates single hero revenue milestone",
+      "brand_override_justification": "Canonical institutional benchmark: Dark Presentation & Black-Gold Pitch (Delta E = 1.61 from Claude Warm Cream Signature Tell (Second-Wave Slop))"
+    },
+    {
+      "id": "FIN-11",
+      "name": "Treasury Teal Quartz",
+      "category": "FIN",
+      "sub_mood": "Corporate Treasury & Cash Management UI",
+      "reference_benchmark": "Teal Quartz Finance UI & Pay Finance",
+      "reference_urls": [
+        "https://www.media.io/color-palette/art-deco-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F7F2E8",
+        "surface": "#E4F5F4",
+        "primary_30": "#063B4C",
+        "accent_10": "#0C8EA6",
+        "ink": "#063B4C",
+        "muted_ink": "#4F6E78",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Red Hat Display",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Abadi",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#063B4C",
+        "#0C8EA6",
+        "#146078",
+        "#2BB0C9",
+        "#3B8FA8",
+        "#7FD1C8"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 19.44,
+      "brand_override_flag": false,
+      "grid_component_placement": "Split KPI overview; primary dark teal #063B4C anchors totals",
+      "focal_highlight_mechanics": "Lighter #7FD1C8 aqua renders secondary benchmark bars cleanly"
+    },
+    {
+      "id": "FIN-12",
+      "name": "Bancassurance Trust Blue-Green",
+      "category": "FIN",
+      "sub_mood": "Life Insurance, Pension & Actuarial Solvency",
+      "reference_benchmark": "Trust Blue-Green & Finance Insurance",
+      "reference_urls": [
+        "https://paletadecolores.org/en/corporate-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F6F9FC",
+        "surface": "#DCE8F2",
+        "primary_30": "#1F5F8B",
+        "accent_10": "#2E9E6B",
+        "ink": "#1A2B3C",
+        "muted_ink": "#5A6D80",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Merriweather",
+        "body": "Open Sans",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1F5F8B",
+        "#2E9E6B",
+        "#397CA8",
+        "#47B884",
+        "#619CC5",
+        "#72D4A4"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 4.83,
+      "brand_override_flag": true,
+      "grid_component_placement": "Actuarial & underwriting clarity; colorblind-safe blue/green lightness split",
+      "focal_highlight_mechanics": "Explicit inline delta arrows (+14.2%) with verified luminance separation",
+      "brand_override_justification": "Canonical institutional benchmark: Trust Blue-Green & Finance Insurance (Delta E = 4.83 from Tailwind Emerald-600 (Dark Green Fallback Cascade))"
+    },
+    {
+      "id": "FIN-13",
+      "name": "Capital Markets Slate & Rust",
+      "category": "FIN",
+      "sub_mood": "Fixed Income, Debt Syndication & Structured Finance",
+      "reference_benchmark": "Venngage Tech-Finance & Pitch Werk",
+      "reference_urls": [
+        "https://venngage.com/blog/blue-color-palettes/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#EAEAEA",
+        "surface": "#FFFFFF",
+        "primary_30": "#4F6D7A",
+        "accent_10": "#DD6E42",
+        "ink": "#293241",
+        "muted_ink": "#616E7D",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Bitter",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Rockwell",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#4F6D7A",
+        "#DD6E42",
+        "#293241",
+        "#6F8E9C",
+        "#E8906B",
+        "#99B4C2"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 18.87,
+      "brand_override_flag": false,
+      "grid_component_placement": "High-contrast analytical cards; white exhibits floated on #EAEAEA light ground",
+      "focal_highlight_mechanics": "Warm #DD6E42 rust pops sharply against cool #4F6D7A blues"
+    },
+    {
+      "id": "FIN-14",
+      "name": "Venture Scale-Up Imperial Red",
+      "category": "FIN",
+      "sub_mood": "Growth Equity, Series B Pitch & Rapid Expansion",
+      "reference_benchmark": "Space Cadet Red & Investor Red Accents",
+      "reference_urls": [
+        "https://venngage.com/blog/blue-color-palettes/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#EDF2F4",
+        "surface": "#FFFFFF",
+        "primary_30": "#2B2D42",
+        "accent_10": "#D90429",
+        "ink": "#2B2D42",
+        "muted_ink": "#6C6F82",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Bebas Neue",
+        "body": "Montserrat",
+        "mono": "Consolas",
+        "win_native_major": "Franklin Gothic Medium",
+        "win_native_minor": "Trebuchet MS",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2B2D42",
+        "#D90429",
+        "#484B66",
+        "#EF233C",
+        "#6C6F8E",
+        "#F46075"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 11.34,
+      "brand_override_flag": true,
+      "grid_component_placement": "High-energy Series B pitch; stately #2B2D42 anchors 85% of visual mass",
+      "focal_highlight_mechanics": "#D90429 flags urgent market gap and closing fundraising ask",
+      "brand_override_justification": "Canonical institutional benchmark: Space Cadet Red & Investor Red Accents (Delta E = 11.34 from Tailwind Slate-900 (Cold Slop Ink))"
+    },
+    {
+      "id": "FIN-15",
+      "name": "Institutional Deep Abyss & Sky",
+      "category": "FIN",
+      "sub_mood": "Sovereign Wealth & Infrastructure Fund Allocation",
+      "reference_benchmark": "Venngage Serious Finance & Pitch Scale-Up",
+      "reference_urls": [
+        "https://venngage.com/blog/blue-color-palettes/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#EAF1FB",
+        "primary_30": "#00171F",
+        "accent_10": "#007EA7",
+        "ink": "#003459",
+        "muted_ink": "#567287",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "IBM Plex Serif",
+        "body": "IBM Plex Sans",
+        "mono": "Consolas",
+        "win_native_major": "Cambria",
+        "win_native_minor": "Avenir Next LT Pro",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.75,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#00171F",
+        "#003459",
+        "#007EA7",
+        "#00A8E8",
+        "#47C3F2",
+        "#8FE0FA"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "grayscale_context_baseline_with_single_focal_accent",
+      "slop_delta_e_min": 10.3,
+      "brand_override_flag": true,
+      "grid_component_placement": "Four-step monochromatic blue ladder (#00171F → #003459 → #007EA7 → #00A8E8)",
+      "focal_highlight_mechanics": "Encodes stacked waterfall layers cleanly without multi-hue clutter",
+      "brand_override_justification": "Canonical institutional benchmark: Venngage Serious Finance & Pitch Scale-Up (Delta E = 10.30 from Tailwind Slate-900 (Cold Slop Ink))"
+    }
+  ]
+}

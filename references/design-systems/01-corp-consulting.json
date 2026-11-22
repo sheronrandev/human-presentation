@@ -1,0 +1,1091 @@
+{
+  "category": "CORP",
+  "count": 15,
+  "systems": [
+    {
+      "id": "CORP-01",
+      "name": "McKinsey Precision Navy",
+      "category": "CORP",
+      "sub_mood": "Institutional Rigor & Precision",
+      "reference_benchmark": "McKinsey Brand & Umbrex/SlideModel Decks",
+      "reference_urls": [
+        "https://poesius.com/blog/consulting-slide-design-bcg-bain-guide"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F5F5F5",
+        "primary_30": "#061E38",
+        "accent_10": "#1267D5",
+        "ink": "#222222",
+        "muted_ink": "#666666",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Georgia",
+        "body": "Helvetica Neue",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Avenir Next LT Pro",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "2/3 exhibit + 1/3 takeaway consulting split",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "selective_desaturation",
+      "chart_palette_6": [
+        "#061E38",
+        "#1267D5",
+        "#418AB3",
+        "#89B6D3",
+        "#B5D1E8",
+        "#D9E7F4"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 6.4,
+      "brand_override_flag": true,
+      "grid_component_placement": "2/3 exhibit + 1/3 takeaway column; 10–20 word action title top-left; 8pt bottom source footnote",
+      "focal_highlight_mechanics": "Muted gray baseline bars with #1267D5 focal series",
+      "brand_override_justification": "Canonical institutional benchmark: McKinsey Brand & Umbrex/SlideModel Decks (Delta E = 6.40 from Tailwind Slate-900 (Cold Slop Ink))"
+    },
+    {
+      "id": "CORP-02",
+      "name": "BCG Analytical Forest-Navy",
+      "category": "CORP",
+      "sub_mood": "Quantitative Strategy & Market Matrix",
+      "reference_benchmark": "BCG Visual Standards & Matrix Deck",
+      "reference_urls": [
+        "https://poesius.com/blog/free-consulting-powerpoint-templates"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#EEF1F4",
+        "primary_30": "#003366",
+        "accent_10": "#034641",
+        "ink": "#1E252C",
+        "muted_ink": "#5F6B73",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "IBM Plex Sans",
+        "body": "Neue Haas Grotesk Text Pro",
+        "mono": "Consolas",
+        "win_native_major": "Arial",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Parallel 2-column exhibit/text grid",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#003366",
+        "#034641",
+        "#2D68C4",
+        "#5B8DEF",
+        "#8EB3F5",
+        "#C2D7FA"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 10.08,
+      "brand_override_flag": true,
+      "grid_component_placement": "Parallel 2-column exhibit/text grid; graduated navy-to-light-blue chart hierarchy",
+      "focal_highlight_mechanics": "Red strictly reserved for negative variance; #034641 anchors growth",
+      "brand_override_justification": "Canonical institutional benchmark: BCG Visual Standards & Matrix Deck (Delta E = 10.08 from Tailwind Emerald-900 (Emerald Fallback))"
+    },
+    {
+      "id": "CORP-03",
+      "name": "Bain Results Crimson",
+      "category": "CORP",
+      "sub_mood": "Action-Driven Results & Private Equity",
+      "reference_benchmark": "Bain Brand & Poesius Results Pyramid",
+      "reference_urls": [
+        "https://brandfetch.com/bain.com"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F3F3F3",
+        "primary_30": "#222222",
+        "accent_10": "#CC0000",
+        "ink": "#1A1A1A",
+        "muted_ink": "#666666",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Helvetica Neue",
+        "body": "EB Garamond",
+        "mono": "Consolas",
+        "win_native_major": "Bierstadt",
+        "win_native_minor": "Garamond",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Top-down Results Pyramid hierarchy",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#222222",
+        "#CC0000",
+        "#555555",
+        "#888888",
+        "#BBBBBB",
+        "#DDDDDD"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 15.38,
+      "brand_override_flag": false,
+      "grid_component_placement": "Top-down Results Pyramid flow; generous whitespace with directional connective headers",
+      "focal_highlight_mechanics": "Surgical #CC0000 callout numbers and directional connective headers"
+    },
+    {
+      "id": "CORP-04",
+      "name": "Executive Gold & Cloud",
+      "category": "CORP",
+      "sub_mood": "Airy Minimalist Corporate Reporting",
+      "reference_benchmark": "Uploaded Showcase #3 & Envato Balance",
+      "reference_urls": [
+        "https://elements.envato.com/presentation-templates"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F8F9FA",
+        "surface": "#E9ECEF",
+        "primary_30": "#242629",
+        "accent_10": "#FDB913",
+        "ink": "#242629",
+        "muted_ink": "#5F6368",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Plus Jakarta Sans",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Tenorite",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "narrative_micro_motif",
+      "chart_palette_6": [
+        "#242629",
+        "#FDB913",
+        "#4A4D52",
+        "#747880",
+        "#A2A7B0",
+        "#D3D7DE"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 13.65,
+      "brand_override_flag": false,
+      "grid_component_placement": "Recurring golden geometric arc motif anchoring corners; 21 non-repeating interior grids",
+      "focal_highlight_mechanics": "Dark #242629 ink on #FDB913 gold filled cards/badges (8.76:1 AAA)"
+    },
+    {
+      "id": "CORP-05",
+      "name": "Architectural Obsidian-Crimson",
+      "category": "CORP",
+      "sub_mood": "Authoritative High-Contrast Corporate",
+      "reference_benchmark": "Uploaded Showcase #5 & Black Business Proposal",
+      "reference_urls": [
+        "https://elements.envato.com/presentation-templates"
+      ],
+      "polarity": "sandwich_bookend",
+      "tokens": {
+        "bg_60": "#141414",
+        "surface": "#FFFFFF",
+        "primary_30": "#222222",
+        "accent_10": "#A40E16",
+        "ink": "#F2F2F2",
+        "muted_ink": "#777777",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Montserrat",
+        "body": "Open Sans",
+        "mono": "Consolas",
+        "win_native_major": "Franklin Gothic Medium",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#222222",
+        "#A40E16",
+        "#4A4A4A",
+        "#737373",
+        "#A1A1A1",
+        "#CCCCCC"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 15.38,
+      "brand_override_flag": false,
+      "grid_component_placement": "Sandwich polarity (dark skyscraper covers + crisp white analytical interiors); 45° diagonal TOC slice",
+      "focal_highlight_mechanics": "White text on #A40E16 fill (7.92:1 AAA); crimson open framing brackets"
+    },
+    {
+      "id": "CORP-06",
+      "name": "Strategy Slate & Amber",
+      "category": "CORP",
+      "sub_mood": "Board Strategy & Matrix Analysis",
+      "reference_benchmark": "Pitch Strategy & Corporate Blue",
+      "reference_urls": [
+        "https://pitch.com/templates/collections/Strategy"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F5F7FA",
+        "surface": "#D9E2EC",
+        "primary_30": "#1B3A5C",
+        "accent_10": "#F2A541",
+        "ink": "#222222",
+        "muted_ink": "#627D98",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Albert Sans",
+        "body": "DM Sans",
+        "mono": "Consolas",
+        "win_native_major": "Avenir Next LT Pro",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Asymmetric 40/60 narrative-to-matrix layout",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1B3A5C",
+        "#F2A541",
+        "#336699",
+        "#5B84B1",
+        "#87A5C8",
+        "#B8CCE0"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 14.93,
+      "brand_override_flag": false,
+      "grid_component_placement": "Asymmetric 40/60 narrative-to-matrix layout; deep #1B3A5C headers",
+      "focal_highlight_mechanics": "#F2A541 reserved for single priority-quadrant highlight or KPI halo"
+    },
+    {
+      "id": "CORP-07",
+      "name": "Boardroom Navy & Brass",
+      "category": "CORP",
+      "sub_mood": "Governance, Fiduciary & Legal Counsel",
+      "reference_benchmark": "Poesius Board Deck & Law-Firm Navy",
+      "reference_urls": [
+        "https://poesius.com/blog/free-consulting-powerpoint-templates"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FAFAF7",
+        "surface": "#E3E1D8",
+        "primary_30": "#1C2A44",
+        "accent_10": "#C5A253",
+        "ink": "#0E1626",
+        "muted_ink": "#6E6B65",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Libre Baskerville",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Bookman Old Style",
+        "win_native_minor": "Candara",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1C2A44",
+        "#C5A253",
+        "#3B4E70",
+        "#607499",
+        "#8B9CC0",
+        "#BAC5E0"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 10.01,
+      "brand_override_flag": true,
+      "grid_component_placement": "Formal wide-margin governance grid; 18pt+ boardroom legibility floor",
+      "focal_highlight_mechanics": "Thin 0.75pt brass rule framing executive decision callouts",
+      "brand_override_justification": "Canonical institutional benchmark: Poesius Board Deck & Law-Firm Navy (Delta E = 10.01 from Tailwind Slate-900 (Cold Slop Ink))"
+    },
+    {
+      "id": "CORP-08",
+      "name": "Operations Charcoal & Orange",
+      "category": "CORP",
+      "sub_mood": "Operational Excellence & Supply Chain Ops",
+      "reference_benchmark": "SlidesCarnival Meeting Agenda & Ops Charcoal",
+      "reference_urls": [
+        "https://www.slidescarnival.com/tag/business"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F7F7F7",
+        "surface": "#DADADA",
+        "primary_30": "#2A2A2A",
+        "accent_10": "#F26B21",
+        "ink": "#1A1A1A",
+        "muted_ink": "#666666",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Red Hat Display",
+        "body": "Red Hat Text",
+        "mono": "Consolas",
+        "win_native_major": "Abadi",
+        "win_native_minor": "Tahoma",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Horizontal process & milestone flow grid",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2A2A2A",
+        "#F26B21",
+        "#525252",
+        "#7D7D7D",
+        "#A8A8A8",
+        "#D4D4D4"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 17.08,
+      "brand_override_flag": false,
+      "grid_component_placement": "Structured horizontal Gantt/process rows separated by hairline rules (zero nested cards)",
+      "focal_highlight_mechanics": "#F26B21 marks active bottleneck or operational milestone"
+    },
+    {
+      "id": "CORP-09",
+      "name": "Governance Burgundy & Stone",
+      "category": "CORP",
+      "sub_mood": "Executive Stewardship & Policy",
+      "reference_benchmark": "Envato Kalium & Executive Burgundy",
+      "reference_urls": [
+        "https://elements.envato.com/presentation-templates"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FAF8F7",
+        "surface": "#E7E2DF",
+        "primary_30": "#7A1F2B",
+        "accent_10": "#8C8582",
+        "ink": "#2C2526",
+        "muted_ink": "#706866",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Crimson Pro",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Book Antiqua",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Editorial 12-column Swiss modular grid",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#7A1F2B",
+        "#8C8582",
+        "#A33B49",
+        "#C4626E",
+        "#DC8E97",
+        "#ECC0C6"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 23.84,
+      "brand_override_flag": false,
+      "grid_component_placement": "Editorial 12-column grid; warm stone sidebar summary boxes (#E7E2DF)",
+      "focal_highlight_mechanics": "Deep burgundy #7A1F2B hero figures and clean serif pull-quotes"
+    },
+    {
+      "id": "CORP-10",
+      "name": "Enterprise Slate & Cyan",
+      "category": "CORP",
+      "sub_mood": "Enterprise IT & Digital Transformation",
+      "reference_benchmark": "Envato Linka / Mondor & Slate Cyan",
+      "reference_urls": [
+        "https://elements.envato.com/presentation-templates"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F4F6F8",
+        "surface": "#CBD3DB",
+        "primary_30": "#24303C",
+        "accent_10": "#17A2B8",
+        "ink": "#1E2A36",
+        "muted_ink": "#617182",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Hanken Grotesk",
+        "body": "Archivo",
+        "mono": "Consolas",
+        "win_native_major": "News Gothic MT",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Modular 2×2 KPI + trend matrix grid",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#24303C",
+        "#17A2B8",
+        "#3E5163",
+        "#5F748B",
+        "#859AB4",
+        "#B0C2DB"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 13.21,
+      "brand_override_flag": false,
+      "grid_component_placement": "Clean modular 2×2 KPI + trend layout; cool neutral surface hierarchy separates panels via #CBD3DB tint",
+      "focal_highlight_mechanics": "#CBD3DB surface separation without box borders; #17A2B8 metric highlights"
+    },
+    {
+      "id": "CORP-11",
+      "name": "IBM Carbon Daylight",
+      "category": "CORP",
+      "sub_mood": "Open Enterprise & Systems Architecture",
+      "reference_benchmark": "IBM Carbon White & Gray 10 System",
+      "reference_urls": [
+        "https://www.carbondesignsystem.com/building-blocks/foundations/color"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F4F4F4",
+        "primary_30": "#161616",
+        "accent_10": "#0F62FE",
+        "ink": "#161616",
+        "muted_ink": "#6F6F6F",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "IBM Plex Sans",
+        "body": "IBM Plex Mono",
+        "mono": "IBM Plex Mono",
+        "win_native_major": "Neue Haas Grotesk Text Pro",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#161616",
+        "#0F62FE",
+        "#393939",
+        "#525252",
+        "#6F6F6F",
+        "#8D8D8D"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 12.93,
+      "brand_override_flag": false,
+      "grid_component_placement": "Alternating #FFFFFF / #F4F4F4 surface-layering model; sharp 0px corners; strict 8px grid",
+      "focal_highlight_mechanics": "#0F62FE solely for focal data series, active step, or primary CTA"
+    },
+    {
+      "id": "CORP-12",
+      "name": "IBM Carbon Nocturne",
+      "category": "CORP",
+      "sub_mood": "Executive Auditorium & Evening Keynote",
+      "reference_benchmark": "IBM Carbon Gray 100/90 & Dark Minimalist",
+      "reference_urls": [
+        "https://www.carbondesignsystem.com/building-blocks/foundations/color"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#161616",
+        "surface": "#262626",
+        "primary_30": "#4589FF",
+        "accent_10": "#78A9FF",
+        "ink": "#F4F4F4",
+        "muted_ink": "#8D8D8D",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "IBM Plex Sans",
+        "body": "Segoe UI Variable",
+        "mono": "Cascadia Mono",
+        "win_native_major": "Segoe UI",
+        "win_native_minor": "Cascadia Mono",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "luminance_spotlight",
+      "chart_palette_6": [
+        "#4589FF",
+        "#78A9FF",
+        "#0F62FE",
+        "#0043CE",
+        "#002D9C",
+        "#001D6C"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 23.27,
+      "brand_override_flag": false,
+      "grid_component_placement": "Progressive dark-mode elevation (#161616 base → #262626 Layer 1 → #393939 Layer 2)",
+      "focal_highlight_mechanics": "#4589FF and #78A9FF eliminate halation while spotlighting core metrics"
+    },
+    {
+      "id": "CORP-13",
+      "name": "M&A Monochrome & Red",
+      "category": "CORP",
+      "sub_mood": "Due Diligence, Mergers & Acquisition",
+      "reference_benchmark": "SlidesCarnival Corporate M&A",
+      "reference_urls": [
+        "https://www.slidescarnival.com/tag/business"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F0F0F0",
+        "primary_30": "#1E1E1E",
+        "accent_10": "#D7263D",
+        "ink": "#1E1E1E",
+        "muted_ink": "#666666",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Schibsted Grotesk",
+        "body": "Public Sans",
+        "mono": "Consolas",
+        "win_native_major": "Franklin Gothic Medium",
+        "win_native_minor": "Verdana",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "luminance_spotlight",
+      "chart_palette_6": [
+        "#1E1E1E",
+        "#D7263D",
+        "#484848",
+        "#747474",
+        "#A2A2A2",
+        "#D1D1D1"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 10.07,
+      "brand_override_flag": true,
+      "grid_component_placement": "High-contrast deal-book tables; zebra-free horizontal hairlines",
+      "focal_highlight_mechanics": "#D7263D spotlighting exclusively on synergy totals or deal risks",
+      "brand_override_justification": "Canonical institutional benchmark: SlidesCarnival Corporate M&A (Delta E = 10.07 from Tailwind Red-500 (RAG Semantic Slop))"
+    },
+    {
+      "id": "CORP-14",
+      "name": "Consulting Teal & Ochre",
+      "category": "CORP",
+      "sub_mood": "Management Toolkit & Restructuring",
+      "reference_benchmark": "Formato & Master The Toolkit",
+      "reference_urls": [
+        "https://www.getformato.com/post/top-5-free-consulting-grade-powerpoint-templates-to-elevate-your-presentations-1-000-slides"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F4F8F7",
+        "surface": "#CFE0DD",
+        "primary_30": "#164E4B",
+        "accent_10": "#E9B44C",
+        "ink": "#22333B",
+        "muted_ink": "#5A7371",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Manrope",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Candara",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#164E4B",
+        "#E9B44C",
+        "#2B6E6A",
+        "#48918D",
+        "#6DB7B3",
+        "#98D6D2"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 11.59,
+      "brand_override_flag": true,
+      "grid_component_placement": "Three-pillar issue-tree architecture with muted #CFE0DD header bands and #164E4B bold metrics",
+      "focal_highlight_mechanics": "#E9B44C reserved for focus callout badges and winning hypothesis",
+      "brand_override_justification": "Canonical institutional benchmark: Formato & Master The Toolkit (Delta E = 11.59 from Tailwind Emerald-900 (Emerald Fallback))"
+    },
+    {
+      "id": "CORP-15",
+      "name": "Risk Advisory Steel & Tangerine",
+      "category": "CORP",
+      "sub_mood": "Risk Governance & Audit Preparedness",
+      "reference_benchmark": "SlideModel Uncertainty Ahead & Gray-Orange",
+      "reference_urls": [
+        "https://slidemodel.com/templates/uncertainty-ahead-powerpoint-template/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F2F2F2",
+        "primary_30": "#595959",
+        "accent_10": "#F28C28",
+        "ink": "#262626",
+        "muted_ink": "#767676",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Oswald",
+        "body": "Lato",
+        "mono": "Consolas",
+        "win_native_major": "Agency FB",
+        "win_native_minor": "Trebuchet MS",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#595959",
+        "#F28C28",
+        "#7A7A7A",
+        "#9C9C9C",
+        "#C0C0C0",
+        "#E4E4E4"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "monochrome_blue_ladder_with_single_callout",
+      "slop_delta_e_min": 14.06,
+      "brand_override_flag": false,
+      "grid_component_placement": "Geographic risk map + structured callout matrix; neutral steel context",
+      "focal_highlight_mechanics": "Single #F28C28 vector marker isolates critical exposure zones"
+    }
+  ]
+}

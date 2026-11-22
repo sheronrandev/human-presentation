@@ -1,0 +1,1089 @@
+{
+  "category": "TRAV",
+  "count": 15,
+  "systems": [
+    {
+      "id": "TRAV-01",
+      "name": "Riviera Blue & Warm Sand",
+      "category": "TRAV",
+      "sub_mood": "Mediterranean Luxury Resort & Yacht Charter",
+      "reference_benchmark": "Riviera Blue & Envato Hoteluxe",
+      "reference_urls": [
+        "https://paletadecolores.org/en/luxury-color-palettes/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FAF7F0",
+        "surface": "#E8DCC4",
+        "primary_30": "#142B44",
+        "accent_10": "#C9A24B",
+        "ink": "#142B44",
+        "muted_ink": "#56687D",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Lato",
+        "mono": "Consolas",
+        "win_native_major": "Garamond",
+        "win_native_minor": "Avenir Next LT Pro",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#142B44",
+        "#C9A24B",
+        "#27486E",
+        "#DEBE73",
+        "#436996",
+        "#E8DCC4"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 10.42,
+      "brand_override_flag": true,
+      "grid_component_placement": "Coastal luxury resort deck; edge-to-edge Mediterranean architectural shots framed by #FAF7F0 ivory bands",
+      "focal_highlight_mechanics": "#142B44 itinerary timetables with gold badges",
+      "brand_override_justification": "Canonical institutional benchmark: Riviera Blue & Envato Hoteluxe (Delta E = 10.42 from Tailwind Slate-900 (Cold Slop Ink))"
+    },
+    {
+      "id": "TRAV-02",
+      "name": "Gilded Emerald Grand Hotel",
+      "category": "TRAV",
+      "sub_mood": "Five-Star Historic Palace, Concierge & Heritage Hospitality",
+      "reference_benchmark": "Art Deco Gilded Emerald & Hallington",
+      "reference_urls": [
+        "https://www.media.io/color-palette/art-deco-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#0B3D2E",
+        "surface": "#111217",
+        "primary_30": "#1F6F5B",
+        "accent_10": "#D4AF37",
+        "ink": "#F3E9D2",
+        "muted_ink": "#96A69F",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Marcellus",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Perpetua Titling MT",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1F6F5B",
+        "#D4AF37",
+        "#F3E9D2",
+        "#2B947A",
+        "#E4C768",
+        "#0B3D2E"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 13.41,
+      "brand_override_flag": false,
+      "grid_component_placement": "Five-star flagship hospitality deck; opulent #0B3D2E emerald ground with #D4AF37 gold (5.80:1 AA)",
+      "focal_highlight_mechanics": "Rationed to crests, rates, and divider lines"
+    },
+    {
+      "id": "TRAV-03",
+      "name": "Santorini Aegean Indigo",
+      "category": "TRAV",
+      "sub_mood": "Cycladic Island Villa, Aegean Cruise & Whitewashed Retreat",
+      "reference_benchmark": "White & Indigo & Envato Coastravel",
+      "reference_urls": [
+        "https://paletadecolores.org/en/mediterranean-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F2F4F7",
+        "primary_30": "#1F4E9E",
+        "accent_10": "#E0C38C",
+        "ink": "#153A7A",
+        "muted_ink": "#5D7399",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1F4E9E",
+        "#E0C38C",
+        "#153A7A",
+        "#3A6BC4",
+        "#ECCFA0",
+        "#7399E0"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 34.42,
+      "brand_override_flag": false,
+      "grid_component_placement": "Sunlit Greek-island tourism pitch; stark #FFFFFF whitewash ground maximizes photographic brilliance",
+      "focal_highlight_mechanics": "#1F4E9E cobalt frames route maps and destination stats"
+    },
+    {
+      "id": "TRAV-04",
+      "name": "Amalfi Sunlit Terracotta",
+      "category": "TRAV",
+      "sub_mood": "Cliffside Boutique Hotel, Lemon Groves & Italian Riviera",
+      "reference_benchmark": "Amalfi Coast & Envato Mentari Hotel",
+      "reference_urls": [
+        "https://paletadecolores.org/en/mediterranean-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FFF6EA",
+        "surface": "#F7C59F",
+        "primary_30": "#3E8EB8",
+        "accent_10": "#E87A5D",
+        "ink": "#2B3A55",
+        "muted_ink": "#616F85",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Lora",
+        "body": "Montserrat",
+        "mono": "Consolas",
+        "win_native_major": "Book Antiqua",
+        "win_native_minor": "Century Gothic",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#3E8EB8",
+        "#E87A5D",
+        "#2B3A55",
+        "#F2D16B",
+        "#5FA8CE",
+        "#EF9C86"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 16.99,
+      "brand_override_flag": false,
+      "grid_component_placement": "Warm Italian coastal hospitality deck; #3E8EB8 sea blue balances #E87A5D sun-warmed facades",
+      "focal_highlight_mechanics": "#F2D16B lemon tags highlight curated seasonal excursions"
+    },
+    {
+      "id": "TRAV-05",
+      "name": "Palm Court Tropical Luxe",
+      "category": "TRAV",
+      "sub_mood": "Colonial Caribbean Resort, Plantation Villa & Rum Bar",
+      "reference_benchmark": "Art Deco Palm Court & Envato Beatour",
+      "reference_urls": [
+        "https://www.media.io/color-palette/art-deco-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F5E9D7",
+        "surface": "#EFE6D2",
+        "primary_30": "#0F3A2D",
+        "accent_10": "#D9B45A",
+        "ink": "#4A3A2A",
+        "muted_ink": "#786858",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "DM Serif Display",
+        "body": "Nunito Sans",
+        "mono": "Consolas",
+        "win_native_major": "Calisto MT",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#0F3A2D",
+        "#D9B45A",
+        "#4A3A2A",
+        "#1D5C49",
+        "#E5C87E",
+        "#2E7D65"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 10.72,
+      "brand_override_flag": true,
+      "grid_component_placement": "Breezy resort & island-property showcase; large clean #0F3A2D botanical blocks keep layouts effortless rather than busy",
+      "focal_highlight_mechanics": "Warm #4A3A2A espresso body copy",
+      "brand_override_justification": "Canonical institutional benchmark: Art Deco Palm Court & Envato Beatour (Delta E = 10.72 from Tailwind Emerald-900 (Emerald Fallback))"
+    },
+    {
+      "id": "TRAV-06",
+      "name": "Mint Marquetry Wellness Spa",
+      "category": "TRAV",
+      "sub_mood": "Thermal Springs, Japanese Onsen & Ayurvedic Retreat",
+      "reference_benchmark": "Art Deco Mint Marquetry & Luxiana Spa",
+      "reference_urls": [
+        "https://www.media.io/color-palette/art-deco-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F6F1E7",
+        "surface": "#E6D1A6",
+        "primary_30": "#0E3B3A",
+        "accent_10": "#7FB7A5",
+        "ink": "#2A2B2F",
+        "muted_ink": "#666870",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Prata",
+        "body": "Mulish",
+        "mono": "Consolas",
+        "win_native_major": "Constantia",
+        "win_native_minor": "Candara",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#0E3B3A",
+        "#7FB7A5",
+        "#2A2B2F",
+        "#1D5C5B",
+        "#A4CCC0",
+        "#E6D1A6"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 15.78,
+      "brand_override_flag": false,
+      "grid_component_placement": "Restful boutique spa & retreat pitch; #0E3B3A darkest teal reserved strictly for typography and navigation",
+      "focal_highlight_mechanics": "Creamy #F6F1E7 and soft mint calm the eye"
+    },
+    {
+      "id": "TRAV-07",
+      "name": "Obsidian Teal Sanctuary",
+      "category": "TRAV",
+      "sub_mood": "Nordic Thermal Bath, Night Spa & Subterranean Wellness",
+      "reference_benchmark": "Obsidian Teal & Serene Escape Spa",
+      "reference_urls": [
+        "https://paletadecolores.org/en/luxury-color-palettes/"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#0B1416",
+        "surface": "#0E4D4D",
+        "primary_30": "#4C9A8A",
+        "accent_10": "#B87333",
+        "ink": "#D6E8E1",
+        "muted_ink": "#85A39A",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Garamond",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#4C9A8A",
+        "#B87333",
+        "#0E4D4D",
+        "#D6E8E1",
+        "#68B8A8",
+        "#D99352"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 21.69,
+      "brand_override_flag": false,
+      "grid_component_placement": "Night-spa, thermal bath, and luxury wellness retreat deck; moody #0B1416 immersion",
+      "focal_highlight_mechanics": "Burnished #B87333 copper accents and #D6E8E1 sea-mist text"
+    },
+    {
+      "id": "TRAV-08",
+      "name": "Sand & Ocean Coastal Guide",
+      "category": "TRAV",
+      "sub_mood": "Maritime Expeditions, Coastal Tourism & Sail Charters",
+      "reference_benchmark": "Sand & Ocean & Ocean Breeze",
+      "reference_urls": [
+        "https://paletadecolores.org/en/beach-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FBF6EC",
+        "surface": "#E8D7B9",
+        "primary_30": "#1D4E66",
+        "accent_10": "#2A8FB0",
+        "ink": "#1D4E66",
+        "muted_ink": "#58788A",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Merriweather",
+        "body": "Open Sans",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Trebuchet MS",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1D4E66",
+        "#2A8FB0",
+        "#366E8C",
+        "#4BB2D4",
+        "#5B92B0",
+        "#84CAE3"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 26.08,
+      "brand_override_flag": false,
+      "grid_component_placement": "Destination marketing & maritime itinerary deck; wide #FBF6EC sand canvas lets azure coastal panoramas breathe",
+      "focal_highlight_mechanics": "Clean horizontal day-by-day route strips"
+    },
+    {
+      "id": "TRAV-09",
+      "name": "Alpine Trekking Expedition",
+      "category": "TRAV",
+      "sub_mood": "Backcountry Skiing, High-Altitude Mountaineering & Eco-Lodges",
+      "reference_benchmark": "Trekking Gear & Envato Tripcamp",
+      "reference_urls": [
+        "https://paletadecolores.org/en/mountain-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F2F2F0",
+        "surface": "#E6ECEA",
+        "primary_30": "#2E86AB",
+        "accent_10": "#FF6B35",
+        "ink": "#3A3A3A",
+        "muted_ink": "#6E6E6E",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Oswald",
+        "body": "Lato",
+        "mono": "Consolas",
+        "win_native_major": "Franklin Gothic Medium",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2E86AB",
+        "#FF6B35",
+        "#3A3A3A",
+        "#4CA2C7",
+        "#FF8D61",
+        "#A3B18A"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 22.2,
+      "brand_override_flag": false,
+      "grid_component_placement": "Outdoor adventure & gear brand deck; stone-neutral #F2F2F0 and #A3B18A moss frame rugged alpine photography",
+      "focal_highlight_mechanics": "Safety-orange #FF6B35 calls out elevation/route data"
+    },
+    {
+      "id": "TRAV-10",
+      "name": "Blue Hour Summit Luxe",
+      "category": "TRAV",
+      "sub_mood": "Glacier Chalet, Nordic Stargazing & High-Altitude Fine Dining",
+      "reference_benchmark": "Blue Hour & Travel Adventure",
+      "reference_urls": [
+        "https://paletadecolores.org/en/mountain-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#1A2238",
+        "surface": "#3B4A6B",
+        "primary_30": "#7D8CB3",
+        "accent_10": "#E8C1A0",
+        "ink": "#F6EFE6",
+        "muted_ink": "#9EA8C2",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Plus Jakarta Sans",
+        "mono": "Consolas",
+        "win_native_major": "Palatino Linotype",
+        "win_native_minor": "Avenir Next LT Pro",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#7D8CB3",
+        "#E8C1A0",
+        "#3B4A6B",
+        "#F6EFE6",
+        "#9EACE0",
+        "#F0D3BC"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 27.62,
+      "brand_override_flag": false,
+      "grid_component_placement": "Ski chalet, glacier expedition, and evening mountain lodge deck; twilight #1A2238 blue",
+      "focal_highlight_mechanics": "Warm #E8C1A0 alpenglow peach highlights"
+    },
+    {
+      "id": "TRAV-11",
+      "name": "Grill Charcoal & Embers",
+      "category": "TRAV",
+      "sub_mood": "Steakhouse, Wood-Fired Craft Kitchen & Smokehouse Pitch",
+      "reference_benchmark": "Grill Charcoal & Envato GRILLMORE",
+      "reference_urls": [
+        "https://paletadecolores.org/en/restaurant-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#1A1716",
+        "surface": "#3A3330",
+        "primary_30": "#D9480F",
+        "accent_10": "#A47551",
+        "ink": "#E8DCCB",
+        "muted_ink": "#9C9184",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Bebas Neue",
+        "body": "Merriweather",
+        "mono": "Consolas",
+        "win_native_major": "Impact",
+        "win_native_minor": "Georgia",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#D9480F",
+        "#A47551",
+        "#E8DCCB",
+        "#F76707",
+        "#BA8E6B",
+        "#5C2003"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 22.11,
+      "brand_override_flag": false,
+      "grid_component_placement": "Steakhouse, culinary concept, and craft-spirits investor deck; smoky #1A1716 backdrop",
+      "focal_highlight_mechanics": "Makes overhead warm-lit dish photography (2700–3000K) leap off the screen; #D9480F ember hits"
+    },
+    {
+      "id": "TRAV-12",
+      "name": "Japanese Izakaya Vermilion",
+      "category": "TRAV",
+      "sub_mood": "Omakase Counter, Tokyo Street Food & Artisanal Sake Bar",
+      "reference_benchmark": "Japanese Culinary & Asians Food",
+      "reference_urls": [
+        "https://paletadecolores.org/en/restaurant-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F5EFE3",
+        "surface": "#E3D5BC",
+        "primary_30": "#141414",
+        "accent_10": "#C1272D",
+        "ink": "#141414",
+        "muted_ink": "#635F57",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Noto Serif",
+        "body": "Noto Sans",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#141414",
+        "#C1272D",
+        "#3B3B3B",
+        "#DE3C42",
+        "#666666",
+        "#E3D5BC"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 13.72,
+      "brand_override_flag": false,
+      "grid_component_placement": "Sushi, ramen, and Nikkei restaurant brand pitch; restrained zen minimalism on #F5EFE3 rice paper",
+      "focal_highlight_mechanics": "Punctuated by a single #C1272D hanko-seal vermilion stamp"
+    },
+    {
+      "id": "TRAV-13",
+      "name": "Bistro Wood & Bottle Green",
+      "category": "TRAV",
+      "sub_mood": "French Bistro, Natural Wine Bar & Artisanal Charcuterie",
+      "reference_benchmark": "Bistro Bottle Green & Baratie's",
+      "reference_urls": [
+        "https://paletadecolores.org/en/restaurant-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F4ECE0",
+        "surface": "#C9A27E",
+        "primary_30": "#1F4D3A",
+        "accent_10": "#8B5E3C",
+        "ink": "#13281F",
+        "muted_ink": "#5A6E64",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Vollkorn",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Bookman Old Style",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1F4D3A",
+        "#8B5E3C",
+        "#316B53",
+        "#A87650",
+        "#4B8F72",
+        "#C9A27E"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 4.93,
+      "brand_override_flag": true,
+      "grid_component_placement": "Neighborhood brasserie, winery, and hospitality franchise deck; cozy #1F4D3A dark bottle green",
+      "focal_highlight_mechanics": "#8B5E3C walnut wood encourage lingering storytelling",
+      "brand_override_justification": "Canonical institutional benchmark: Bistro Bottle Green & Baratie's (Delta E = 4.93 from Tailwind Emerald-900 (Emerald Fallback))"
+    },
+    {
+      "id": "TRAV-14",
+      "name": "Espresso Caramel Roastery",
+      "category": "TRAV",
+      "sub_mood": "Third-Wave Coffee, Artisanal Bakery & Bean Sourcing",
+      "reference_benchmark": "Espresso Caramel & Coffee Shop Plan",
+      "reference_urls": [
+        "https://paletadecolores.org/en/luxury-color-palettes/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F5ECDD",
+        "surface": "#D9BFA0",
+        "primary_30": "#2B1B14",
+        "accent_10": "#C68E57",
+        "ink": "#2B1B14",
+        "muted_ink": "#695A52",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Lora",
+        "body": "Karla",
+        "mono": "Consolas",
+        "win_native_major": "Book Antiqua",
+        "win_native_minor": "Candara",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#2B1B14",
+        "#C68E57",
+        "#52372B",
+        "#DCAB79",
+        "#7D5847",
+        "#D9BFA0"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 22.61,
+      "brand_override_flag": false,
+      "grid_component_placement": "Artisanal café, bakery, and specialty-beverage pitch; deep #2B1B14 roast ink on steamed-milk #F5ECDD canvas",
+      "focal_highlight_mechanics": "Caramel tasting-note wheels; #C68E57 badges"
+    },
+    {
+      "id": "TRAV-15",
+      "name": "Matcha Organic Culinary",
+      "category": "TRAV",
+      "sub_mood": "Ceremonial Tea House, Plant-Based Café & Superfood Lab",
+      "reference_benchmark": "Matcha & Envato NATURA Healthy Food",
+      "reference_urls": [
+        "https://paletadecolores.org/en/aesthetic-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F4F6EE",
+        "surface": "#DCE5C8",
+        "primary_30": "#4F6B3A",
+        "accent_10": "#87A96B",
+        "ink": "#2E332D",
+        "muted_ink": "#636B61",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Alegreya",
+        "body": "Mulish",
+        "mono": "Consolas",
+        "win_native_major": "Constantia",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#4F6B3A",
+        "#87A96B",
+        "#384E29",
+        "#A5C789",
+        "#6A8C52",
+        "#DCE5C8"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 23.55,
+      "brand_override_flag": false,
+      "grid_component_placement": "Plant-based foodtech, organic wellness, and nutrition deck; crisp leafy greens signal freshness",
+      "focal_highlight_mechanics": "Avoids glaring neon #22C55E AI success badges"
+    }
+  ]
+}

@@ -1,0 +1,1090 @@
+{
+  "category": "CREA",
+  "count": 15,
+  "systems": [
+    {
+      "id": "CREA-01",
+      "name": "Crimson-Cream Editorial",
+      "category": "CREA",
+      "sub_mood": "Editorial Fashion, Author Showcase & Personal Creative Identity",
+      "reference_benchmark": "Uploaded Showcase #1 (Joanne Alexander)",
+      "reference_urls": [
+        "https://elements.envato.com/learn/best-creative-powerpoint-templates"
+      ],
+      "polarity": "sandwich_bookend",
+      "tokens": {
+        "bg_60": "#F6F2EA",
+        "surface": "#981B1E",
+        "primary_30": "#981B1E",
+        "accent_10": "#6F1114",
+        "ink": "#231F20",
+        "muted_ink": "#6E6869",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Anton + Sacramento",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Impact + Gabriola",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "cutout_z_overlap",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#981B1E",
+        "#6F1114",
+        "#BC3236",
+        "#450A0C",
+        "#D9575A",
+        "#231F20"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 17.17,
+      "brand_override_flag": false,
+      "grid_component_placement": "Foreground portrait cutout layered in front of oversized condensed display headlines",
+      "focal_highlight_mechanics": "Delicate calligraphic script micro-modifiers; Polaroid & asymmetric photo mosaics"
+    },
+    {
+      "id": "CREA-02",
+      "name": "Lemonade Marigold-Charcoal",
+      "category": "CREA",
+      "sub_mood": "Avant-Garde Agency, Photography Portfolio & Industrial Bold",
+      "reference_benchmark": "Uploaded Showcase #2 & Envato aqrstudio",
+      "reference_urls": [
+        "https://elements.envato.com/learn/best-creative-powerpoint-templates"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#1D1E20",
+        "surface": "#2C2D30",
+        "primary_30": "#F7B500",
+        "accent_10": "#FFFFFF",
+        "ink": "#F5F5F5",
+        "muted_ink": "#9A9DA3",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Montserrat",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Century Gothic",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Brutalist asymmetric 35/65 and 50/50 color-block grid",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#F7B500",
+        "#FFFFFF",
+        "#FFC72C",
+        "#CCCCCC",
+        "#C99400",
+        "#8A8D94"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 3.49,
+      "brand_override_flag": true,
+      "grid_component_placement": "Brutalist 50/50 & 35/65 marigold-versus-charcoal color blocks; cross-boundary title plaques",
+      "focal_highlight_mechanics": "Strictly curated B&W + matching yellow photography; 1px wireframe corner frames",
+      "brand_override_justification": "Canonical institutional benchmark: Uploaded Showcase #2 & Envato aqrstudio (Delta E = 3.49 from Claude Warm Cream Signature Tell (Second-Wave Slop))"
+    },
+    {
+      "id": "CREA-03",
+      "name": "Grafitte Obsidian-Mint",
+      "category": "CREA",
+      "sub_mood": "Streetwear Culture, Urban Art Gallery & Experimental Digital",
+      "reference_benchmark": "Uploaded Showcase #6 & Envato Mahalo",
+      "reference_urls": [
+        "https://elements.envato.com/learn/best-creative-powerpoint-templates"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#121514",
+        "surface": "#1D2220",
+        "primary_30": "#1BF2A2",
+        "accent_10": "#F4F6F5",
+        "ink": "#F4F6F5",
+        "muted_ink": "#9AA39F",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Bebas Neue",
+        "body": "DM Sans",
+        "mono": "Consolas",
+        "win_native_major": "Agency FB / Impact",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "narrative_micro_motif",
+      "chart_palette_6": [
+        "#1BF2A2",
+        "#F4F6F5",
+        "#14B87B",
+        "#B8BEBA",
+        "#0E7A52",
+        "#9AA39F"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 1.47,
+      "brand_override_flag": true,
+      "grid_component_placement": "Subversive classical-versus-modern cover hook; bicolor split condensed headings",
+      "focal_highlight_mechanics": "Rotated diamond photo grids and #1BF2A2 + crosshair overlays over B&W art",
+      "brand_override_justification": "Canonical institutional benchmark: Uploaded Showcase #6 & Envato Mahalo (Delta E = 1.47 from Claude Warm Cream Signature Tell (Second-Wave Slop))"
+    },
+    {
+      "id": "CREA-04",
+      "name": "Bauhaus Constructivist Triad",
+      "category": "CREA",
+      "sub_mood": "Constructivist Geometric, Art Direction & Heritage Craft",
+      "reference_benchmark": "Bauhaus Workshop System (Itten Triad)",
+      "reference_urls": [
+        "https://hueatlas.com/color-palettes/bauhaus-color-palette/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F5F2E8",
+        "surface": "#E6E2DC",
+        "primary_30": "#1E3878",
+        "accent_10": "#C8302A",
+        "ink": "#1A1A18",
+        "muted_ink": "#666461",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "League Spartan",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Futura / Century Gothic",
+        "win_native_minor": "Abadi",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1E3878",
+        "#C8302A",
+        "#E8C018",
+        "#3B58A0",
+        "#DE4F49",
+        "#F2D34E"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 11.78,
+      "brand_override_flag": true,
+      "grid_component_placement": "Disciplined geometric grids on rag-paper #F5F2E8",
+      "focal_highlight_mechanics": "Primaries (#C8302A, #E8C018, #1E3878) never used in equal proportion—one dominates while others punctuate",
+      "brand_override_justification": "Canonical institutional benchmark: Bauhaus Workshop System (Itten Triad) (Delta E = 11.78 from Tailwind Red-500 (RAG Semantic Slop))"
+    },
+    {
+      "id": "CREA-05",
+      "name": "Kandinsky Spatial Push-Pull",
+      "category": "CREA",
+      "sub_mood": "Abstract Expressionist, Curatorial Pitch & Fine Arts",
+      "reference_benchmark": "Kandinsky Color-Form Spatial System",
+      "reference_urls": [
+        "https://hueatlas.com/color-palettes/kandinsky-color-palette/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FFF5EE",
+        "surface": "#F5F0E8",
+        "primary_30": "#1E488F",
+        "accent_10": "#FEC615",
+        "ink": "#1A1A18",
+        "muted_ink": "#6E6B66",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Clash Display",
+        "body": "Epilogue",
+        "mono": "Consolas",
+        "win_native_major": "Franklin Gothic Medium",
+        "win_native_minor": "Candara",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1E488F",
+        "#FEC615",
+        "#DC143C",
+        "#3C6CBF",
+        "#FFD752",
+        "#E84364"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 21.01,
+      "brand_override_flag": false,
+      "grid_component_placement": "Spatial contrast pairing one receding #1E488F cobalt circular/depth zone with one advancing #FEC615 yellow zone",
+      "focal_highlight_mechanics": "#DC143C red rationed to a single focal square"
+    },
+    {
+      "id": "CREA-06",
+      "name": "Risograph Mint-Chip Zine",
+      "category": "CREA",
+      "sub_mood": "Indie Publishing, Screenprint Studio & Tactile Editorial",
+      "reference_benchmark": "Risograph Mint Chip Print System",
+      "reference_urls": [
+        "https://www.scribd.com/document/1061827575/Risograph-Color-Palettes-Book"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F6F2EA",
+        "surface": "#FFFFFF",
+        "primary_30": "#171717",
+        "accent_10": "#FFAE3B",
+        "ink": "#171717",
+        "muted_ink": "#616161",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Bricolage Grotesque",
+        "body": "DM Mono",
+        "mono": "DM Mono",
+        "win_native_major": "Cooper Black",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#171717",
+        "#FFAE3B",
+        "#62C2B1",
+        "#4A4A4A",
+        "#FFC570",
+        "#8FE0D1"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 10.01,
+      "brand_override_flag": true,
+      "grid_component_placement": "Tactile zine aesthetic pairing playful #FFAE3B and #62C2B1 overprint blocks",
+      "focal_highlight_mechanics": "Grounded by intense #171717 ink and halftone-style photo framing",
+      "brand_override_justification": "Canonical institutional benchmark: Risograph Mint Chip Print System (Delta E = 10.01 from Tailwind Amber-500 (RAG Semantic Slop))"
+    },
+    {
+      "id": "CREA-07",
+      "name": "Risograph Orange Crush Studio",
+      "category": "CREA",
+      "sub_mood": "Graphic Design Studio, Festival Identity & Print Portfolio",
+      "reference_benchmark": "Risograph Orange Crush & Orange Touch",
+      "reference_urls": [
+        "https://www.scribd.com/document/1061827575/Risograph-Color-Palettes-Book"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FAF8F5",
+        "surface": "#F0EEEA",
+        "primary_30": "#0078BF",
+        "accent_10": "#FF6C2F",
+        "ink": "#1A1A1A",
+        "muted_ink": "#636363",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Clash Display",
+        "body": "Archivo",
+        "mono": "Consolas",
+        "win_native_major": "News Gothic MT",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#0078BF",
+        "#FF6C2F",
+        "#2A9EE0",
+        "#FF8F5E",
+        "#60BAF0",
+        "#FFB694"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 24.75,
+      "brand_override_flag": false,
+      "grid_component_placement": "High-tension complementary print duo (#0078BF cyan-blue + #FF6C2F fluorescent orange)",
+      "focal_highlight_mechanics": "Asymmetric split case-study spreads with oversized section numerals"
+    },
+    {
+      "id": "CREA-08",
+      "name": "Risograph Jelly Sandwich Pop",
+      "category": "CREA",
+      "sub_mood": "Brand Identity Agency, Packaging Case Study & Digital Pop",
+      "reference_benchmark": "Risograph Jelly Sandwich & Dribbble Swipee",
+      "reference_urls": [
+        "https://www.scribd.com/document/1061827575/Risograph-Color-Palettes-Book"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F5F5F5",
+        "primary_30": "#3255A4",
+        "accent_10": "#FF48B0",
+        "ink": "#1A1A1A",
+        "muted_ink": "#616161",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Syne Bold",
+        "body": "Plus Jakarta Sans",
+        "mono": "Consolas",
+        "win_native_major": "Berlin Sans FB",
+        "win_native_minor": "Avenir Next LT Pro",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#3255A4",
+        "#FF48B0",
+        "#4B72C9",
+        "#FF75C4",
+        "#7093E0",
+        "#FFA6DB"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 36.23,
+      "brand_override_flag": false,
+      "grid_component_placement": "Bold agency credentials deck; tonal ranges of #3255A4 medium blue carry structure",
+      "focal_highlight_mechanics": "#FF48B0 fluorescent pink punctures key client wins"
+    },
+    {
+      "id": "CREA-09",
+      "name": "Oxford Innovative Acid-Magenta",
+      "category": "CREA",
+      "sub_mood": "Experimental Sound, Interactive Multimedia & Arts Festival",
+      "reference_benchmark": "University of Oxford Innovative Pack",
+      "reference_urls": [
+        "https://oxford-ihtm.io/oxthema/articles/oxthema.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F2F0F0",
+        "surface": "#D4CDF4",
+        "primary_30": "#15616D",
+        "accent_10": "#E6007E",
+        "ink": "#211D1C",
+        "muted_ink": "#5F5D5C",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Phudu / Oswald",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Agency FB",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#15616D",
+        "#E6007E",
+        "#65E5AE",
+        "#F7EF66",
+        "#298291",
+        "#FF339E"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 22.16,
+      "brand_override_flag": false,
+      "grid_component_placement": "Experimental festival/innovation studio deck pairing #15616D viridian anchors with #E6007E vivid magenta highlights",
+      "focal_highlight_mechanics": "#65E5AE / #F7EF66 graphic shapes provide structural accents"
+    },
+    {
+      "id": "CREA-10",
+      "name": "Celebratory Viridian & Ochre",
+      "category": "CREA",
+      "sub_mood": "Museum Biennial, Cultural Retrospective & Monograph",
+      "reference_benchmark": "University of Oxford Celebratory Pack",
+      "reference_urls": [
+        "https://oxford-ihtm.io/oxthema/articles/oxthema.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F2F0F0",
+        "surface": "#E4F0EF",
+        "primary_30": "#7F055F",
+        "accent_10": "#E2C044",
+        "ink": "#211D1C",
+        "muted_ink": "#615E5D",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Noto Serif Display",
+        "body": "Montserrat",
+        "mono": "Consolas",
+        "win_native_major": "Bodoni MT",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#7F055F",
+        "#E2C044",
+        "#15616D",
+        "#A3167D",
+        "#EBD171",
+        "#248A9C"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 27.6,
+      "brand_override_flag": false,
+      "grid_component_placement": "Culturally rich exhibition/rebrand showcase balancing #7F055F plum and #15616D viridian anchors",
+      "focal_highlight_mechanics": "#E2C044 ochre awards callouts"
+    },
+    {
+      "id": "CREA-11",
+      "name": "Cyberpunk Motion Showreel",
+      "category": "CREA",
+      "sub_mood": "3D Animation, Game Cinematics & Generative VFX Studio",
+      "reference_benchmark": "Cyberpunk Night & 3D Motion Pitch",
+      "reference_urls": [
+        "https://paletadecolores.org/en/neon-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#0D0221",
+        "surface": "#1A0B2E",
+        "primary_30": "#05D9E8",
+        "accent_10": "#FF2A6D",
+        "ink": "#D1F7FF",
+        "muted_ink": "#7D6C96",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Space Mono",
+        "body": "Urbanist",
+        "mono": "Consolas",
+        "win_native_major": "Eurostile",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#05D9E8",
+        "#FF2A6D",
+        "#D1F7FF",
+        "#0196A3",
+        "#C70043",
+        "#6100FF"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 25.89,
+      "brand_override_flag": false,
+      "grid_component_placement": "Motion-design/VFX reel pitch; deep #0D0221 dark void frames video stills",
+      "focal_highlight_mechanics": "#05D9E8 and #FF2A6D remain strictly limited to thin HUD frames and titles (never long prose)"
+    },
+    {
+      "id": "CREA-12",
+      "name": "Electric Lime Street Studio",
+      "category": "CREA",
+      "sub_mood": "Sneaker Culture, Skate Brand & Street Fashion Agency",
+      "reference_benchmark": "Electric Lime & Black Lime Minimalist",
+      "reference_urls": [
+        "https://paletadecolores.org/en/neon-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#121212",
+        "surface": "#1E1E1E",
+        "primary_30": "#CCFF00",
+        "accent_10": "#00B4D8",
+        "ink": "#FFFFFF",
+        "muted_ink": "#858585",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Archivo Black",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Arial Black",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "full_bleed_scrimmed",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#CCFF00",
+        "#00B4D8",
+        "#FFFFFF",
+        "#99BF00",
+        "#00829C",
+        "#666666"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 49.08,
+      "brand_override_flag": false,
+      "grid_component_placement": "Sports, gaming, and streetwear agency deck; stark high-velocity #CCFF00 lime accents over matte charcoal grids",
+      "focal_highlight_mechanics": "Angled full-bleed motion photography"
+    },
+    {
+      "id": "CREA-13",
+      "name": "Caramel & Wine Indie Agency",
+      "category": "CREA",
+      "sub_mood": "Slow Living, Independent Publishing & Ceramic Arts",
+      "reference_benchmark": "Risograph Caramel Crunch & 70s Retro",
+      "reference_urls": [
+        "https://www.scribd.com/document/1061827575/Risograph-Color-Palettes-Book"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F3E3C3",
+        "surface": "#EFE6D2",
+        "primary_30": "#914E72",
+        "accent_10": "#E4572E",
+        "ink": "#3D2B1F",
+        "muted_ink": "#755F51",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Vollkorn",
+        "body": "Karla",
+        "mono": "Consolas",
+        "win_native_major": "Bookman Old Style",
+        "win_native_minor": "Trebuchet MS",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#914E72",
+        "#E4572E",
+        "#3D2B1F",
+        "#B56D94",
+        "#EB7C59",
+        "#704832"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 16.61,
+      "brand_override_flag": false,
+      "grid_component_placement": "Boutique creative studio narrative; warm #F3E3C3 retro paper + decadent #914E72 plum wine",
+      "focal_highlight_mechanics": "Nostalgic craft warmth without falling into AI terracotta clichés; #E4572E focal pop"
+    },
+    {
+      "id": "CREA-14",
+      "name": "Photojournalist Pure Monochrome",
+      "category": "CREA",
+      "sub_mood": "Black & White Photography, Fine Art Printing & Gallery Show",
+      "reference_benchmark": "Soft Black & White & Photojournalist",
+      "reference_urls": [
+        "https://paletadecolores.org/en/monochromatic-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F2F2F2",
+        "primary_30": "#1A1A1A",
+        "accent_10": "#4F4F4F",
+        "ink": "#1A1A1A",
+        "muted_ink": "#666666",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Bodoni Moda",
+        "body": "Clash Grotesk",
+        "mono": "Consolas",
+        "win_native_major": "Bodoni MT",
+        "win_native_minor": "Avenir Next LT Pro",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "narrative_micro_motif",
+      "chart_palette_6": [
+        "#1A1A1A",
+        "#4F4F4F",
+        "#737373",
+        "#999999",
+        "#BFBFBF",
+        "#E0E0E0"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 14.51,
+      "brand_override_flag": false,
+      "grid_component_placement": "Gallery-wall portfolio; 0% chromatic interference allows full-color documentary photography to supply 100% of the emotional spectrum",
+      "focal_highlight_mechanics": "Strict tonal step hierarchy (#1A1A1A → #4F4F4F → #8C8C8C → #CCCCCC)"
+    },
+    {
+      "id": "CREA-15",
+      "name": "Tokyo Traffic Neon-Noir Lab",
+      "category": "CREA",
+      "sub_mood": "Nightclub Architecture, Spatial Media & Urban Night Culture",
+      "reference_benchmark": "Tokyo Traffic & Envato Escuridao",
+      "reference_urls": [
+        "https://paletadecolores.org/en/neon-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#0A0E1A",
+        "surface": "#1F2430",
+        "primary_30": "#08D9D6",
+        "accent_10": "#FF2E63",
+        "ink": "#EAEAEA",
+        "muted_ink": "#7D879C",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Clash Display",
+        "body": "Epilogue",
+        "mono": "Consolas",
+        "win_native_major": "Century Gothic",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#08D9D6",
+        "#FF2E63",
+        "#252A34",
+        "#EAEAEA",
+        "#00B3B0",
+        "#D60037"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 20.07,
+      "brand_override_flag": false,
+      "grid_component_placement": "Urban night-culture & interactive agency deck; #0A0E1A midnight canvas paired with #08D9D6 cyan metadata",
+      "focal_highlight_mechanics": "#FF2E63 focal highlights and crisp #EAEAEA copy"
+    }
+  ]
+}

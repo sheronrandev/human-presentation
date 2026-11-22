@@ -1,0 +1,1088 @@
+{
+  "category": "ARCH",
+  "count": 15,
+  "systems": [
+    {
+      "id": "ARCH-01",
+      "name": "Japandi Rice Paper & Sumi",
+      "category": "ARCH",
+      "sub_mood": "Warm Architectural Minimalism & Tactile Craft",
+      "reference_benchmark": "Japandi Material System & Minimalism Interior",
+      "reference_urls": [
+        "https://hueatlas.com/color-palettes/japandi-color-palette/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F5F0E8",
+        "surface": "#D4C9B3",
+        "primary_30": "#2C2523",
+        "accent_10": "#C97A5A",
+        "ink": "#2C2523",
+        "muted_ink": "#6E6562",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Manrope",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Avenir Next LT Pro",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2C2523",
+        "#C97A5A",
+        "#524744",
+        "#DE977A",
+        "#7A6C68",
+        "#D4C9B3"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 17.92,
+      "brand_override_flag": false,
+      "grid_component_placement": "Material-honest interior/architecture portfolio (13.26:1 AAA); strictly warm-undertone neutrals",
+      "focal_highlight_mechanics": "Never cool gray; anchored by Sumi Ink and terracotta terracotta accents"
+    },
+    {
+      "id": "ARCH-02",
+      "name": "Graphite Pearl Monograph",
+      "category": "ARCH",
+      "sub_mood": "Commercial Skyscraper, Brutalist Concrete & Facade Design",
+      "reference_benchmark": "Art Deco Graphite Pearl & Envato Facade",
+      "reference_urls": [
+        "https://www.media.io/color-palette/art-deco-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F5F3EE",
+        "surface": "#BFC3C8",
+        "primary_30": "#15161B",
+        "accent_10": "#9B7D4F",
+        "ink": "#15161B",
+        "muted_ink": "#5D6069",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Julius Sans One",
+        "body": "Archivo Narrow",
+        "mono": "Consolas",
+        "win_native_major": "Century Gothic",
+        "win_native_minor": "Franklin Gothic Medium",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "narrative_micro_motif",
+      "chart_palette_6": [
+        "#15161B",
+        "#9B7D4F",
+        "#34363F",
+        "#BFA070",
+        "#585A66",
+        "#BFC3C8"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 10.7,
+      "brand_override_flag": true,
+      "grid_component_placement": "Architect studio pitch; off-white #F5F3EE plaster canvas",
+      "focal_highlight_mechanics": "Full-bleed architectural photography framed by 0.5pt #9B7D4F muted bronze separator lines",
+      "brand_override_justification": "Canonical institutional benchmark: Art Deco Graphite Pearl & Envato Facade (Delta E = 10.70 from Tailwind Slate-900 (Cold Slop Ink))"
+    },
+    {
+      "id": "ARCH-03",
+      "name": "Black Marble Luxury Estate",
+      "category": "ARCH",
+      "sub_mood": "Ultra-Prime Residential, Penthouse Brokerage & Private Islands",
+      "reference_benchmark": "Black Marble & Elegant Architecture",
+      "reference_urls": [
+        "https://paletadecolores.org/en/luxury-color-palettes/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F2F0EC",
+        "surface": "#FFFFFF",
+        "primary_30": "#111111",
+        "accent_10": "#C9A227",
+        "ink": "#111111",
+        "muted_ink": "#616161",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Bodoni Moda",
+        "body": "Montserrat",
+        "mono": "Consolas",
+        "win_native_major": "Bodoni MT",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#111111",
+        "#C9A227",
+        "#3B3B3B",
+        "#DEB843",
+        "#696969",
+        "#F2E2A8"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 14.74,
+      "brand_override_flag": false,
+      "grid_component_placement": "High-end architectural development deck; crisp black-and-white elevation renderings on marble ground",
+      "focal_highlight_mechanics": "Punctuated strictly by gold unit-pricing tags"
+    },
+    {
+      "id": "ARCH-04",
+      "name": "Sand & Charcoal Spatial",
+      "category": "ARCH",
+      "sub_mood": "Boutique Architecture Studio, Masterplanning & Urban Design",
+      "reference_benchmark": "Sand & Charcoal & GraphicRiver Archinea",
+      "reference_urls": [
+        "https://paletadecolores.org/en/minimalist-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F4F1EC",
+        "surface": "#E3DCD2",
+        "primary_30": "#2B2B2B",
+        "accent_10": "#6B6B6B",
+        "ink": "#2B2B2B",
+        "muted_ink": "#6B6B6B",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Albert Sans",
+        "body": "DM Sans",
+        "mono": "Consolas",
+        "win_native_major": "Abadi",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2B2B2B",
+        "#6B6B6B",
+        "#454545",
+        "#8F8F8F",
+        "#B5B5B5",
+        "#E3DCD2"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 17.33,
+      "brand_override_flag": false,
+      "grid_component_placement": "Understated drafting-table aesthetic; CAD floorplans rendered in #2B2B2B charcoal over warm #F4F1EC sand",
+      "focal_highlight_mechanics": "Zero distracting colored ornaments; pure spatial clarity"
+    },
+    {
+      "id": "ARCH-05",
+      "name": "Scandinavian White & Birch",
+      "category": "ARCH",
+      "sub_mood": "Nordic Architecture, Sustainable Prefab & Timber Pavilions",
+      "reference_benchmark": "Scandinavian White-Wood & Envato Huis",
+      "reference_urls": [
+        "https://paletadecolores.org/en/scandinavian-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F1EEE9",
+        "primary_30": "#3C3C3C",
+        "accent_10": "#B08E68",
+        "ink": "#3C3C3C",
+        "muted_ink": "#737373",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Plus Jakarta Sans",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Tenorite",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#3C3C3C",
+        "#B08E68",
+        "#595959",
+        "#CAA984",
+        "#7E7E7E",
+        "#E3D1BE"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 22.58,
+      "brand_override_flag": false,
+      "grid_component_placement": "Light-maximizing Nordic residential deck; treats pale birch/oak tones (#D9C7AE, #B08E68) as primary palette colors",
+      "focal_highlight_mechanics": "Framing airy living-space photography"
+    },
+    {
+      "id": "ARCH-06",
+      "name": "Nordic Pine & Birch Eco",
+      "category": "ARCH",
+      "sub_mood": "Mass Timber High-Rise, Net-Zero Living & Passive House",
+      "reference_benchmark": "Pine & Birch & Green House Estate",
+      "reference_urls": [
+        "https://paletadecolores.org/en/scandinavian-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F4F1EA",
+        "surface": "#E1D7C6",
+        "primary_30": "#3E5A4A",
+        "accent_10": "#B9A88C",
+        "ink": "#26302A",
+        "muted_ink": "#5D6E64",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Vollkorn",
+        "body": "Lato",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#3E5A4A",
+        "#B9A88C",
+        "#26302A",
+        "#577A65",
+        "#D1C3A9",
+        "#789B86"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 13.38,
+      "brand_override_flag": false,
+      "grid_component_placement": "Sustainable residential & timber-architecture pitch; deep #3E5A4A pine green highlights LEED/carbon specs",
+      "focal_highlight_mechanics": "Warm birch backgrounds anchor technical data"
+    },
+    {
+      "id": "ARCH-07",
+      "name": "Brick & Concrete Urbanism",
+      "category": "ARCH",
+      "sub_mood": "Transit-Oriented Development, Brownfield Adaptive Reuse & Civic",
+      "reference_benchmark": "Brick & Gray & Brown Orange Arch",
+      "reference_urls": [
+        "https://paletadecolores.org/en/thesis-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#EFEDEB",
+        "primary_30": "#3B3633",
+        "accent_10": "#A0442C",
+        "ink": "#3B3633",
+        "muted_ink": "#6E6863",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Oswald",
+        "body": "Open Sans",
+        "mono": "Consolas",
+        "win_native_major": "News Gothic MT",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#3B3633",
+        "#A0442C",
+        "#5C544F",
+        "#C25C42",
+        "#827770",
+        "#DE7D63"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 8.84,
+      "brand_override_flag": true,
+      "grid_component_placement": "Urban planning, zoning, and municipal infrastructure deck; warm architectural #A0442C brick",
+      "focal_highlight_mechanics": "Highlights transit corridors over neutral #EFEDEB city maps",
+      "brand_override_justification": "Canonical institutional benchmark: Brick & Gray & Brown Orange Arch (Delta E = 8.84 from Claude Terracotta Signature Tell (Second-Wave Slop))"
+    },
+    {
+      "id": "ARCH-08",
+      "name": "Coastal Property Turquoise",
+      "category": "ARCH",
+      "sub_mood": "Luxury Marina, Waterfront Condominiums & Coastal Resorts",
+      "reference_benchmark": "Coastal Real Estate & Realora Deck",
+      "reference_urls": [
+        "https://elements.envato.com/presentation-templates/real+estate"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FFF4EE",
+        "surface": "#FFFFFF",
+        "primary_30": "#147A72",
+        "accent_10": "#F4845F",
+        "ink": "#147A72",
+        "muted_ink": "#488C86",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Montserrat",
+        "body": "Lato",
+        "mono": "Consolas",
+        "win_native_major": "Century Gothic",
+        "win_native_minor": "Trebuchet MS",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#147A72",
+        "#F4845F",
+        "#209E94",
+        "#F7A183",
+        "#38C2B7",
+        "#FABFA9"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 19.59,
+      "brand_override_flag": false,
+      "grid_component_placement": "Waterfront brokerage & vacation-property investment deck; clean white listing photo cards",
+      "focal_highlight_mechanics": "#147A72 anchors yield metrics while #F4845F calls out property amenities"
+    },
+    {
+      "id": "ARCH-09",
+      "name": "PropTech Petrol & Mustard",
+      "category": "ARCH",
+      "sub_mood": "Smart Building IoT, Real Estate Tokenization & PropTech Seed",
+      "reference_benchmark": "Petrol & Mustard Estate & Realty Vision",
+      "reference_urls": [
+        "https://elements.envato.com/presentation-templates/real+estate"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F6F1E6",
+        "surface": "#FFFFFF",
+        "primary_30": "#1C4550",
+        "accent_10": "#E8B23A",
+        "ink": "#132B33",
+        "muted_ink": "#526B73",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Outfit",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Gill Sans MT",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#1C4550",
+        "#E8B23A",
+        "#2B5E6B",
+        "#ECC463",
+        "#427E8F",
+        "#F2D892"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 18.36,
+      "brand_override_flag": false,
+      "grid_component_placement": "Differentiated commercial real estate deck designed to stand apart from generic navy brokerages",
+      "focal_highlight_mechanics": "#1C4550 deep petrol frames cap-rate charts with #E8B23A focus badges"
+    },
+    {
+      "id": "ARCH-10",
+      "name": "Midnight Forest ESG",
+      "category": "ARCH",
+      "sub_mood": "Global ESG Reporting, Carbon Credit Markets & Reforestation",
+      "reference_benchmark": "ColorArchive Midnight Forest & SlideModel ESG",
+      "reference_urls": [
+        "https://color-archive.vercel.app/collections/midnight-forest/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#EAF5EE",
+        "surface": "#FFFFFF",
+        "primary_30": "#303C2A",
+        "accent_10": "#87AB9F",
+        "ink": "#303C2A",
+        "muted_ink": "#5A6953",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "IBM Plex Serif",
+        "body": "IBM Plex Sans",
+        "mono": "Consolas",
+        "win_native_major": "Cambria",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#303C2A",
+        "#87AB9F",
+        "#48593F",
+        "#A3C2B8",
+        "#647A59",
+        "#C4DBD3"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 18.02,
+      "brand_override_flag": false,
+      "grid_component_placement": "Corporate ESG disclosure progression: cover → E/S/G pillar cards → action table",
+      "focal_highlight_mechanics": "Donut & horizontal bar summary dashboard (reducing cognitive load)"
+    },
+    {
+      "id": "ARCH-11",
+      "name": "Clay & Sage Circular Eco",
+      "category": "ARCH",
+      "sub_mood": "Circular Supply Chain, Cradle-to-Cradle & Zero-Waste Packaging",
+      "reference_benchmark": "Clay & Sage & Corporate Sustainability",
+      "reference_urls": [
+        "https://paletadecolores.org/en/earth-tone-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#EEE7DD",
+        "surface": "#FFFFFF",
+        "primary_30": "#3F3A34",
+        "accent_10": "#6B705C",
+        "ink": "#3F3A34",
+        "muted_ink": "#69635C",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Bitter",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Book Antiqua",
+        "win_native_minor": "Candara",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#3F3A34",
+        "#6B705C",
+        "#5C554D",
+        "#898F77",
+        "#7D736A",
+        "#A9AF99"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 25.14,
+      "brand_override_flag": false,
+      "grid_component_placement": "Circular supply-chain & climate-strategy deck; balanced earth-neutral palette (#9AA58A, #B98B6E)",
+      "focal_highlight_mechanics": "Replaces loud cliché neon-green 'eco' templates"
+    },
+    {
+      "id": "ARCH-12",
+      "name": "UN SDG Impact Governance",
+      "category": "ARCH",
+      "sub_mood": "Intergovernmental Reporting, Climate Accord & Global Philanthropy",
+      "reference_benchmark": "UN SDG Official Identity & ESG Bundles",
+      "reference_urls": [
+        "https://unsdg.un.org/sites/default/files/UN-Guidelines-for-Use-of-SDG-logo-and-17-icons.October-2016.pdf"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F1F1F1",
+        "primary_30": "#19486A",
+        "accent_10": "#3F7E44",
+        "ink": "#222222",
+        "muted_ink": "#636363",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Public Sans",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Franklin Gothic Medium",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#19486A",
+        "#3F7E44",
+        "#0A97D9",
+        "#E5243B",
+        "#DDA63A",
+        "#4C9F38"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 17.49,
+      "brand_override_flag": false,
+      "grid_component_placement": "Intergovernmental & foundation reporting; clean #FFFFFF/#F1F1F1 canvas",
+      "focal_highlight_mechanics": "Rigorously displays official SDG goal color tags (#3F7E44 Climate, #0A97D9 Water, #19486A Partnerships)"
+    },
+    {
+      "id": "ARCH-13",
+      "name": "Patagonia Conservation",
+      "category": "ARCH",
+      "sub_mood": "Grassroots Activism, Wild Rivers & Corporate Environmental Pledge",
+      "reference_benchmark": "Patagonia Brand & Nature Conservation",
+      "reference_urls": [
+        "https://www.color-hex.com/color-palette/1024653"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F5F7FA",
+        "primary_30": "#0165A5",
+        "accent_10": "#FB6526",
+        "ink": "#1F2933",
+        "muted_ink": "#526375",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Archivo",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "News Gothic MT",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#0165A5",
+        "#FB6526",
+        "#0284D6",
+        "#FC8754",
+        "#26A0E8",
+        "#FDAB85"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 25.02,
+      "brand_override_flag": false,
+      "grid_component_placement": "Environmental advocacy & impact storytelling; epic documentary field photography",
+      "focal_highlight_mechanics": "#0165A5 horizon blue headlines and urgent #FB6526 policy action CTAs"
+    },
+    {
+      "id": "ARCH-14",
+      "name": "Humanitarian Gold & Charcoal",
+      "category": "ARCH",
+      "sub_mood": "Clean Water Initiatives, NGO Impact Audits & Donor Reports",
+      "reference_benchmark": "charity: water Brand & NGO Profile",
+      "reference_urls": [
+        "https://brandcolors.net/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F7F7F7",
+        "primary_30": "#231F20",
+        "accent_10": "#FFC907",
+        "ink": "#231F20",
+        "muted_ink": "#615E5F",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Montserrat",
+        "body": "Merriweather",
+        "mono": "Consolas",
+        "win_native_major": "Century Gothic",
+        "win_native_minor": "Georgia",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#231F20",
+        "#FFC907",
+        "#2E9DF7",
+        "#4D4648",
+        "#FFD747",
+        "#63B4F9"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 14.76,
+      "brand_override_flag": false,
+      "grid_component_placement": "High-trust donor impact deck; transparent 100%-model funding pies",
+      "focal_highlight_mechanics": "#FFC907 jerrycan-yellow and #2E9DF7 water-blue highlights over stark human portraits"
+    },
+    {
+      "id": "ARCH-15",
+      "name": "Kombu Regenerative Earth",
+      "category": "ARCH",
+      "sub_mood": "Regenerative Agriculture, Kelp Farming & Soil Carbon Sequestration",
+      "reference_benchmark": "Kombu Woods & Minimalist Agriculture",
+      "reference_urls": [
+        "https://paletadecolores.org/en/earth-tone-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FEFAE0",
+        "surface": "#F8F4E9",
+        "primary_30": "#283618",
+        "accent_10": "#BC6C25",
+        "ink": "#283618",
+        "muted_ink": "#556644",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Lora",
+        "body": "Open Sans",
+        "mono": "Consolas",
+        "win_native_major": "Palatino Linotype",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#283618",
+        "#BC6C25",
+        "#3D5225",
+        "#DDA15E",
+        "#587438",
+        "#606C38"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 19.65,
+      "brand_override_flag": false,
+      "grid_component_placement": "AgTech, forestry, and regenerative land-use deck; #283618 deep woods green delivers crisp contrast over warm #FEFAE0 cornsilk",
+      "focal_highlight_mechanics": "#BC6C25 harvest-ochre milestones"
+    }
+  ]
+}

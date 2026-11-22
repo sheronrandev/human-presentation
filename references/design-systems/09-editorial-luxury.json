@@ -1,0 +1,1088 @@
+{
+  "category": "EDIT",
+  "count": 15,
+  "systems": [
+    {
+      "id": "EDIT-01",
+      "name": "Aesop Apothecary Amber",
+      "category": "EDIT",
+      "sub_mood": "Artisanal Skincare, Poetic Botanical Prose & Tactile Warmth",
+      "reference_benchmark": "Aesop Brand Identity",
+      "reference_urls": [
+        "https://colorarchive.org/brands/aesop/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#EFE4D2",
+        "surface": "#F6F1E7",
+        "primary_30": "#5C2E1F",
+        "accent_10": "#8C5A2B",
+        "ink": "#1A1A1A",
+        "muted_ink": "#615C54",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Mulish",
+        "mono": "Consolas",
+        "win_native_major": "Garamond",
+        "win_native_minor": "Candara",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#5C2E1F",
+        "#8C5A2B",
+        "#7A4230",
+        "#AD7540",
+        "#A36856",
+        "#CCA072"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 26.23,
+      "brand_override_flag": false,
+      "grid_component_placement": "Quiet literary minimalism (8.95:1 AAA); unbleached #EFE4D2 paper canvas, numbered botanical footnotes",
+      "focal_highlight_mechanics": "Full-bleed tactile amber-glass photography"
+    },
+    {
+      "id": "EDIT-02",
+      "name": "Prada Austere Runway",
+      "category": "EDIT",
+      "sub_mood": "Haute Couture, Brutalist High-Fashion & Conceptual Runway",
+      "reference_benchmark": "Prada Digital Identity & Black Fashion",
+      "reference_urls": [
+        "https://www.omoro.io/brands/prada"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F7F7F7",
+        "primary_30": "#000000",
+        "accent_10": "#4E555A",
+        "ink": "#000000",
+        "muted_ink": "#6E757B",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Didot / Bodoni Moda",
+        "body": "GT America / Neue Haas Grotesk Text Pro",
+        "mono": "Consolas",
+        "win_native_major": "Bodoni MT",
+        "win_native_minor": "Neue Haas Grotesk Text Pro",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#000000",
+        "#4E555A",
+        "#333333",
+        "#747C82",
+        "#666666",
+        "#A2AAB0"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 16.5,
+      "brand_override_flag": false,
+      "grid_component_placement": "Clinical high-fashion restraint; cool #D9DCE0 0.5pt hairline rules divide asymmetrical runway lookbook spreads",
+      "focal_highlight_mechanics": "Imagery supplies 100% of color"
+    },
+    {
+      "id": "EDIT-03",
+      "name": "Quiet Luxury Taupe & Stone",
+      "category": "EDIT",
+      "sub_mood": "Understated Cashmere, Interior Architecture & Heritage Stone",
+      "reference_benchmark": "Quiet Luxury & Envato Lavien Lookbook",
+      "reference_urls": [
+        "https://paletadecolores.org/en/luxury-color-palettes/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#E8DFD2",
+        "surface": "#D8CCB8",
+        "primary_30": "#3A3734",
+        "accent_10": "#8B7D6B",
+        "ink": "#3A3734",
+        "muted_ink": "#6E6963",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Prata",
+        "body": "Manrope Light",
+        "mono": "Consolas",
+        "win_native_major": "Perpetua",
+        "win_native_minor": "Avenir Next LT Pro",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#3A3734",
+        "#8B7D6B",
+        "#56524E",
+        "#A89A87",
+        "#7A7570",
+        "#C7BBAA"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 22.6,
+      "brand_override_flag": false,
+      "grid_component_placement": "Cashmere-toned monochromatic elegance; wide 1.0\" editorial margins",
+      "focal_highlight_mechanics": "Overlapping photo-and-caption pairs inspired by Boxkayu lookbooks"
+    },
+    {
+      "id": "EDIT-04",
+      "name": "Old Money Heritage Navy",
+      "category": "EDIT",
+      "sub_mood": "Equestrian Estates, Savile Row Tailoring & Bespoke Heritage",
+      "reference_benchmark": "Old Money & Cream Maroon Fashion",
+      "reference_urls": [
+        "https://paletadecolores.org/en/luxury-color-palettes/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F2EBDD",
+        "surface": "#E9E2D3",
+        "primary_30": "#1C2841",
+        "accent_10": "#B5835A",
+        "ink": "#1C2841",
+        "muted_ink": "#5D6880",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Lato",
+        "mono": "Consolas",
+        "win_native_major": "Bookman Old Style",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#1C2841",
+        "#B5835A",
+        "#2F4A3A",
+        "#5E1F28",
+        "#384B70",
+        "#D1A37D"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 8.94,
+      "brand_override_flag": true,
+      "grid_component_placement": "Heritage atelier & luxury brokerage deck; #1C2841 navy anchors typography",
+      "focal_highlight_mechanics": "#2F4A3A hunter green and #5E1F28 burgundy appear as restrained fabric/swatch tags",
+      "brand_override_justification": "Canonical institutional benchmark: Old Money & Cream Maroon Fashion (Delta E = 8.94 from Tailwind Slate-900 (Cold Slop Ink))"
+    },
+    {
+      "id": "EDIT-05",
+      "name": "Champagne Noir Fine Jewelry",
+      "category": "EDIT",
+      "sub_mood": "Haute Horlogerie, High Jewelry & Champagne Gala",
+      "reference_benchmark": "Art Deco Champagne Noir & Luxury Jewelry",
+      "reference_urls": [
+        "https://www.media.io/color-palette/art-deco-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#0F0F12",
+        "surface": "#2B2B31",
+        "primary_30": "#C9B07E",
+        "accent_10": "#F2E7D5",
+        "ink": "#F2E7D5",
+        "muted_ink": "#9E9991",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Didot / Playfair Display",
+        "body": "DIN",
+        "mono": "Consolas",
+        "win_native_major": "Bodoni MT",
+        "win_native_minor": "News Gothic MT",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#C9B07E",
+        "#F2E7D5",
+        "#A38B5B",
+        "#D9C7A7",
+        "#7A6841",
+        "#4A4A52"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 9.85,
+      "brand_override_flag": true,
+      "grid_component_placement": "Satin near-black depth (#0F0F12) with soft #C9B07E champagne hairlines and increased line-height (1.4×)",
+      "focal_highlight_mechanics": "Warm #F2E7D5 ivory flatters jewelry lighting",
+      "brand_override_justification": "Canonical institutional benchmark: Art Deco Champagne Noir & Luxury Jewelry (Delta E = 9.85 from Claude Warm Cream Signature Tell (Second-Wave Slop))"
+    },
+    {
+      "id": "EDIT-06",
+      "name": "Ivory Brassline Editorial",
+      "category": "EDIT",
+      "sub_mood": "Luxury Real Estate Magazine, Architectural Monograph & Fine Art",
+      "reference_benchmark": "Art Deco Ivory Brassline & Lookbook Mag",
+      "reference_urls": [
+        "https://www.media.io/color-palette/art-deco-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F7F0E6",
+        "surface": "#EFE8DA",
+        "primary_30": "#2A2A2E",
+        "accent_10": "#B08D57",
+        "ink": "#2A2A2E",
+        "muted_ink": "#6E6E73",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Raleway",
+        "mono": "Consolas",
+        "win_native_major": "Calisto MT",
+        "win_native_minor": "Century Gothic",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2A2A2E",
+        "#B08D57",
+        "#48484D",
+        "#CCA974",
+        "#717178",
+        "#E6C99C"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 14.91,
+      "brand_override_flag": false,
+      "grid_component_placement": "Limestone-and-brass magazine layout; thin 0.5pt #B08D57 architectural frames and section markers",
+      "focal_highlight_mechanics": "Zero heavy filled boxes to preserve airy luxury"
+    },
+    {
+      "id": "EDIT-07",
+      "name": "Ruby Velvet Couture",
+      "category": "EDIT",
+      "sub_mood": "Haute Parfumerie, Grand Opera & Evening Gala",
+      "reference_benchmark": "Art Deco Ruby Velvet Night & Pitchlook",
+      "reference_urls": [
+        "https://www.media.io/color-palette/art-deco-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#2B0A12",
+        "surface": "#121318",
+        "primary_30": "#7A1E2D",
+        "accent_10": "#C9A227",
+        "ink": "#F2D6C2",
+        "muted_ink": "#A38779",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Abril Fatface",
+        "body": "Fira Sans",
+        "mono": "Consolas",
+        "win_native_major": "Elephant",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#7A1E2D",
+        "#C9A227",
+        "#F2D6C2",
+        "#9E2E41",
+        "#E6BE45",
+        "#540715"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 23.84,
+      "brand_override_flag": false,
+      "grid_component_placement": "Theatrical fragrance & eveningwear deck; matte burgundy fields contrasted with luminous #C9A227 gold monograms",
+      "focal_highlight_mechanics": "Soft #F2D6C2 blush copy panels"
+    },
+    {
+      "id": "EDIT-08",
+      "name": "Mocha Mousse Atelier",
+      "category": "EDIT",
+      "sub_mood": "Organic Cosmetics, Clean Wellness & Tactile Packaging",
+      "reference_benchmark": "Mocha Mousse & Envato Elady Lookbook",
+      "reference_urls": [
+        "https://paletadecolores.org/en/luxury-color-palettes/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F3E9DC",
+        "surface": "#CDB4A0",
+        "primary_30": "#2E1F18",
+        "accent_10": "#A47864",
+        "ink": "#2E1F18",
+        "muted_ink": "#6E5B52",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "DM Serif Display",
+        "body": "DM Sans",
+        "mono": "Consolas",
+        "win_native_major": "Book Antiqua",
+        "win_native_minor": "Avenir Next LT Pro",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2E1F18",
+        "#A47864",
+        "#5C4033",
+        "#C29884",
+        "#8A6452",
+        "#CDB4A0"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 22.56,
+      "brand_override_flag": false,
+      "grid_component_placement": "Tactile organic-cosmetics & studio portfolio; tonal mocha layering (#F3E9DC → #CDB4A0 → #5C4033)",
+      "focal_highlight_mechanics": "Keeps macro portrait skin tones radiant; #A47864 accent"
+    },
+    {
+      "id": "EDIT-09",
+      "name": "Copper Orchid Moody Beauty",
+      "category": "EDIT",
+      "sub_mood": "Sensual Cosmetics, Evening Skincare & Velvet Packaging",
+      "reference_benchmark": "Art Deco Copper Orchid & Noume",
+      "reference_urls": [
+        "https://www.media.io/color-palette/art-deco-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#1A1B20",
+        "surface": "#3A1F2B",
+        "primary_30": "#8D3B5A",
+        "accent_10": "#C47A4A",
+        "ink": "#F1D6C9",
+        "muted_ink": "#9C828C",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Bodoni Moda",
+        "body": "Montserrat",
+        "mono": "Consolas",
+        "win_native_major": "Bodoni MT",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "narrative_micro_motif",
+      "chart_palette_6": [
+        "#8D3B5A",
+        "#C47A4A",
+        "#F1D6C9",
+        "#B35476",
+        "#DE9668",
+        "#591E33"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 21.92,
+      "brand_override_flag": false,
+      "grid_component_placement": "Sensual beauty-campaign pitch; dramatic plum/near-black color blocks illuminated by burnished #C47A4A copper headlines",
+      "focal_highlight_mechanics": "Single repeated geometric fan motif"
+    },
+    {
+      "id": "EDIT-10",
+      "name": "Peacock Lounge Jazz-Deco",
+      "category": "EDIT",
+      "sub_mood": "Speakeasy, Luxury Cocktail Lounge & Velvet Jazz Club",
+      "reference_benchmark": "Art Deco Peacock Lounge",
+      "reference_urls": [
+        "https://www.media.io/color-palette/art-deco-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#0B2A3C",
+        "surface": "#0E7C86",
+        "primary_30": "#E3B23C",
+        "accent_10": "#4B2E2B",
+        "ink": "#E9E0D1",
+        "muted_ink": "#94A1A8",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Sifonn / Marcellus",
+        "body": "Bebas Neue",
+        "mono": "Consolas",
+        "win_native_major": "Copperplate Gothic",
+        "win_native_minor": "Franklin Gothic Medium",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#E3B23C",
+        "#0E7C86",
+        "#E9E0D1",
+        "#F5CC5D",
+        "#14B0BF",
+        "#4B2E2B"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 20.74,
+      "brand_override_flag": false,
+      "grid_component_placement": "High-drama event & hospitality launch deck; deep navy-teal backdrops",
+      "focal_highlight_mechanics": "#E3B23C brass gold reserved strictly for top-tier display titles"
+    },
+    {
+      "id": "EDIT-11",
+      "name": "Oxblood Salon Monograph",
+      "category": "EDIT",
+      "sub_mood": "Fine Art Publishing, Literary Review & Antique Print Salon",
+      "reference_benchmark": "PaletteForge Oxblood & Alhambra",
+      "reference_urls": [
+        "https://paletteforge.app/palettes/luxury"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F8F5EF",
+        "surface": "#E8DCCB",
+        "primary_30": "#4A1520",
+        "accent_10": "#8A6E4B",
+        "ink": "#1A0E10",
+        "muted_ink": "#665759",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Libre Baskerville",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#4A1520",
+        "#8A6E4B",
+        "#6E2332",
+        "#AB8C63",
+        "#993B4E",
+        "#CCAFA0"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 31.55,
+      "brand_override_flag": false,
+      "grid_component_placement": "Ultra-refined luxury print-monograph aesthetic (17.32:1 AAA); rich #4A1520 oxblood chapter breaks",
+      "focal_highlight_mechanics": "Muted #8A6E4B brass captions"
+    },
+    {
+      "id": "EDIT-12",
+      "name": "Soft Blush & Rose Atelier",
+      "category": "EDIT",
+      "sub_mood": "Bridal Haute Couture, Floral Design & Fine Porcelain",
+      "reference_benchmark": "Soft Blush & PresentationGO Soft Couture",
+      "reference_urls": [
+        "https://paletadecolores.org/en/luxury-color-palettes/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FBF7F2",
+        "surface": "#F2D4D0",
+        "primary_30": "#8E5E66",
+        "accent_10": "#B76E79",
+        "ink": "#3B302C",
+        "muted_ink": "#7D6F6B",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Playfair Display Italic",
+        "body": "Raleway",
+        "mono": "Consolas",
+        "win_native_major": "Georgia Italic",
+        "win_native_minor": "Century Gothic",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#8E5E66",
+        "#B76E79",
+        "#3B302C",
+        "#AF7D85",
+        "#D48F9A",
+        "#F2D4D0"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 26.05,
+      "brand_override_flag": false,
+      "grid_component_placement": "Bridal, fragrance, and boutique fashion deck; delicate blush surfaces with fine #B87333 rose-copper linework",
+      "focal_highlight_mechanics": "Generous circular photo frames"
+    },
+    {
+      "id": "EDIT-13",
+      "name": "Velvet Burgundy Editorial",
+      "category": "EDIT",
+      "sub_mood": "Grand Cru Viticulture, Sommelier Notes & Fine Dining",
+      "reference_benchmark": "Velvet Burgundy & Botanica Photobook",
+      "reference_urls": [
+        "https://elements.envato.com/learn/lookbook-designs-to-showcase-your-work"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F5EDE6",
+        "surface": "#FFFFFF",
+        "primary_30": "#5C1A24",
+        "accent_10": "#B76E79",
+        "ink": "#2D1A1F",
+        "muted_ink": "#6E575C",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Spectral",
+        "body": "Karla",
+        "mono": "Consolas",
+        "win_native_major": "Palatino Linotype",
+        "win_native_minor": "Candara",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#5C1A24",
+        "#B76E79",
+        "#802735",
+        "#CF8E98",
+        "#A83C4D",
+        "#E8C2C8"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 26.05,
+      "brand_override_flag": false,
+      "grid_component_placement": "Wine, fine-art, and luxury editorial pitch; #FFFFFF floating photo mats seated on #F5EDE6 cream",
+      "focal_highlight_mechanics": "Deep #5C1A24 burgundy typographic anchors"
+    },
+    {
+      "id": "EDIT-14",
+      "name": "Amethyst Spotlight Gala",
+      "category": "EDIT",
+      "sub_mood": "Philanthropic Gala, Symphony Benefit & Fine Arts Auction",
+      "reference_benchmark": "Art Deco Amethyst Spotlight & Luxury Gala",
+      "reference_urls": [
+        "https://www.media.io/color-palette/art-deco-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#1A1024",
+        "surface": "#2E2A33",
+        "primary_30": "#5D2D86",
+        "accent_10": "#D6B04C",
+        "ink": "#F2E8DB",
+        "muted_ink": "#968A9E",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Playfair Display Black",
+        "body": "Nunito",
+        "mono": "Consolas",
+        "win_native_major": "Felix Titling",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#5D2D86",
+        "#D6B04C",
+        "#F2E8DB",
+        "#7D42AF",
+        "#E6C66E",
+        "#3A1659"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 29.02,
+      "brand_override_flag": false,
+      "grid_component_placement": "Cultural philanthropy, theater, and VIP gala presentations; #D6B04C gold placed strictly on highest-contrast dark areas",
+      "focal_highlight_mechanics": "Luminous rather than muddy; #5D2D86 purple fields"
+    },
+    {
+      "id": "EDIT-15",
+      "name": "English Tweed Heritage",
+      "category": "EDIT",
+      "sub_mood": "Heritage Menswear, Savile Row Tailoring & Field Sports",
+      "reference_benchmark": "Vintage English Tweed & Mid Century",
+      "reference_urls": [
+        "https://paletadecolores.org/en/vintage-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#E8E2D5",
+        "surface": "#D8C3A5",
+        "primary_30": "#5E6B4E",
+        "accent_10": "#8C3B2E",
+        "ink": "#2C2A26",
+        "muted_ink": "#615E58",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Lora",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Book Antiqua",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Clean banking pitchbook 3-column exhibit grid",
+      "margin_in": 1,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "tactile_warm_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#5E6B4E",
+        "#8C3B2E",
+        "#7C8C67",
+        "#B05445",
+        "#9EAE89",
+        "#D8C3A5"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 14.42,
+      "brand_override_flag": false,
+      "grid_component_placement": "Menswear, bespoke craft, and publishing pitchbooks; desaturated heritage olive and rust over warm #E8E2D5 linen",
+      "focal_highlight_mechanics": "Evokes enduring tactile craftsmanship"
+    }
+  ]
+}

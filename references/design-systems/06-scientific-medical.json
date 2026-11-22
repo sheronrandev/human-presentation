@@ -1,0 +1,1089 @@
+{
+  "category": "SCI",
+  "count": 15,
+  "systems": [
+    {
+      "id": "SCI-01",
+      "name": "Okabe-Ito Universal CVD",
+      "category": "SCI",
+      "sub_mood": "Universal Color-Vision-Deficiency Safe Data Science",
+      "reference_benchmark": "Okabe & Ito (2008) CUD Standard",
+      "reference_urls": [
+        "https://scifig.ai/blog/color-palettes-scientific-figures"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F5F7F9",
+        "primary_30": "#0072B2",
+        "accent_10": "#D55E00",
+        "ink": "#1A1A1A",
+        "muted_ink": "#616161",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Atkinson Hyperlegible",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Verdana",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#0072B2",
+        "#D55E00",
+        "#009E73",
+        "#E69F00",
+        "#56B4E9",
+        "#CC79A7"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 29.27,
+      "brand_override_flag": false,
+      "grid_component_placement": "Maintains ΔE ≥ 17 under simulated protanopia/deuteranopia",
+      "focal_highlight_mechanics": "Uses #0072B2, #E69F00, #009E73, #D55E00, #56B4E9, #CC79A7 (skips pale yellow on white) + direct curve labels"
+    },
+    {
+      "id": "SCI-02",
+      "name": "Nature (NPG) Publication",
+      "category": "SCI",
+      "sub_mood": "Cell Biology, Molecular Genetics & Nature Research",
+      "reference_benchmark": "Nature Publishing Group (ggsci::npg)",
+      "reference_urls": [
+        "https://www.color-hex.com/color-palette/98499"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F7F7F7",
+        "primary_30": "#3C5488",
+        "accent_10": "#E64B35",
+        "ink": "#1B1919",
+        "muted_ink": "#666161",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Neue Haas Grotesk / IBM Plex Sans",
+        "body": "Neue Haas Grotesk Text Pro",
+        "mono": "Consolas",
+        "win_native_major": "Neue Haas Grotesk Text Pro",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#3C5488",
+        "#E64B35",
+        "#4DBBD5",
+        "#00A087",
+        "#F39B7F",
+        "#8491B4"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 9.08,
+      "brand_override_flag": true,
+      "grid_component_placement": "Multi-panel journal figure layout (a, b, c bold lowercase markers)",
+      "focal_highlight_mechanics": "#3C5488 primary + #4DBBD5 / #00A087 / #E64B35 experimental series",
+      "brand_override_justification": "Canonical institutional benchmark: Nature Publishing Group (ggsci::npg) (Delta E = 9.08 from Tailwind Red-500 (RAG Semantic Slop))"
+    },
+    {
+      "id": "SCI-03",
+      "name": "NEJM Clinical Trial",
+      "category": "SCI",
+      "sub_mood": "Phase III Clinical Trials & Epidemiological Studies",
+      "reference_benchmark": "New England Journal of Medicine (ggsci::nejm)",
+      "reference_urls": [
+        "https://www.color-hex.com/color-palette/98497"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F2F4F8",
+        "primary_30": "#0072B5",
+        "accent_10": "#BC3C29",
+        "ink": "#212326",
+        "muted_ink": "#686D73",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Source Serif 4",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Tahoma",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#0072B5",
+        "#BC3C29",
+        "#20854E",
+        "#E18727",
+        "#7876B1",
+        "#6F99AD"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 14.53,
+      "brand_override_flag": false,
+      "grid_component_placement": "Kaplan-Meier survival curves and forest plots; #0072B5 control arm versus #BC3C29 treatment arm",
+      "focal_highlight_mechanics": "Shaded confidence bands and inline p-values"
+    },
+    {
+      "id": "SCI-04",
+      "name": "The Lancet Oncology",
+      "category": "SCI",
+      "sub_mood": "Global Oncology, Clinical Protocols & Translational Medicine",
+      "reference_benchmark": "Lancet Oncology (ggsci::lancet) & Hallmarks",
+      "reference_urls": [
+        "https://emilhvitfeldt.github.io/r-color-palettes/discrete/ggsci/lanonc_lancet/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#EEF1F4",
+        "primary_30": "#00468B",
+        "accent_10": "#AD002A",
+        "ink": "#1B1919",
+        "muted_ink": "#616060",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Noto Sans",
+        "body": "IBM Plex Mono",
+        "mono": "IBM Plex Mono",
+        "win_native_major": "Segoe UI",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#00468B",
+        "#AD002A",
+        "#0099B4",
+        "#925E9F",
+        "#42C185",
+        "#FDAF91"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 21.63,
+      "brand_override_flag": false,
+      "grid_component_placement": "High-density clinical briefing; #00468B navy cohort baseline, #AD002A high-risk cohort",
+      "focal_highlight_mechanics": "#0099B4 and #925E9F subgroups; clean bottom-left sample size n="
+    },
+    {
+      "id": "SCI-05",
+      "name": "JAMA Clinical Evidence",
+      "category": "SCI",
+      "sub_mood": "Clinical Cardiology, Internal Medicine & Meta-Analysis",
+      "reference_benchmark": "JAMA (ggsci::jama) & Minimal Medical",
+      "reference_urls": [
+        "https://emilhvitfeldt.github.io/r-color-palettes/discrete/ggsci/default_jama/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F5F5F5",
+        "primary_30": "#374E55",
+        "accent_10": "#DF8F44",
+        "ink": "#231F20",
+        "muted_ink": "#6B6766",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Libre Baskerville",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Cambria",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#374E55",
+        "#DF8F44",
+        "#00A1D5",
+        "#79AF97",
+        "#B24745",
+        "#6A6599"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 22.88,
+      "brand_override_flag": false,
+      "grid_component_placement": "Restrained slate-blue (#374E55) and amber (#DF8F44) clinical pairing; avoids alarmist red/green",
+      "focal_highlight_mechanics": "Paired with #00A1D5 and #79AF97 for 4-arm trials"
+    },
+    {
+      "id": "SCI-06",
+      "name": "Paul Tol High-Contrast",
+      "category": "SCI",
+      "sub_mood": "CVD-Safe Space Physics, Optical Imaging & Hard Science",
+      "reference_benchmark": "Paul Tol SRON High-Contrast Scheme",
+      "reference_urls": [
+        "https://sronpersonalpages.nl/~pault/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F2F4F6",
+        "primary_30": "#004488",
+        "accent_10": "#BB5566",
+        "ink": "#1A1A1A",
+        "muted_ink": "#5C5C5C",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Public Sans",
+        "body": "IBM Plex Mono",
+        "mono": "IBM Plex Mono",
+        "win_native_major": "Avenir Next LT Pro",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "monochrome_bw",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#004488",
+        "#BB5566",
+        "#DDAA33",
+        "#4477AA",
+        "#CC6677",
+        "#DDCC77"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 18.71,
+      "brand_override_flag": false,
+      "grid_component_placement": "Engineered for both CVD safety and monochrome B&W print luminance separation",
+      "focal_highlight_mechanics": "#004488 dark, #BB5566 mid, #DDAA33 light"
+    },
+    {
+      "id": "SCI-07",
+      "name": "Paul Tol Muted Genomics",
+      "category": "SCI",
+      "sub_mood": "High-Throughput Sequencing, Bioinformatics & Omics",
+      "reference_benchmark": "Paul Tol Muted & Envato Biopharm Lab",
+      "reference_urls": [
+        "https://sronpersonalpages.nl/~pault/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F4F6F8",
+        "primary_30": "#332288",
+        "accent_10": "#44AA99",
+        "ink": "#222222",
+        "muted_ink": "#616161",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Red Hat Display",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Bierstadt",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#332288",
+        "#44AA99",
+        "#88CCEE",
+        "#117733",
+        "#CC6677",
+        "#882255"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 20.21,
+      "brand_override_flag": false,
+      "grid_component_placement": "Supports up to 9 CVD-safe molecular pathways",
+      "focal_highlight_mechanics": "#332288, #88CCEE, #44AA99, #117733, #999933, #DDCC77 with #DDDDDD missing data"
+    },
+    {
+      "id": "SCI-08",
+      "name": "Crameri Batlow Geoscience",
+      "category": "SCI",
+      "sub_mood": "Geophysics, Climate Modeling, Oceanography & Topography",
+      "reference_benchmark": "Fabio Crameri Batlow Scientific Colormap",
+      "reference_urls": [
+        "https://www.fabiocrameri.ch/batlow/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F1F3F4",
+        "primary_30": "#011959",
+        "accent_10": "#C9923C",
+        "ink": "#144C62",
+        "muted_ink": "#526D7A",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "IBM Plex Sans",
+        "body": "IBM Plex Mono",
+        "mono": "IBM Plex Mono",
+        "win_native_major": "Tenorite",
+        "win_native_minor": "Cascadia Mono",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#011959",
+        "#1C5B62",
+        "#6C7C3C",
+        "#C9923C",
+        "#E8B24C",
+        "#FACCFA"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 26.87,
+      "brand_override_flag": false,
+      "grid_component_placement": "Perceptually uniform sequential scale (#011959 → #1C5B62 → #6C7C3C → #C9923C → #FACCFA)",
+      "focal_highlight_mechanics": "Eliminating false contour artifacts in heatmaps/geophysics"
+    },
+    {
+      "id": "SCI-09",
+      "name": "Caltech Aerospace & JPL",
+      "category": "SCI",
+      "sub_mood": "Deep Space Exploration, Propulsion Systems & Autonomous Rovers",
+      "reference_benchmark": "Caltech & JPL Identity System",
+      "reference_urls": [
+        "https://identity.caltech.edu/colors"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F2F2F0",
+        "primary_30": "#003B4C",
+        "accent_10": "#FF6C0C",
+        "ink": "#100F0D",
+        "muted_ink": "#61605E",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Exo / Urbanist",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Franklin Gothic Medium",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#003B4C",
+        "#FF6C0C",
+        "#1F5F73",
+        "#FF8D42",
+        "#47899E",
+        "#FFB380"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 19.86,
+      "brand_override_flag": false,
+      "grid_component_placement": "Aerospace engineering telemetry decks; #003B4C deep teal frames mission architectures",
+      "focal_highlight_mechanics": "#FF6C0C (strictly small highlights) marks critical trajectory nodes"
+    },
+    {
+      "id": "SCI-10",
+      "name": "Max Planck Botanical Lab",
+      "category": "SCI",
+      "sub_mood": "Plant Genomics, Agriculture Innovation & Soil Science",
+      "reference_benchmark": "Max Planck Society & Natural Science",
+      "reference_urls": [
+        "https://hneth.github.io/unikn/articles/inst_colors.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#DDDED6",
+        "primary_30": "#116656",
+        "accent_10": "#007894",
+        "ink": "#232323",
+        "muted_ink": "#636363",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Source Serif 4",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#116656",
+        "#007894",
+        "#248A76",
+        "#1495A3",
+        "#43AF9A",
+        "#4CB8C4"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 10.28,
+      "brand_override_flag": true,
+      "grid_component_placement": "Quiet European research-institute authority; #DDDED6 muted stone panels frame microscope imagery",
+      "focal_highlight_mechanics": "Clean two-column methodology summaries",
+      "brand_override_justification": "Canonical institutional benchmark: Max Planck Society & Natural Science (Delta E = 10.28 from Tailwind Emerald-900 (Emerald Fallback))"
+    },
+    {
+      "id": "SCI-11",
+      "name": "Clinical Calm Aqua",
+      "category": "SCI",
+      "sub_mood": "Hospital Administration, Patient Care Pathway & Nursing Protocols",
+      "reference_benchmark": "Medical Clinic Aqua & Envato Medipro",
+      "reference_urls": [
+        "https://paletadecolores.org/en/medical-clinic-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#E8F6F3",
+        "primary_30": "#2D7F70",
+        "accent_10": "#5BBFAA",
+        "ink": "#1E3D3A",
+        "muted_ink": "#5A7370",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Mulish",
+        "body": "Open Sans",
+        "mono": "Consolas",
+        "win_native_major": "Candara",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2D7F70",
+        "#5BBFAA",
+        "#3FA391",
+        "#84D2C1",
+        "#61B8A8",
+        "#ADE3D7"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 19.96,
+      "brand_override_flag": false,
+      "grid_component_placement": "Patient-education and clinical-pathway slides; avoids sterile all-white coldness using soft #E8F6F3 callout zones",
+      "focal_highlight_mechanics": "High-legibility #1E3D3A dark teal text"
+    },
+    {
+      "id": "SCI-12",
+      "name": "MedTech Trust Azure",
+      "category": "SCI",
+      "sub_mood": "Medical Device Hardware, Surgical Robotics & Hospital Briefings",
+      "reference_benchmark": "Medical Blue-White & MedTech Breakthroughs",
+      "reference_urls": [
+        "https://www.slidescarnival.com/template/medical-techonology-breakthroughs/26298"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#EAF3FB",
+        "primary_30": "#1F5A8A",
+        "accent_10": "#4A90C8",
+        "ink": "#18294A",
+        "muted_ink": "#566885",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Lato",
+        "body": "Merriweather",
+        "mono": "Consolas",
+        "win_native_major": "Segoe UI",
+        "win_native_minor": "Georgia",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "narrative_micro_motif",
+      "chart_palette_6": [
+        "#1F5A8A",
+        "#4A90C8",
+        "#3374A8",
+        "#70A9D8",
+        "#538FC4",
+        "#9BC3E6"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 34.33,
+      "brand_override_flag": false,
+      "grid_component_placement": "Hospital leadership & device briefings; clean anatomical vector callouts spatially integrated directly onto figures",
+      "focal_highlight_mechanics": "Zero split-attention legends; #1F5A8A and #4A90C8 hierarchy"
+    },
+    {
+      "id": "SCI-13",
+      "name": "Structural Steel & Safety Yellow",
+      "category": "SCI",
+      "sub_mood": "Civil Infrastructure, Structural Stress Analysis & Heavy Machinery",
+      "reference_benchmark": "Steel & Yellow Engineering & Novalabs",
+      "reference_urls": [
+        "https://paletadecolores.org/en/thesis-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F5F7F9",
+        "surface": "#C9D2DC",
+        "primary_30": "#1F2A33",
+        "accent_10": "#F2B705",
+        "ink": "#1F2A33",
+        "muted_ink": "#616F7D",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Archivo",
+        "body": "IBM Plex Mono",
+        "mono": "IBM Plex Mono",
+        "win_native_major": "News Gothic MT",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "luminance_spotlight",
+      "chart_palette_6": [
+        "#1F2A33",
+        "#F2B705",
+        "#394C5C",
+        "#F5C842",
+        "#5A7287",
+        "#F8DA7E"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 12.04,
+      "brand_override_flag": false,
+      "grid_component_placement": "Mechanical/civil engineering spec slides; CAD schematics centered on cool #F5F7F9",
+      "focal_highlight_mechanics": "#F2B705 yellow filled tags spotlight load tolerances with #1F2A33 dark ink"
+    },
+    {
+      "id": "SCI-14",
+      "name": "Maternal & Patient Care Peach",
+      "category": "SCI",
+      "sub_mood": "OB-GYN, Pediatric Oncology & Empathetic Public Health",
+      "reference_benchmark": "Peach & Gray Clinic",
+      "reference_urls": [
+        "https://paletadecolores.org/en/medical-clinic-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FFF8F4",
+        "surface": "#FCE2D6",
+        "primary_30": "#5D6066",
+        "accent_10": "#F5B9A1",
+        "ink": "#2E3440",
+        "muted_ink": "#6E7582",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Lora",
+        "body": "Nunito Sans",
+        "mono": "Consolas",
+        "win_native_major": "Palatino Linotype",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "narrative_micro_motif",
+      "chart_palette_6": [
+        "#5D6066",
+        "#F5B9A1",
+        "#7E828A",
+        "#FACDC0",
+        "#A2A7B0",
+        "#FDE3DC"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 30,
+      "brand_override_flag": false,
+      "grid_component_placement": "Empathetic public-health, OB-GYN, and patient-journey decks; warm #FFF8F4 ground softens clinical anxiety",
+      "focal_highlight_mechanics": "Dark charcoal preserves WCAG AAA readability"
+    },
+    {
+      "id": "SCI-15",
+      "name": "Viridis Dark-Lab Computational",
+      "category": "SCI",
+      "sub_mood": "Fluorescence Microscopy, Neuroimaging & Dark Lab Work",
+      "reference_benchmark": "Viridis Sequential & Dark Brain Injury",
+      "reference_urls": [
+        "https://waldyrious.net/viridis-palette-generator/"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#1E1E2E",
+        "surface": "#2E2E38",
+        "primary_30": "#5EC962",
+        "accent_10": "#FDE725",
+        "ink": "#F5F5F5",
+        "muted_ink": "#9EA2B8",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Sora",
+        "body": "JetBrains Mono",
+        "mono": "JetBrains Mono",
+        "win_native_major": "Century Gothic",
+        "win_native_minor": "Cascadia Code",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#5EC962",
+        "#FDE725",
+        "#21918C",
+        "#3B528B",
+        "#440154",
+        "#90D743"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "cvd_safe_okabe_tol_series_with_direct_data_labels",
+      "slop_delta_e_min": 10.48,
+      "brand_override_flag": true,
+      "grid_component_placement": "Dark-room neuroimaging, microscopy, and computational simulation talks",
+      "focal_highlight_mechanics": "Perceptually uniform Viridis stops (#3B528B, #21918C, #5EC962, #FDE725)",
+      "brand_override_justification": "Canonical institutional benchmark: Viridis Sequential & Dark Brain Injury (Delta E = 10.48 from Tailwind Green-500 (RAG Semantic Slop))"
+    }
+  ]
+}

@@ -1,0 +1,1090 @@
+{
+  "category": "TECH",
+  "count": 15,
+  "systems": [
+    {
+      "id": "TECH-01",
+      "name": "Vercel Monochrome Architect",
+      "category": "TECH",
+      "sub_mood": "Cloud Infrastructure, Next.js & Frontend Edge",
+      "reference_benchmark": "Vercel Design System & Pitch Launch",
+      "reference_urls": [
+        "https://www.omoro.io/brands/vercel"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#FAFAFA",
+        "primary_30": "#000000",
+        "accent_10": "#0072F5",
+        "ink": "#171717",
+        "muted_ink": "#666666",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Plus Jakarta Sans",
+        "body": "JetBrains Mono",
+        "mono": "JetBrains Mono",
+        "win_native_major": "Neue Haas Grotesk Text Pro",
+        "win_native_minor": "Cascadia Mono",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "narrative_micro_motif",
+      "chart_palette_6": [
+        "#000000",
+        "#0072F5",
+        "#333333",
+        "#0051B3",
+        "#666666",
+        "#999999"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 15.11,
+      "brand_override_flag": false,
+      "grid_component_placement": "Precision 1px grid borders (#E5E5E5); zero decorative color",
+      "focal_highlight_mechanics": "#0072F5 is the sole chromatic token signaling live architecture or CTA; light/dark twin parity"
+    },
+    {
+      "id": "TECH-02",
+      "name": "Linear Dark Engineering",
+      "category": "TECH",
+      "sub_mood": "High-Performance Software, Issue Tracking & Developer Tools",
+      "reference_benchmark": "Linear Brand & Pitch AI-Native Deck",
+      "reference_urls": [
+        "https://www.omoro.io/brands/linear"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#08090A",
+        "surface": "#222326",
+        "primary_30": "#F4F5F8",
+        "accent_10": "#5E6AD2",
+        "ink": "#F4F5F8",
+        "muted_ink": "#8A8F98",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Albert Sans",
+        "body": "IBM Plex Mono",
+        "mono": "IBM Plex Mono",
+        "win_native_major": "Segoe UI Variable",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#5E6AD2",
+        "#F4F5F8",
+        "#404BB0",
+        "#8F99EB",
+        "#252B66",
+        "#D1D6FA"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 3.15,
+      "brand_override_flag": true,
+      "grid_component_placement": "Brand Override Authorized: Tight crisp grotesque headlines; subtle 1px top-edge specular card borders",
+      "focal_highlight_mechanics": "Real dark-UI product frames; #5E6AD2 focal indicators",
+      "brand_override_justification": "Canonical institutional benchmark: Linear Brand & Pitch AI-Native Deck (Delta E = 3.15 from Claude Warm Cream Signature Tell (Second-Wave Slop))"
+    },
+    {
+      "id": "TECH-03",
+      "name": "Notion Ink-on-Paper SaaS",
+      "category": "TECH",
+      "sub_mood": "Connected Workspace, Docs & Knowledge Graph",
+      "reference_benchmark": "Notion Brand & Pitch Release Notes",
+      "reference_urls": [
+        "https://www.omoro.io/brands/notion"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F6F5F4",
+        "primary_30": "#191918",
+        "accent_10": "#0075DE",
+        "ink": "#37352F",
+        "muted_ink": "#787774",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Source Serif 4",
+        "body": "Work Sans",
+        "mono": "IBM Plex Mono",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#191918",
+        "#0075DE",
+        "#37352F",
+        "#3392E5",
+        "#6B6A65",
+        "#787774"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 15.21,
+      "brand_override_flag": false,
+      "grid_component_placement": "Warm-gray #F6F5F4 document callouts (never cool blue-gray); single-weight black line illustrations",
+      "focal_highlight_mechanics": "Generous whitespace with #0075DE link/feature focus"
+    },
+    {
+      "id": "TECH-04",
+      "name": "Teenage Engineering Hardware Lab",
+      "category": "TECH",
+      "sub_mood": "Industrial Audio, Synthesizers & Tactile Electronics",
+      "reference_benchmark": "Teenage Engineering Brand",
+      "reference_urls": [
+        "https://www.omoro.io/brands/teenage-engineering"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F5F5F5",
+        "surface": "#E5E5E5",
+        "primary_30": "#000000",
+        "accent_10": "#F05A24",
+        "ink": "#000000",
+        "muted_ink": "#666666",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Univers / Hanken Grotesk",
+        "body": "DM Mono",
+        "mono": "DM Mono",
+        "win_native_major": "News Gothic MT",
+        "win_native_minor": "Cascadia Mono",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#000000",
+        "#F05A24",
+        "#0071BB",
+        "#444444",
+        "#888888",
+        "#CCCCCC"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 16.5,
+      "brand_override_flag": false,
+      "grid_component_placement": "Hardware/UI framed like lab specimens on flat #F5F5F5; micro technical callout specs",
+      "focal_highlight_mechanics": "Tiny functional hits of #F05A24 orange and #0071BB blue"
+    },
+    {
+      "id": "TECH-05",
+      "name": "Dieter Rams Braun Functionalist",
+      "category": "TECH",
+      "sub_mood": "Consumer Electronics, Ergonomics & Systematic Design",
+      "reference_benchmark": "Dieter Rams / Braun System",
+      "reference_urls": [
+        "https://hueatlas.com/color-palettes/dieter-rams-color-palette/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F0EDE5",
+        "surface": "#C5C3BE",
+        "primary_30": "#2E2E2C",
+        "accent_10": "#C02820",
+        "ink": "#1A1A18",
+        "muted_ink": "#666560",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Public Sans",
+        "body": "IBM Plex Mono",
+        "mono": "IBM Plex Mono",
+        "win_native_major": "Abadi",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2E2E2C",
+        "#C02820",
+        "#D4B018",
+        "#595956",
+        "#878682",
+        "#B3B2AD"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 14.52,
+      "brand_override_flag": false,
+      "grid_component_placement": "Objective visual silence (#F0EDE5 warm housing white)",
+      "focal_highlight_mechanics": "Color strictly encodes system state (#C02820 critical trigger, #D4B018 power/active) rather than ornament"
+    },
+    {
+      "id": "TECH-06",
+      "name": "Nord Arctic Developer Stage",
+      "category": "TECH",
+      "sub_mood": "Developer Conference, Systems Engineering & Terminal Tools",
+      "reference_benchmark": "Nord Arctic Ice Studio",
+      "reference_urls": [
+        "https://www.nordtheme.com/docs/colors-and-palettes/"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#2E3440",
+        "surface": "#3B4252",
+        "primary_30": "#88C0D0",
+        "accent_10": "#EBCB8B",
+        "ink": "#ECEFF4",
+        "muted_ink": "#81A1C1",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Sora",
+        "body": "Fira Sans",
+        "mono": "JetBrains Mono",
+        "win_native_major": "Tenorite",
+        "win_native_minor": "Cascadia Code",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#88C0D0",
+        "#EBCB8B",
+        "#A3BE8C",
+        "#B48EAD",
+        "#81A1C1",
+        "#D08770"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 30.56,
+      "brand_override_flag": false,
+      "grid_component_placement": "Low-glare Polar Night elevation (#2E3440 → #3B4252 → #434C5E)",
+      "focal_highlight_mechanics": "Calm #88C0D0 frost highlights code blocks and system nodes without neon eye-strain"
+    },
+    {
+      "id": "TECH-07",
+      "name": "Gruvbox Warm Retro Terminal",
+      "category": "TECH",
+      "sub_mood": "Open Source CLI, Embedded Systems & Unix Tooling",
+      "reference_benchmark": "Gruvbox Dark System",
+      "reference_urls": [
+        "https://moltamp.com/blog/best-terminal-color-schemes-2026/"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#282828",
+        "surface": "#3C3836",
+        "primary_30": "#EBDBB2",
+        "accent_10": "#FE8019",
+        "ink": "#EBDBB2",
+        "muted_ink": "#A89984",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Bitter",
+        "body": "IBM Plex Sans",
+        "mono": "IBM Plex Mono",
+        "win_native_major": "Rockwell",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#FE8019",
+        "#EBDBB2",
+        "#B8BB26",
+        "#FABD2F",
+        "#83A598",
+        "#D3869B"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 20.69,
+      "brand_override_flag": false,
+      "grid_component_placement": "Warm blue-light-reducing engineering deck (10.75:1 AAA); cream #EBDBB2 text minimizes stark white halation",
+      "focal_highlight_mechanics": "#FE8019 orange marks live deployment metrics"
+    },
+    {
+      "id": "TECH-08",
+      "name": "Catppuccin Mocha DevRel",
+      "category": "TECH",
+      "sub_mood": "Developer Relations, Community Meetups & Open Source",
+      "reference_benchmark": "Catppuccin Mocha & Soft Neon",
+      "reference_urls": [
+        "https://paletadecolores.org/en/presentation-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#1E1E2E",
+        "surface": "#2E2E38",
+        "primary_30": "#B4BEFE",
+        "accent_10": "#A6E3A1",
+        "ink": "#F5F5F5",
+        "muted_ink": "#9399B2",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Lexend",
+        "body": "Work Sans",
+        "mono": "Cascadia Mono",
+        "win_native_major": "Corbel",
+        "win_native_minor": "Cascadia Mono",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "narrative_micro_motif",
+      "chart_palette_6": [
+        "#B4BEFE",
+        "#A6E3A1",
+        "#F38BA8",
+        "#F9E2AF",
+        "#89DCEB",
+        "#CBA6F7"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 28.46,
+      "brand_override_flag": false,
+      "grid_component_placement": "Developer-community talk system; soft desaturated pastel syntax accents",
+      "focal_highlight_mechanics": "#B4BEFE lavender, #A6E3A1 green, #F38BA8 rose keep architecture diagrams calm"
+    },
+    {
+      "id": "TECH-09",
+      "name": "Tokyo Night Keynote Stage",
+      "category": "TECH",
+      "sub_mood": "Artificial Intelligence, LLM Infra & Large Hall Demos",
+      "reference_benchmark": "Tokyo Night & Brutalist AI Deck",
+      "reference_urls": [
+        "https://moltamp.com/blog/best-terminal-color-schemes-2026/"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#1A1B26",
+        "surface": "#1F2430",
+        "primary_30": "#7AA2F7",
+        "accent_10": "#BB9AF7",
+        "ink": "#EAEAEA",
+        "muted_ink": "#7982A9",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Syne",
+        "body": "Manrope",
+        "mono": "DM Mono",
+        "win_native_major": "Century Gothic",
+        "win_native_minor": "Cascadia Code",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#7AA2F7",
+        "#BB9AF7",
+        "#7DCFFF",
+        "#9ECE6A",
+        "#E0AF68",
+        "#F7768E"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 35.43,
+      "brand_override_flag": false,
+      "grid_component_placement": "High-impact developer conference deck; crisp asymmetric code-to-benchmark splits",
+      "focal_highlight_mechanics": "Requires high projector luminance for dimmed secondary annotations"
+    },
+    {
+      "id": "TECH-10",
+      "name": "Cloudflare Edge Signal",
+      "category": "TECH",
+      "sub_mood": "Cybersecurity, CDN Infrastructure & Edge Computing",
+      "reference_benchmark": "Cloudflare Brand & B2B SaaS Pitch",
+      "reference_urls": [
+        "https://colorarchive.org/brands/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F7F7F7",
+        "primary_30": "#222222",
+        "accent_10": "#F38020",
+        "ink": "#1A1A1A",
+        "muted_ink": "#666666",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Archivo",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Franklin Gothic Medium",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#222222",
+        "#F38020",
+        "#FAAD3F",
+        "#404040",
+        "#666666",
+        "#999999"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 15.38,
+      "brand_override_flag": false,
+      "grid_component_placement": "High-visibility infrastructure diagrams (Graphviz flowcharts styled in #222222 + #F38020)",
+      "focal_highlight_mechanics": "Concise 6-word headlines; #F38020 latency callouts"
+    },
+    {
+      "id": "TECH-11",
+      "name": "Supabase Open-Source Dark",
+      "category": "TECH",
+      "sub_mood": "Serverless Database, Auth & Backend-as-a-Service",
+      "reference_benchmark": "Supabase Brand & Green AI Tech",
+      "reference_urls": [
+        "https://colorarchive.org/brands/"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#121212",
+        "surface": "#1E1E1E",
+        "primary_30": "#3ECF8E",
+        "accent_10": "#FFFFFF",
+        "ink": "#F5F5F5",
+        "muted_ink": "#858585",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Plus Jakarta Sans",
+        "body": "JetBrains Mono",
+        "mono": "JetBrains Mono",
+        "win_native_major": "Bierstadt",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#3ECF8E",
+        "#FFFFFF",
+        "#249C66",
+        "#B3B3B3",
+        "#1B6645",
+        "#707070"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 3.49,
+      "brand_override_flag": true,
+      "grid_component_placement": "Technical developer-tool launch deck; #3ECF8E emerald marks active SQL/API primitives",
+      "focal_highlight_mechanics": "Matte #121212 cards with 1px #2E2E2E dividers",
+      "brand_override_justification": "Canonical institutional benchmark: Supabase Brand & Green AI Tech (Delta E = 3.49 from Claude Warm Cream Signature Tell (Second-Wave Slop))"
+    },
+    {
+      "id": "TECH-12",
+      "name": "Framer Bento Minimalist",
+      "category": "TECH",
+      "sub_mood": "Web Design, Interactive Prototypes & Portfolio Pitch",
+      "reference_benchmark": "Framer Brand & Dribbble SDK 54 Bento",
+      "reference_urls": [
+        "https://colorarchive.org/brands/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#EEF0F3",
+        "primary_30": "#1A1A1A",
+        "accent_10": "#0099FF",
+        "ink": "#1A1A1A",
+        "muted_ink": "#686D76",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Manrope",
+        "body": "DM Sans",
+        "mono": "Consolas",
+        "win_native_major": "Avenir Next LT Pro",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Asymmetric 4-tile Bento grid",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1A1A1A",
+        "#0099FF",
+        "#33ADFF",
+        "#4D4D4D",
+        "#808080",
+        "#B3B3B3"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 14.51,
+      "brand_override_flag": false,
+      "grid_component_placement": "Asymmetric Bento-grid feature summary (1 large hero tile + 3 unequal supporting tiles, never equal clones)",
+      "focal_highlight_mechanics": "#0099FF sky highlights core differentiator"
+    },
+    {
+      "id": "TECH-13",
+      "name": "Cool Monochrome Technical Spec",
+      "category": "TECH",
+      "sub_mood": "Systems Architecture, UX Research & Product Specs",
+      "reference_benchmark": "Cool Monochrome & Pitch UX Strategy",
+      "reference_urls": [
+        "https://paletadecolores.org/en/minimalist-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#EEF1F4",
+        "primary_30": "#2C333A",
+        "accent_10": "#2F80ED",
+        "ink": "#222222",
+        "muted_ink": "#616E7D",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Public Sans",
+        "body": "IBM Plex Mono",
+        "mono": "IBM Plex Mono",
+        "win_native_major": "Selawik",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2C333A",
+        "#2F80ED",
+        "#56CCF2",
+        "#4F5D6B",
+        "#7B8A99",
+        "#AAB8C6"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 16.15,
+      "brand_override_flag": false,
+      "grid_component_placement": "UX research & systems-spec format; numbered journey stages (01 / to 04 /), crisp wireframes",
+      "focal_highlight_mechanics": "#2F80ED highlighting drop-off pain points"
+    },
+    {
+      "id": "TECH-14",
+      "name": "Arctic Platinum Hardware",
+      "category": "TECH",
+      "sub_mood": "Autonomous Hardware, Robotics & Industrial IoT",
+      "reference_benchmark": "Arctic Platinum & Tech Innovation",
+      "reference_urls": [
+        "https://paletadecolores.org/en/luxury-color-palettes/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#E5E4E2",
+        "surface": "#DCE7EE",
+        "primary_30": "#14181C",
+        "accent_10": "#5F6B73",
+        "ink": "#14181C",
+        "muted_ink": "#5A666E",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Urbanist",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Abadi",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "full_bleed_scrimmed",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#14181C",
+        "#5F6B73",
+        "#333D45",
+        "#89969F",
+        "#B5C1C9",
+        "#DCE7EE"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 11.36,
+      "brand_override_flag": true,
+      "grid_component_placement": "Cool metallic hardware showcase; full-bleed industrial renders framed on #E5E4E2 platinum canvas",
+      "focal_highlight_mechanics": "Ultra-clean dark spec tables",
+      "brand_override_justification": "Canonical institutional benchmark: Arctic Platinum & Tech Innovation (Delta E = 11.36 from Tailwind Slate-900 (Cold Slop Ink))"
+    },
+    {
+      "id": "TECH-15",
+      "name": "Apple Stage Stark Keynote",
+      "category": "TECH",
+      "sub_mood": "Flagship Keynote, High-Stakes Visionary Product Launch",
+      "reference_benchmark": "Apple HIG Typography & Color",
+      "reference_urls": [
+        "https://developer.apple.com/design/human-interface-guidelines/color"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#0A0A0A",
+        "surface": "#171717",
+        "primary_30": "#FFFFFF",
+        "accent_10": "#0088FF",
+        "ink": "#FFFFFF",
+        "muted_ink": "#86868B",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Plus Jakarta Sans / SF Pro",
+        "body": "Segoe UI",
+        "mono": "Cascadia Mono",
+        "win_native_major": "Segoe UI Semibold",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "device_ui_mockup_clean",
+      "shape_grammar": {
+        "corner_radius_max_pt": 0,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#FFFFFF",
+        "#0088FF",
+        "#86868B",
+        "#43A047",
+        "#FF9500",
+        "#FF3B30"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 3.49,
+      "brand_override_flag": true,
+      "grid_component_placement": "Pure keynote minimalism: 1 oversized visual or single number per slide, zero bullets",
+      "focal_highlight_mechanics": "Avoiding Ultralight/Thin weights (Regular/Semibold+ only); #0088FF focal beacon",
+      "brand_override_justification": "Canonical institutional benchmark: Apple HIG Typography & Color (Delta E = 3.49 from Claude Warm Cream Signature Tell (Second-Wave Slop))"
+    }
+  ]
+}

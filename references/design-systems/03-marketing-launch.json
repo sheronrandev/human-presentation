@@ -1,0 +1,1089 @@
+{
+  "category": "MKT",
+  "count": 15,
+  "systems": [
+    {
+      "id": "MKT-01",
+      "name": "Spotify Duotone Stage",
+      "category": "MKT",
+      "sub_mood": "Audio Streaming, Music Tech & Youth Culture",
+      "reference_benchmark": "Spotify Brand Guidelines",
+      "reference_urls": [
+        "https://www.omoro.io/brands/spotify"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#121212",
+        "surface": "#191414",
+        "primary_30": "#FFFFFF",
+        "accent_10": "#1ED760",
+        "ink": "#FFFFFF",
+        "muted_ink": "#B3B3B3",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Figtree Bold",
+        "body": "DM Mono",
+        "mono": "DM Mono",
+        "win_native_major": "Century Gothic",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "duotone",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1ED760",
+        "#FFFFFF",
+        "#1DB954",
+        "#B3B3B3",
+        "#169C46",
+        "#535353"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 3.49,
+      "brand_override_flag": true,
+      "grid_component_placement": "Tight, oversized bold headlines; dark canvas lets duotone campaign art carry chromatic energy",
+      "focal_highlight_mechanics": "#1ED760 highlights solely playback/CTA metrics",
+      "brand_override_justification": "Canonical institutional benchmark: Spotify Brand Guidelines (Delta E = 3.49 from Claude Warm Cream Signature Tell (Second-Wave Slop))"
+    },
+    {
+      "id": "MKT-02",
+      "name": "Airbnb Rausch Human Story",
+      "category": "MKT",
+      "sub_mood": "Community Marketplace & Belong Anywhere",
+      "reference_benchmark": "Airbnb Design System & Pitch Deck",
+      "reference_urls": [
+        "https://paletadecolores.org/en/brands/airbnb.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F7F7F5",
+        "primary_30": "#484848",
+        "accent_10": "#FF5A5F",
+        "ink": "#484848",
+        "muted_ink": "#767676",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Plus Jakarta Sans",
+        "body": "Nunito Sans",
+        "mono": "Consolas",
+        "win_native_major": "Avenir Next LT Pro",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#FF5A5F",
+        "#484848",
+        "#00A699",
+        "#FC642D",
+        "#767676",
+        "#B2B2B2"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 9.62,
+      "brand_override_flag": true,
+      "grid_component_placement": "Warm, human-centric photography grids; #00A699 secondary teal supports comparison visuals",
+      "focal_highlight_mechanics": "Airy negative space around customer testimonials; #FF5A5F brand anchors",
+      "brand_override_justification": "Canonical institutional benchmark: Airbnb Design System & Pitch Deck (Delta E = 9.62 from Tailwind Red-500 (RAG Semantic Slop))"
+    },
+    {
+      "id": "MKT-03",
+      "name": "Figma Collaborative Spectrum",
+      "category": "MKT",
+      "sub_mood": "Creative Software & Design Team Collaboration",
+      "reference_benchmark": "Figma Brand System & Pullmer Deck",
+      "reference_urls": [
+        "https://www.colorpalettegenerator.ai/brands/figma"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F5F5F5",
+        "primary_30": "#1E1E1E",
+        "accent_10": "#F24E1E",
+        "ink": "#1E1E1E",
+        "muted_ink": "#666666",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Bricolage Grotesque",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Berlin Sans FB",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#F24E1E",
+        "#A259FF",
+        "#0ACF83",
+        "#1ABCFE",
+        "#FF7262",
+        "#1E1E1E"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 14.82,
+      "brand_override_flag": false,
+      "grid_component_placement": "Visual democracy across four balanced logo accents (#F24E1E, #A259FF, #0ACF83, #1ABCFE)",
+      "focal_highlight_mechanics": "Strictly assigned by functional persona/channel"
+    },
+    {
+      "id": "MKT-04",
+      "name": "Coral & Mint Consumer GTM",
+      "category": "MKT",
+      "sub_mood": "Direct-to-Consumer Wellness & Subscription Launch",
+      "reference_benchmark": "Pitch Go-to-Market & Coral Mint",
+      "reference_urls": [
+        "https://paletadecolores.org/en/happy-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FFF8F5",
+        "surface": "#FFFFFF",
+        "primary_30": "#2A9D8F",
+        "accent_10": "#FF7E67",
+        "ink": "#262626",
+        "muted_ink": "#6E7075",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Sora",
+        "body": "Nunito",
+        "mono": "Consolas",
+        "win_native_major": "Corbel",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2A9D8F",
+        "#FF7E67",
+        "#E76F51",
+        "#F4A261",
+        "#E9C46A",
+        "#264653"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 19.53,
+      "brand_override_flag": false,
+      "grid_component_placement": "Asymmetric 55/45 split pairing friendly product lifestyle photography",
+      "focal_highlight_mechanics": "#2A9D8F funnel steps and #FF7E67 conversion-rate callouts"
+    },
+    {
+      "id": "MKT-05",
+      "name": "Editorial Pop-Pink Campaign",
+      "category": "MKT",
+      "sub_mood": "Fashion Forward, Streetwear & Pop Culture",
+      "reference_benchmark": "Black-White-Pink & Envato Xoke",
+      "reference_urls": [
+        "https://paletadecolores.org/en/presentation-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F7F7F7",
+        "primary_30": "#121212",
+        "accent_10": "#FF6B9A",
+        "ink": "#121212",
+        "muted_ink": "#666666",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Syne Bold",
+        "body": "DM Sans",
+        "mono": "Consolas",
+        "win_native_major": "Impact",
+        "win_native_minor": "Avenir Next LT Pro",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "full_bleed_scrimmed",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#121212",
+        "#FF6B9A",
+        "#404040",
+        "#FF94B8",
+        "#737373",
+        "#FFBDD4"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 14.67,
+      "brand_override_flag": false,
+      "grid_component_placement": "High-contrast black-and-white typographic punch broken by surgical #FF6B9A",
+      "focal_highlight_mechanics": "Highlighter-block text backing and full-bleed editorial portraits"
+    },
+    {
+      "id": "MKT-06",
+      "name": "Youthful Prussian & Honey",
+      "category": "MKT",
+      "sub_mood": "Mobile Gaming, EdTech & Gen-Z Engagement",
+      "reference_benchmark": "Venngage Prussian-Honey & Animated App",
+      "reference_urls": [
+        "https://venngage.com/blog/blue-color-palettes/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#E0F2FE",
+        "primary_30": "#023047",
+        "accent_10": "#FFB703",
+        "ink": "#023047",
+        "muted_ink": "#486273",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Outfit",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Gill Sans MT",
+        "win_native_minor": "Trebuchet MS",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#023047",
+        "#FFB703",
+        "#FB8500",
+        "#219EBC",
+        "#8ECAE6",
+        "#011824"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 12.91,
+      "brand_override_flag": false,
+      "grid_component_placement": "Energetic consumer-app launch layout; deep #023047 anchors mobile device mockups",
+      "focal_highlight_mechanics": "#FFB703 and #FB8500 drive attention to user-growth stats"
+    },
+    {
+      "id": "MKT-07",
+      "name": "Asana Focused Productivity",
+      "category": "MKT",
+      "sub_mood": "Workplace Collaboration & Enterprise SaaS Adoption",
+      "reference_benchmark": "Asana Brand & Envato Brand Proposal",
+      "reference_urls": [
+        "https://elements.envato.com/presentation-templates/branding"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F5F5F5",
+        "primary_30": "#1AAFD0",
+        "accent_10": "#FC636B",
+        "ink": "#2B2B2B",
+        "muted_ink": "#6E6E6E",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Mulish",
+        "body": "Karla",
+        "mono": "Consolas",
+        "win_native_major": "Candara",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "luminance_spotlight",
+      "chart_palette_6": [
+        "#1AAFD0",
+        "#FC636B",
+        "#FFB900",
+        "#335C67",
+        "#E09F3E",
+        "#2B2B2B"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 15.7,
+      "brand_override_flag": false,
+      "grid_component_placement": "Calm, productive campaign roadmap; subdued coral #FC636B elevates priority actions",
+      "focal_highlight_mechanics": "Eliminates alarm/error psychology while spotlighting target milestones"
+    },
+    {
+      "id": "MKT-08",
+      "name": "Stadium Orange & Electric Blue",
+      "category": "MKT",
+      "sub_mood": "Athletic Apparel, Sports Marketing & Energy Drinks",
+      "reference_benchmark": "Orange Electric Blue & Bold Orange Kit",
+      "reference_urls": [
+        "https://paletadecolores.org/en/neon-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#101820",
+        "surface": "#1F2430",
+        "primary_30": "#FF6B00",
+        "accent_10": "#00A8FF",
+        "ink": "#E8E8E8",
+        "muted_ink": "#8E94A0",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Archivo Black",
+        "body": "Archivo Narrow",
+        "mono": "Consolas",
+        "win_native_major": "Arial Black",
+        "win_native_minor": "Franklin Gothic Medium",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#FF6B00",
+        "#00A8FF",
+        "#FF8533",
+        "#33B9FF",
+        "#FFA366",
+        "#66CAFF"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 30.82,
+      "brand_override_flag": false,
+      "grid_component_placement": "Across-the-room visibility for keynote product launches",
+      "focal_highlight_mechanics": "Pure complementary orange/blue split with zero murky gradients"
+    },
+    {
+      "id": "MKT-09",
+      "name": "Memphis Geometric Digital",
+      "category": "MKT",
+      "sub_mood": "Playful Digital Media & Influencer Campaign",
+      "reference_benchmark": "80s Memphis & SlidesCarnival Memphis Sales",
+      "reference_urls": [
+        "https://www.slidescarnival.com/tag/marketing"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F7F7F7",
+        "primary_30": "#845EC2",
+        "accent_10": "#FF6F91",
+        "ink": "#2B2B2B",
+        "muted_ink": "#706E75",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Prompt",
+        "body": "Rubik",
+        "mono": "Consolas",
+        "win_native_major": "Century Gothic",
+        "win_native_minor": "Trebuchet MS",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#845EC2",
+        "#FF6F91",
+        "#FFC75F",
+        "#00C2A8",
+        "#D65DB1",
+        "#4B4453"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 23.65,
+      "brand_override_flag": false,
+      "grid_component_placement": "Crisp geometric shape framing (quarter-circles, offset dots, crisp thin black outlines)",
+      "focal_highlight_mechanics": "Paired with playful #FFC75F and #00C2A8 channel tags"
+    },
+    {
+      "id": "MKT-10",
+      "name": "Confetti Multi-Channel Deck",
+      "category": "MKT",
+      "sub_mood": "Omnichannel Growth Marketing & Attribution Review",
+      "reference_benchmark": "Confetti & Envato Marketing Plan",
+      "reference_urls": [
+        "https://paletadecolores.org/en/happy-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F2F4F8",
+        "primary_30": "#118AB2",
+        "accent_10": "#EF476F",
+        "ink": "#073B4C",
+        "muted_ink": "#516975",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Poppins Semibold",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Tw Cen MT",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#118AB2",
+        "#EF476F",
+        "#06D6A0",
+        "#FFD166",
+        "#073B4C",
+        "#1B9AAA"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 23.69,
+      "brand_override_flag": false,
+      "grid_component_placement": "Balanced 4-channel attribution visual system (#118AB2, #06D6A0, #FFD166, #EF476F)",
+      "focal_highlight_mechanics": "Anchored by deep #073B4C typography"
+    },
+    {
+      "id": "MKT-11",
+      "name": "Southwest Warm Brand Launch",
+      "category": "MKT",
+      "sub_mood": "Artisanal Hospitality & Heritage Retail Rollout",
+      "reference_benchmark": "Venngage Southwest Blue-Orange",
+      "reference_urls": [
+        "https://venngage.com/blog/blue-color-palettes/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#EAE2B7",
+        "surface": "#FFFFFF",
+        "primary_30": "#003049",
+        "accent_10": "#F77F00",
+        "ink": "#003049",
+        "muted_ink": "#486373",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "League Spartan",
+        "body": "Libre Baskerville",
+        "mono": "Consolas",
+        "win_native_major": "Gill Sans MT",
+        "win_native_minor": "Georgia",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#003049",
+        "#F77F00",
+        "#D62828",
+        "#FCBF49",
+        "#005580",
+        "#EAE2B7"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 14.03,
+      "brand_override_flag": false,
+      "grid_component_placement": "Tactile warm parchment canvas contrasting crisp white media cards and #003049 deep navy copy",
+      "focal_highlight_mechanics": "#D62828 secondary red for urgent campaign launches"
+    },
+    {
+      "id": "MKT-12",
+      "name": "Clean-Girl Beauty Launch",
+      "category": "MKT",
+      "sub_mood": "Skincare, Clean Beauty & DTC Fragrance",
+      "reference_benchmark": "Glossier Brand & Clean Girl Aesthetic",
+      "reference_urls": [
+        "https://colorarchive.org/brands/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F7F1EE",
+        "primary_30": "#1A1A1A",
+        "accent_10": "#F8D6CD",
+        "ink": "#3B302C",
+        "muted_ink": "#7A6F6B",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "DM Serif Display",
+        "body": "Karla",
+        "mono": "Consolas",
+        "win_native_major": "Bodoni MT",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#3B302C",
+        "#F8D6CD",
+        "#7A5C58",
+        "#D9A094",
+        "#1A1A1A",
+        "#F7F1EE"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 14.51,
+      "brand_override_flag": false,
+      "grid_component_placement": "Minimalist cosmetic brand book; generous white borders framing macro product textures",
+      "focal_highlight_mechanics": "Soft blush #F8D6CD tint panels paired with stark black wordmarks"
+    },
+    {
+      "id": "MKT-13",
+      "name": "Documentary High-Impact Yellow",
+      "category": "MKT",
+      "sub_mood": "Broadcast Documentary, Nature Media & Photojournalism",
+      "reference_benchmark": "National Geographic Identity",
+      "reference_urls": [
+        "https://pickcoloronline.com/brands/national-geographic/"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#0F0F0F",
+        "surface": "#1E1E1E",
+        "primary_30": "#FFCC00",
+        "accent_10": "#FFFFFF",
+        "ink": "#FFFFFF",
+        "muted_ink": "#999999",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Oswald Bold",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Franklin Gothic Medium",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "full_bleed_scrimmed",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#FFCC00",
+        "#FFFFFF",
+        "#CC9900",
+        "#999999",
+        "#666666",
+        "#333333"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 3.49,
+      "brand_override_flag": true,
+      "grid_component_placement": "Iconic vertical yellow rectangular framing portal isolating full-bleed documentary photography",
+      "focal_highlight_mechanics": "Ultra-minimal caption overlay with dark scrim",
+      "brand_override_justification": "Canonical institutional benchmark: National Geographic Identity (Delta E = 3.49 from Claude Warm Cream Signature Tell (Second-Wave Slop))"
+    },
+    {
+      "id": "MKT-14",
+      "name": "Citrus Brass Artisan CPG",
+      "category": "MKT",
+      "sub_mood": "Craft Beverage, Specialty Foods & Artisanal CPG",
+      "reference_benchmark": "Citrus Brass Pop & Craver Guidelines",
+      "reference_urls": [
+        "https://www.media.io/color-palette/art-deco-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#1B1C20",
+        "surface": "#2B2B31",
+        "primary_30": "#F0C23E",
+        "accent_10": "#D88F2A",
+        "ink": "#F7F1E3",
+        "muted_ink": "#A39E91",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Gravitas One",
+        "body": "Montserrat",
+        "mono": "Consolas",
+        "win_native_major": "Rockwell",
+        "win_native_minor": "Avenir Next LT Pro",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#F0C23E",
+        "#D88F2A",
+        "#3E4A3C",
+        "#F7F1E3",
+        "#8C581E",
+        "#5E3812"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 16.41,
+      "brand_override_flag": false,
+      "grid_component_placement": "Marquee-inspired retro-modern retail deck; stacked yellow/amber display numerals",
+      "focal_highlight_mechanics": "#3E4A3C green restricted strictly to tiny origin badges"
+    },
+    {
+      "id": "MKT-15",
+      "name": "Modern Fuchsia Social Growth",
+      "category": "MKT",
+      "sub_mood": "Social Commerce, TikTok/Meta Performance Marketing",
+      "reference_benchmark": "Modern Fuchsia & Instagram Campaign",
+      "reference_urls": [
+        "https://www.slidescarnival.com/tag/marketing"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#FCE4EF",
+        "primary_30": "#2B2B2B",
+        "accent_10": "#C2185B",
+        "ink": "#2B2B2B",
+        "muted_ink": "#6E6E6E",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Epilogue",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "News Gothic MT",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2B2B2B",
+        "#C2185B",
+        "#E91E63",
+        "#F48FB1",
+        "#5C0028",
+        "#880E4F"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 17.33,
+      "brand_override_flag": false,
+      "grid_component_placement": "Vertical 9:16 social-post mockup frames embedded inside a 16:9 horizontal grid",
+      "focal_highlight_mechanics": "#C2185B calls out ROAS and engagement lift cleanly (WCAG AA compliant)"
+    }
+  ]
+}

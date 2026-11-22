@@ -1,0 +1,70 @@
+{
+  "specification": "Human Presentation Windows Font Fallback Matrix & Cloud Typography Architecture",
+  "version": "2026.1",
+  "windows_11_native_fonts": {
+    "serif": [
+      { "family": "Georgia", "styles": ["Regular", "Bold", "Italic", "Bold Italic"], "ideal_role": "Editorial & Academic Headings", "fsType": 0 },
+      { "family": "Cambria", "styles": ["Regular", "Bold", "Italic", "Bold Italic"], "ideal_role": "Institutional Research & Equations", "fsType": 0 },
+      { "family": "Constantia", "styles": ["Regular", "Bold", "Italic", "Bold Italic"], "ideal_role": "Warm Book & Humanities Headings", "fsType": 0 },
+      { "family": "Palatino Linotype", "styles": ["Regular", "Bold", "Italic", "Bold Italic"], "ideal_role": "Classical Authority & History", "fsType": 0 },
+      { "family": "Sitka Display", "styles": ["Regular", "Bold", "Italic", "Bold Italic"], "ideal_role": "Optical Scaled Editorial Headlines", "fsType": 0 }
+    ],
+    "sans": [
+      { "family": "Segoe UI", "styles": ["Regular", "Semibold", "Bold", "Italic", "Bold Italic"], "ideal_role": "UI, Clean Metadata & Neutral Copy", "fsType": 0 },
+      { "family": "Franklin Gothic Medium", "styles": ["Regular", "Italic"], "ideal_role": "High-Impact Architectural & Punchy Titles", "fsType": 0 },
+      { "family": "Candara", "styles": ["Regular", "Bold", "Italic", "Bold Italic"], "ideal_role": "Humanist Organic Copy", "fsType": 0 },
+      { "family": "Corbel", "styles": ["Regular", "Bold", "Italic", "Bold Italic"], "ideal_role": "Clean Scannable Body Text", "fsType": 0 },
+      { "family": "Trebuchet MS", "styles": ["Regular", "Bold", "Italic", "Bold Italic"], "ideal_role": "Crisp Low-Resolution Display", "fsType": 0 },
+      { "family": "Verdana", "styles": ["Regular", "Bold", "Italic", "Bold Italic"], "ideal_role": "Maximum Legibility Micro-Data", "fsType": 0 }
+    ],
+    "mono": [
+      { "family": "Consolas", "styles": ["Regular", "Bold", "Italic", "Bold Italic"], "ideal_role": "Clean Developer Code & Tabular Alignment", "fsType": 0 },
+      { "family": "Cascadia Mono", "styles": ["Regular", "Bold", "Italic", "Bold Italic"], "ideal_role": "Modern Terminal & Engineering Figures", "fsType": 0 }
+    ]
+  },
+  "microsoft_365_cloud_fonts": {
+    "sans": [
+      { "family": "Avenir Next LT Pro", "cloud_available": true, "substitute_native": "Century Gothic / Segoe UI" },
+      { "family": "Neue Haas Grotesk Text Pro", "cloud_available": true, "substitute_native": "Arial / Calibri" },
+      { "family": "Bierstadt", "cloud_available": true, "substitute_native": "Segoe UI / Arial" },
+      { "family": "Tenorite", "cloud_available": true, "substitute_native": "Segoe UI" },
+      { "family": "Abadi", "cloud_available": true, "substitute_native": "Trebuchet MS" },
+      { "family": "Century Gothic", "cloud_available": true, "substitute_native": "Century Gothic" },
+      { "family": "News Gothic MT", "cloud_available": true, "substitute_native": "Franklin Gothic Medium" },
+      { "family": "Agency FB", "cloud_available": true, "substitute_native": "Impact" }
+    ],
+    "serif": [
+      { "family": "Garamond", "cloud_available": true, "substitute_native": "Georgia" },
+      { "family": "Bookman Old Style", "cloud_available": true, "substitute_native": "Georgia" },
+      { "family": "Bodoni MT", "cloud_available": true, "substitute_native": "Georgia" },
+      { "family": "Rockwell", "cloud_available": true, "substitute_native": "Calisto MT" },
+      { "family": "Perpetua", "cloud_available": true, "substitute_native": "Palatino Linotype" },
+      { "family": "Amasis MT Pro", "cloud_available": true, "substitute_native": "Bookman Old Style" },
+      { "family": "Tisa Offc Serif Pro", "cloud_available": true, "substitute_native": "Cambria" }
+    ]
+  },
+  "typographic_traps_and_guardrails": {
+    "bahnschrift_pdf_bug": {
+      "type": "OpenType Variable Weight Collapse",
+      "symptom": "Non-Regular weights (Semibold, Bold, Light) collapse back to Bahnschrift Regular upon Microsoft PowerPoint PDF export.",
+      "enforcement_rule": "Exclude Bahnschrift from PDF-bound decks; substitute Franklin Gothic Medium, News Gothic MT, or Avenir Next LT Pro."
+    },
+    "baskerville_old_face_limitation": {
+      "type": "Missing Font Styles",
+      "symptom": "Ships only as a single Regular weight without genuine Bold or Bold Italic, producing synthetic artificial slant/thickening in Office.",
+      "enforcement_rule": "Reserve Baskerville Old Face strictly for display titles without bold tags; substitute Bookman Old Style or Georgia where bold emphasis is required."
+    },
+    "bell_mt_limitation": {
+      "type": "Missing Bold Italic Style",
+      "symptom": "Lacks native Bold Italic style.",
+      "enforcement_rule": "Substitute Palatino Linotype or Georgia for multi-weight editorial prose."
+    },
+    "ooxml_embedding_schema_constraints": {
+      "child_variant_order": "Child elements in <p:embeddedFont> must strictly follow regular -> bold -> italic -> boldItalic; omit absent styles without blank tags.",
+      "parent_sequence_position": "<p:embeddedFontLst> must precede <p:defaultTextStyle> inside <p:presentation>.",
+      "mandatory_attributes": "<p:font> declaration requires pitchFamily=\"2\" charset=\"0\".",
+      "name_table_match": "XML typeface attribute must match font binary OpenType name table (nameID=\"1\") verbatim.",
+      "fstype_licensing_gate": "0 = Installable, 8 = Editable; reject 2 = Restricted License; flag 4 = Preview & Print read-only warning."
+    }
+  }
+}

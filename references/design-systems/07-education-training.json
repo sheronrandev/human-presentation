@@ -1,0 +1,1089 @@
+{
+  "category": "EDU",
+  "count": 15,
+  "systems": [
+    {
+      "id": "EDU-01",
+      "name": "Little Explorers Monochrome",
+      "category": "EDU",
+      "sub_mood": "Early Childhood, Playful Storytelling & Illustrated Workshop",
+      "reference_benchmark": "Uploaded Showcase #4 & Notebook Doodles",
+      "reference_urls": [
+        "https://slidesgo.com/theme/educational-portfolio-for-elementary-school"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F2F2F2",
+        "primary_30": "#0F0F0F",
+        "accent_10": "#555555",
+        "ink": "#141414",
+        "muted_ink": "#666666",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Caveat / Kalam",
+        "body": "Nunito",
+        "mono": "Consolas",
+        "win_native_major": "The Hand / Ink Free",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#0F0F0F",
+        "#555555",
+        "#333333",
+        "#777777",
+        "#999999",
+        "#BBBBBB"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 14.9,
+      "brand_override_flag": false,
+      "grid_component_placement": "Single-artist black-ink narrative mascot (tuxedo cat) points directly at charts and frames content",
+      "focal_highlight_mechanics": "Hand-drawn doodle borders eliminate corporate sterility"
+    },
+    {
+      "id": "EDU-02",
+      "name": "Duolingo Gamified Feather",
+      "category": "EDU",
+      "sub_mood": "Gamified Language Learning & Micro-Interactions",
+      "reference_benchmark": "Duolingo Brand Guidelines",
+      "reference_urls": [
+        "https://colorsinspo.com/brands/duolingo"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F0F0F0",
+        "primary_30": "#58CC02",
+        "accent_10": "#1CB0F6",
+        "ink": "#4B4B4B",
+        "muted_ink": "#777777",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Nunito Bold",
+        "body": "Lexend",
+        "mono": "Consolas",
+        "win_native_major": "Arial Rounded MT Bold",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#58CC02",
+        "#1CB0F6",
+        "#FFC800",
+        "#FF4B4B",
+        "#79E024",
+        "#4B4B4B"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 31.62,
+      "brand_override_flag": false,
+      "grid_component_placement": "Chunked micro-lesson modules; soft #4B4B4B Eel typography replaces harsh pure black",
+      "focal_highlight_mechanics": "#58CC02 Feather Green and #FFC800 Bee mark mastery checkpoints"
+    },
+    {
+      "id": "EDU-03",
+      "name": "Khan Academy Mastery",
+      "category": "EDU",
+      "sub_mood": "Structured Scaffolding & Online STEM Mastery",
+      "reference_benchmark": "Khan Academy Identity & Edulearn",
+      "reference_urls": [
+        "https://www.brandcolorcode.com/khan-academy"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F5F7FA",
+        "primary_30": "#0A2A66",
+        "accent_10": "#14BF96",
+        "ink": "#242F3A",
+        "muted_ink": "#617180",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Lexend",
+        "body": "Lato",
+        "mono": "Consolas",
+        "win_native_major": "Candara",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#0A2A66",
+        "#14BF96",
+        "#1B4D9B",
+        "#22D4AB",
+        "#3A72C2",
+        "#5EE0C0"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 8.89,
+      "brand_override_flag": true,
+      "grid_component_placement": "Worked-example 2-column scaffolding (left step-by-step problem, right integrated visual)",
+      "focal_highlight_mechanics": "#14BF96 teal marks each solved reasoning step",
+      "brand_override_justification": "Canonical institutional benchmark: Khan Academy Identity & Edulearn (Delta E = 8.89 from Tailwind Emerald-500 (Anti-Purple Reflex Tell))"
+    },
+    {
+      "id": "EDU-04",
+      "name": "Grid Notebook Pastel Workshop",
+      "category": "EDU",
+      "sub_mood": "Hands-on Workshop, Creative Journaling & Study Guides",
+      "reference_benchmark": "Educational Pastel & Grid Notebook",
+      "reference_urls": [
+        "https://www.presentationgo.com/presentation/grid-notebook-presentation-template/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FFFBF2",
+        "surface": "#FFE6A7",
+        "primary_30": "#445A7A",
+        "accent_10": "#B8E0D2",
+        "ink": "#2F3E4E",
+        "muted_ink": "#6B7D91",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Bitter",
+        "body": "Open Sans",
+        "mono": "Consolas",
+        "win_native_major": "Rockwell",
+        "win_native_minor": "Trebuchet MS",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#445A7A",
+        "#B8E0D2",
+        "#FFE6A7",
+        "#5D7A9E",
+        "#9AC8B8",
+        "#D9BF7E"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 18.99,
+      "brand_override_flag": false,
+      "grid_component_placement": "Subtle graph-paper background texture; pastel marker highlight strokes behind key vocabulary terms",
+      "focal_highlight_mechanics": "#445A7A dark slate guarantees effortless reading"
+    },
+    {
+      "id": "EDU-05",
+      "name": "Primary Learning Blocks",
+      "category": "EDU",
+      "sub_mood": "Elementary K-5 Education, Foundational Math & Phonics",
+      "reference_benchmark": "Fun Primaries & Memphis Playful Edu",
+      "reference_urls": [
+        "https://paletadecolores.org/en/kids-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F5F5F5",
+        "primary_30": "#1D70B8",
+        "accent_10": "#FFD500",
+        "ink": "#2B2B2B",
+        "muted_ink": "#6E6E6E",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Quicksand",
+        "body": "Nunito Sans",
+        "mono": "Consolas",
+        "win_native_major": "Berlin Sans FB",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1D70B8",
+        "#FFD500",
+        "#E63946",
+        "#2BA84A",
+        "#4A92D1",
+        "#F57C00"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 30.54,
+      "brand_override_flag": false,
+      "grid_component_placement": "High-differentiation elementary lesson slides; bold primary shapes (#E63946, #FFD500, #1D70B8, #2BA84A)",
+      "focal_highlight_mechanics": "ALWAYS paired with distinct icons/numbers for colorblind students"
+    },
+    {
+      "id": "EDU-06",
+      "name": "STEM Tactile Supplies",
+      "category": "EDU",
+      "sub_mood": "Middle School Science, Makerspace & Hands-on Lab Protocols",
+      "reference_benchmark": "School Supplies & STEM Workshop",
+      "reference_urls": [
+        "https://paletadecolores.org/en/kids-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F4F6F8",
+        "primary_30": "#277DA1",
+        "accent_10": "#F8961E",
+        "ink": "#222222",
+        "muted_ink": "#616161",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Rubik",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Corbel",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#277DA1",
+        "#F8961E",
+        "#4D908E",
+        "#F9C74F",
+        "#F3722C",
+        "#90BE6D"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 7.39,
+      "brand_override_flag": true,
+      "grid_component_placement": "Hands-on lab instruction deck; numbered circular step badges (1–4) spatially pinned directly next to apparatus diagrams",
+      "focal_highlight_mechanics": "Eliminating split attention; #F8961E warning points",
+      "brand_override_justification": "Canonical institutional benchmark: School Supplies & STEM Workshop (Delta E = 7.39 from Tailwind Amber-500 (RAG Semantic Slop))"
+    },
+    {
+      "id": "EDU-07",
+      "name": "Soft Rainbow Inclusive",
+      "category": "EDU",
+      "sub_mood": "Special Education, Low-Arousal Classroom & Neurodiverse Learning",
+      "reference_benchmark": "Soft Rainbow & Elementary Portfolio",
+      "reference_urls": [
+        "https://paletadecolores.org/en/kids-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FFF8F0",
+        "surface": "#FFFFFF",
+        "primary_30": "#2F4858",
+        "accent_10": "#90CDF4",
+        "ink": "#2F4858",
+        "muted_ink": "#687E8C",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Figtree",
+        "body": "Quicksand",
+        "mono": "Consolas",
+        "win_native_major": "Trebuchet MS",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2F4858",
+        "#90CDF4",
+        "#F7A8A8",
+        "#FBD38D",
+        "#9AE6B4",
+        "#4E6B7E"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 22.82,
+      "brand_override_flag": false,
+      "grid_component_placement": "Sensory-friendly low-arousal classroom slides; warm #FFF8F0 canvas with soft pastel section tabs",
+      "focal_highlight_mechanics": "#F7A8A8, #FBD38D, #9AE6B4, #90CDF4 and deep slate text"
+    },
+    {
+      "id": "EDU-08",
+      "name": "Corporate L&D Sky-Navy",
+      "category": "EDU",
+      "sub_mood": "Workforce Training, Compliance Certifications & Professional Upskilling",
+      "reference_benchmark": "Sky Blue & Navy & Envato Traine",
+      "reference_urls": [
+        "https://elements.envato.com/presentation-templates/training/compatible-with-powerpoint"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F7FBFF",
+        "surface": "#CFE6FA",
+        "primary_30": "#1E4E8C",
+        "accent_10": "#5BA4E6",
+        "ink": "#0D2340",
+        "muted_ink": "#4E6785",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Plus Jakarta Sans",
+        "body": "Open Sans",
+        "mono": "Consolas",
+        "win_native_major": "Avenir Next LT Pro",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1E4E8C",
+        "#5BA4E6",
+        "#2B6BB8",
+        "#82BCEF",
+        "#4B88D6",
+        "#AFD4F5"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 35.71,
+      "brand_override_flag": false,
+      "grid_component_placement": "Onboarding & workforce training deck; persistent left learning-objective tracker",
+      "focal_highlight_mechanics": "Interactive scenario decision slides implementing Mayer's Generative Activity"
+    },
+    {
+      "id": "EDU-09",
+      "name": "Oxford Contemporary Course",
+      "category": "EDU",
+      "sub_mood": "Modern MOOC, Hybrid University Lecture & Executive Webinar",
+      "reference_benchmark": "University of Oxford Contemporary & Courssio",
+      "reference_urls": [
+        "https://oxford-ihtm.io/oxthema/articles/oxthema.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#E4F0EF",
+        "primary_30": "#00AAB4",
+        "accent_10": "#FE615A",
+        "ink": "#211D1C",
+        "muted_ink": "#615D5C",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Montserrat",
+        "body": "Noto Serif",
+        "mono": "Consolas",
+        "win_native_major": "Century Gothic",
+        "win_native_minor": "Georgia",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#00AAB4",
+        "#FE615A",
+        "#20C2CC",
+        "#FF8681",
+        "#4CD4DC",
+        "#FFAAA7"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 9.43,
+      "brand_override_flag": true,
+      "grid_component_placement": "Modern university MOOC and webinar deck; crisp #E4F0EF definition callout panels",
+      "focal_highlight_mechanics": "Energetic #FE615A quiz/discussion prompts",
+      "brand_override_justification": "Canonical institutional benchmark: University of Oxford Contemporary & Courssio (Delta E = 9.43 from Tailwind Red-500 (RAG Semantic Slop))"
+    },
+    {
+      "id": "EDU-10",
+      "name": "LMU Scholarly Green Courseware",
+      "category": "EDU",
+      "sub_mood": "Structured European University Seminar & Law/Econ Syllabus",
+      "reference_benchmark": "LMU Munich Identity & Envato Educore",
+      "reference_urls": [
+        "https://github.com/hneth/unicol/blob/main/R/LMU_Munich.R"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F5F5F5",
+        "surface": "#E6E6E7",
+        "primary_30": "#00883A",
+        "accent_10": "#009FE3",
+        "ink": "#232323",
+        "muted_ink": "#666666",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Source Sans 3",
+        "body": "Merriweather",
+        "mono": "Consolas",
+        "win_native_major": "Segoe UI",
+        "win_native_minor": "Cambria",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#00883A",
+        "#009FE3",
+        "#1EA854",
+        "#2BB4ED",
+        "#45C274",
+        "#63C8F2"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 19.67,
+      "brand_override_flag": false,
+      "grid_component_placement": "Structured European lecture deck; neutral #F5F5F5 light-gray canvas lowers screen fatigue during 90-minute seminars",
+      "focal_highlight_mechanics": "#00883A anchors key conceptual summaries"
+    },
+    {
+      "id": "EDU-11",
+      "name": "Bonn Cobalt & Canary Curriculum",
+      "category": "EDU",
+      "sub_mood": "STEM Higher Education, Formal Math Modules & Curriculum Maps",
+      "reference_benchmark": "Uni Bonn Palette & Envato Eduversity",
+      "reference_urls": [
+        "https://hneth.github.io/unikn/reference/uni_bonn_2.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#E3E3E0",
+        "primary_30": "#004E9F",
+        "accent_10": "#FCBA00",
+        "ink": "#2B2B2B",
+        "muted_ink": "#686868",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Lexend",
+        "body": "Zilla Slab",
+        "mono": "Consolas",
+        "win_native_major": "Rockwell",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#004E9F",
+        "#FCBA00",
+        "#1C6CBF",
+        "#FFCD33",
+        "#4388DE",
+        "#FFE07A"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 15.39,
+      "brand_override_flag": false,
+      "grid_component_placement": "High-comprehension curriculum overview; graduated 25%–100% cobalt blue tints encode syllabus depth",
+      "focal_highlight_mechanics": "#FCBA00 highlights exam/assignment milestones"
+    },
+    {
+      "id": "EDU-12",
+      "name": "Outer Space STEM Discovery",
+      "category": "EDU",
+      "sub_mood": "Astrophysics, Planetarium Keynotes & Youth STEM Workshops",
+      "reference_benchmark": "Outer Space & Envato Elonara",
+      "reference_urls": [
+        "https://paletadecolores.org/en/kids-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#0B1D51",
+        "surface": "#3E5C9A",
+        "primary_30": "#FFC857",
+        "accent_10": "#E9724C",
+        "ink": "#F2F2F2",
+        "muted_ink": "#A8B6D6",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Sora",
+        "body": "Nunito",
+        "mono": "Consolas",
+        "win_native_major": "Century Gothic",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#FFC857",
+        "#E9724C",
+        "#3E5C9A",
+        "#FFE094",
+        "#F0987D",
+        "#F2F2F2"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 19.48,
+      "brand_override_flag": false,
+      "grid_component_placement": "Planetarium, physics, and youth STEM workshops; deep celestial #0B1D51 backdrop",
+      "focal_highlight_mechanics": "Luminous #FFC857 orbit/diagram paths and crisp #F2F2F2 labels"
+    },
+    {
+      "id": "EDU-13",
+      "name": "Field-Trip Biology Meadow",
+      "category": "EDU",
+      "sub_mood": "Natural Sciences, Botanical Field Guides & Ecology Units",
+      "reference_benchmark": "Dinosaurs & Properties of Matter",
+      "reference_urls": [
+        "https://www.slidescarnival.com/template/properties-of-matter-for-middle-school/117566"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F4F9EC",
+        "surface": "#FFFFFF",
+        "primary_30": "#2F4858",
+        "accent_10": "#4CAF50",
+        "ink": "#2F4858",
+        "muted_ink": "#637A8A",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Aleo",
+        "body": "Archivo",
+        "mono": "Consolas",
+        "win_native_major": "Constantia",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2F4858",
+        "#4CAF50",
+        "#FF9F43",
+        "#52758C",
+        "#72C676",
+        "#FFBD78"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 14.6,
+      "brand_override_flag": false,
+      "grid_component_placement": "Natural-sciences classroom slides; white botanical/specimen comparison frames on soft #F4F9EC meadow tint",
+      "focal_highlight_mechanics": "#FF9F43 secondary orange flags key hypotheses; #4CAF50 indicators"
+    },
+    {
+      "id": "EDU-14",
+      "name": "Pediatric & Health Literacy",
+      "category": "EDU",
+      "sub_mood": "Community Health Education, Nutrition Guides & Patient Literacy",
+      "reference_benchmark": "Cheerful Pediatric & Human Body",
+      "reference_urls": [
+        "https://www.slidescarnival.com/template/elementary-school-about-the-human-body/23094"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#FFF4D6",
+        "primary_30": "#4BA3C7",
+        "accent_10": "#E9806E",
+        "ink": "#2C333A",
+        "muted_ink": "#68737D",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Mulish",
+        "body": "Nunito Sans",
+        "mono": "Consolas",
+        "win_native_major": "Candara",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#4BA3C7",
+        "#E9806E",
+        "#6DB6D4",
+        "#F09F90",
+        "#94CCE2",
+        "#F6C1B6"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 17.7,
+      "brand_override_flag": false,
+      "grid_component_placement": "Health-education & K-12 anatomy slides; clear friendly color-coded organ callouts",
+      "focal_highlight_mechanics": "Zero intimidating medical jargon or visual overload; soft #FFF4D6 surfaces"
+    },
+    {
+      "id": "EDU-15",
+      "name": "Konstanz Lake-Blue Instructional",
+      "category": "EDU",
+      "sub_mood": "University Pedagogy, E-Learning Infographics & Modular Syllabus",
+      "reference_benchmark": "Uni Konstanz pal_unikn & Lessonkit",
+      "reference_urls": [
+        "https://hneth.github.io/unikn/reference/pal_unikn.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#CCEEF9",
+        "primary_30": "#008ECE",
+        "accent_10": "#666666",
+        "ink": "#1A1A1A",
+        "muted_ink": "#666666",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Open Sans",
+        "body": "Lora",
+        "mono": "Consolas",
+        "win_native_major": "Calibri",
+        "win_native_minor": "Georgia",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "crisp_contextual_photography",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#008ECE",
+        "#666666",
+        "#24A4DE",
+        "#8C8C8C",
+        "#5ABEEA",
+        "#B3B3B3"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 30.03,
+      "brand_override_flag": false,
+      "grid_component_placement": "Five-step blue clarity gradient (#CCEEF9 → #008ECE) paired with clean grayscale context",
+      "focal_highlight_mechanics": "E-learning modules and instructional infographics"
+    }
+  ]
+}

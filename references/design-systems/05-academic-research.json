@@ -1,0 +1,1088 @@
+{
+  "category": "ACAD",
+  "count": 15,
+  "systems": [
+    {
+      "id": "ACAD-01",
+      "name": "Harvard Crimson Monograph",
+      "category": "ACAD",
+      "sub_mood": "Peer-Reviewed Thesis, Tenure Lecture & Humanities",
+      "reference_benchmark": "Harvard HMS / HBS Brand Guide",
+      "reference_urls": [
+        "https://identityguide.hms.harvard.edu/brand-design/colors"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F4EDCA",
+        "primary_30": "#A41034",
+        "accent_10": "#293352",
+        "ink": "#1E1E1E",
+        "muted_ink": "#666666",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "EB Garamond",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Garamond",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Assertion-Evidence single-exhibit layout",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#A41034",
+        "#293352",
+        "#C93655",
+        "#4E5C82",
+        "#E0738A",
+        "#8190B8"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 15.27,
+      "brand_override_flag": false,
+      "grid_component_placement": "Assertion-Evidence layout; #A41034 crimson anchors hypothesis titles (7.77:1 AAA)",
+      "focal_highlight_mechanics": "#F4EDCA warm creme callout box isolates theorem or key finding"
+    },
+    {
+      "id": "ACAD-02",
+      "name": "Oxford Heritage Scholarly",
+      "category": "ACAD",
+      "sub_mood": "Archival History, Classical Philosophy & Institutional Tradition",
+      "reference_benchmark": "University of Oxford Heritage Pack",
+      "reference_urls": [
+        "https://oxford-ihtm.io/oxthema/articles/oxthema.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#F1EEE9",
+        "surface": "#F2F0F0",
+        "primary_30": "#002147",
+        "accent_10": "#994636",
+        "ink": "#211D1C",
+        "muted_ink": "#61615F",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Marcellus / Noto Serif",
+        "body": "Roboto",
+        "mono": "Consolas",
+        "win_native_major": "Palatino Linotype",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#002147",
+        "#994636",
+        "#426A5A",
+        "#E08D79",
+        "#A0AF84",
+        "#89827A"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 10.82,
+      "brand_override_flag": true,
+      "grid_component_placement": "Classical academic elegance on shell-grey #F1EEE9; #002147 Oxford Blue titles (13.87:1 AAA)",
+      "focal_highlight_mechanics": "#994636 sienna citation callouts and #426A5A secondary green",
+      "brand_override_justification": "Canonical institutional benchmark: University of Oxford Heritage Pack (Delta E = 10.82 from Claude Terracotta Signature Tell (Second-Wave Slop))"
+    },
+    {
+      "id": "ACAD-03",
+      "name": "Cambridge Dark Slate & Cyan",
+      "category": "ACAD",
+      "sub_mood": "Rigorous Mathematics, Analytical Logic & Natural Science",
+      "reference_benchmark": "University of Cambridge Core Identity",
+      "reference_urls": [
+        "https://www.cam.ac.uk/brand-resources/guidelines/colour"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#ECEEF1",
+        "primary_30": "#133844",
+        "accent_10": "#00BDB6",
+        "ink": "#232830",
+        "muted_ink": "#606775",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Libre Baskerville",
+        "body": "Work Sans",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#133844",
+        "#00BDB6",
+        "#26596A",
+        "#14E0D7",
+        "#448197",
+        "#5DEAE3"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 18.31,
+      "brand_override_flag": false,
+      "grid_component_placement": "Explicitly replaces pure black with #232830 Slate 4 text; #133844 dark headers",
+      "focal_highlight_mechanics": "#ECEEF1 data panels and #00BDB6 methodology badges"
+    },
+    {
+      "id": "ACAD-04",
+      "name": "Stanford Cardinal & Sandstone",
+      "category": "ACAD",
+      "sub_mood": "Interdisciplinary Research, Bioengineering & Economics",
+      "reference_benchmark": "Stanford Identity Guidelines",
+      "reference_urls": [
+        "https://identity.stanford.edu/design-elements/color/"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FAF8F5",
+        "surface": "#ECEEF1",
+        "primary_30": "#8C1515",
+        "accent_10": "#13553A",
+        "ink": "#232830",
+        "muted_ink": "#636873",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Source Serif 4",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Constantia",
+        "win_native_minor": "Candara",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#8C1515",
+        "#13553A",
+        "#B83A3A",
+        "#267856",
+        "#D97373",
+        "#4FA880"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 5.59,
+      "brand_override_flag": true,
+      "grid_component_placement": "Interdisciplinary seminar grid; #8C1515 Cardinal red leads section titles",
+      "focal_highlight_mechanics": "Dark forest green (#13553A) highlights validation figures",
+      "brand_override_justification": "Canonical institutional benchmark: Stanford Identity Guidelines (Delta E = 5.59 from Tailwind Emerald-900 (Emerald Fallback))"
+    },
+    {
+      "id": "ACAD-05",
+      "name": "MIT Architectural Red & Steel",
+      "category": "ACAD",
+      "sub_mood": "Computer Science, Robotics & High-Tech Engineering",
+      "reference_benchmark": "MIT Brand Color System",
+      "reference_urls": [
+        "https://brand.mit.edu/color"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F2F4F8",
+        "primary_30": "#750014",
+        "accent_10": "#626A73",
+        "ink": "#212326",
+        "muted_ink": "#696E75",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "IBM Plex Sans",
+        "body": "IBM Plex Mono",
+        "mono": "IBM Plex Mono",
+        "win_native_major": "Neue Haas Grotesk Text Pro",
+        "win_native_minor": "Consolas",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#750014",
+        "#626A73",
+        "#A31D33",
+        "#8A94A0",
+        "#CE4B60",
+        "#B8C1CC"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 24.93,
+      "brand_override_flag": false,
+      "grid_component_placement": "Tight technical symposium grid; cool #F2F4F8 equation/algorithm panels",
+      "focal_highlight_mechanics": "#750014 legacy MIT Red flags novel experimental deltas"
+    },
+    {
+      "id": "ACAD-06",
+      "name": "ETH Zurich Precision Signal",
+      "category": "ACAD",
+      "sub_mood": "Theoretical Physics, Swiss Architecture & Applied Math",
+      "reference_benchmark": "ETH Zurich Corporate Design",
+      "reference_urls": [
+        "https://ethz.ch/staffnet/en/service/communication/corporate-design/colours.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#E9EFF7",
+        "primary_30": "#215CAF",
+        "accent_10": "#007894",
+        "ink": "#575757",
+        "muted_ink": "#7D7D7D",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Public Sans",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Avenir Next LT Pro",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#215CAF",
+        "#007894",
+        "#467FCB",
+        "#17A2C4",
+        "#7AA6DF",
+        "#53C0DC"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 34.48,
+      "brand_override_flag": false,
+      "grid_component_placement": "Swiss mathematical grid precision; #215CAF (6.53:1 AA) primary bars",
+      "focal_highlight_mechanics": "#007894 petrol comparison series; #E9EFF7 (10% tint) frames OMML formulas"
+    },
+    {
+      "id": "ACAD-07",
+      "name": "Metropolis Beamer Minimalist",
+      "category": "ACAD",
+      "sub_mood": "LaTeX Beamer Clean, Conference Presentation & Math",
+      "reference_benchmark": "Metropolis & Moloch LaTeX Beamer",
+      "reference_urls": [
+        "https://overleaf.com/latex/templates/metropolis-beamer-theme/qzyvdhrntfmr"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FAFAFA",
+        "surface": "#E5E5E5",
+        "primary_30": "#23373B",
+        "accent_10": "#EB811B",
+        "ink": "#23373B",
+        "muted_ink": "#616F72",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Fira Sans",
+        "body": "Fira Math",
+        "mono": "Consolas",
+        "win_native_major": "Corbel",
+        "win_native_minor": "Cambria Math",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#23373B",
+        "#EB811B",
+        "#3D585E",
+        "#F09C48",
+        "#5E7D84",
+        "#F5BA7D"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 16.43,
+      "brand_override_flag": false,
+      "grid_component_placement": "Ultra-clean progress-bar section headers; #23373B dark slate banner (11.97:1 AAA)",
+      "focal_highlight_mechanics": "#EB811B warm orange strictly for alert blocks and theorem emphasis"
+    },
+    {
+      "id": "ACAD-08",
+      "name": "Berkeley Blue & Heritage Gold",
+      "category": "ACAD",
+      "sub_mood": "Public University Flagship, Interdisciplinary Colloquium",
+      "reference_benchmark": "UC Berkeley Visual Identity",
+      "reference_urls": [
+        "https://brand.berkeley.edu/visual-identity/colors/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F2F2F2",
+        "primary_30": "#002676",
+        "accent_10": "#C09748",
+        "ink": "#010133",
+        "muted_ink": "#5A6178",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Merriweather",
+        "body": "Open Sans",
+        "mono": "Consolas",
+        "win_native_major": "Cambria",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "isolated_accent_badge",
+      "chart_palette_6": [
+        "#002676",
+        "#C09748",
+        "#1E47A3",
+        "#D4B06A",
+        "#4B72C7",
+        "#E4C892"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 34.11,
+      "brand_override_flag": false,
+      "grid_component_placement": "WCAG-audited academic palette (#002676 passes small text on #F2F2F2, #FFFFFF, and #C09748)",
+      "focal_highlight_mechanics": "Structured literature-review tables with gold accents"
+    },
+    {
+      "id": "ACAD-09",
+      "name": "Columbia Sky & Ochre",
+      "category": "ACAD",
+      "sub_mood": "Ivy League Social Sciences & Archival Discourse",
+      "reference_benchmark": "Columbia Visual Identity",
+      "reference_urls": [
+        "https://visualidentity.columbia.edu/content/color"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#F0F0F0",
+        "surface": "#B9D9EB",
+        "primary_30": "#1D4F91",
+        "accent_10": "#C75000",
+        "ink": "#222222",
+        "muted_ink": "#616161",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Spectral",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Book Antiqua",
+        "win_native_minor": "Trebuchet MS",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "luminance_spotlight",
+      "chart_palette_6": [
+        "#1D4F91",
+        "#C75000",
+        "#386CB0",
+        "#E86F20",
+        "#638EC7",
+        "#F09654"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 29.05,
+      "brand_override_flag": false,
+      "grid_component_placement": "Adheres to Columbia's 'three-color rule'; enforces black text only over #B9D9EB Columbia Blue",
+      "focal_highlight_mechanics": "#C75000 spotlights core findings"
+    },
+    {
+      "id": "ACAD-10",
+      "name": "Yale Archival Navy & Sepia",
+      "category": "ACAD",
+      "sub_mood": "Classics, Jurisprudence & Archival Manuscripts",
+      "reference_benchmark": "Yale Blue & Sepia Thesis",
+      "reference_urls": [
+        "https://paletadecolores.org/en/thesis-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FBF7EF",
+        "surface": "#EDE2CC",
+        "primary_30": "#00356B",
+        "accent_10": "#8B6B47",
+        "ink": "#2B2B2B",
+        "muted_ink": "#6E675D",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Alegreya",
+        "body": "Alegreya Sans",
+        "mono": "Consolas",
+        "win_native_major": "Palatino Linotype",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#00356B",
+        "#8B6B47",
+        "#1E548F",
+        "#AB8964",
+        "#4878B3",
+        "#CCAB89"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 26.41,
+      "brand_override_flag": false,
+      "grid_component_placement": "Warm archival canvas suited for history, classics, and policy lectures",
+      "focal_highlight_mechanics": "#EDE2CC framed primary-source excerpts paired with #00356B analytical headings"
+    },
+    {
+      "id": "ACAD-11",
+      "name": "Humanities Wine & Monochrome",
+      "category": "ACAD",
+      "sub_mood": "Legal Theory, Philosophy & Historical Dissertation",
+      "reference_benchmark": "Gray & Wine Thesis & Slidesgo Ph.D. History",
+      "reference_urls": [
+        "https://paletadecolores.org/en/thesis-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F2F2F2",
+        "primary_30": "#2E2E2E",
+        "accent_10": "#7B2D3B",
+        "ink": "#2E2E2E",
+        "muted_ink": "#6E6E6E",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Crimson Pro",
+        "body": "Lato",
+        "mono": "Consolas",
+        "win_native_major": "Calisto MT",
+        "win_native_minor": "Segoe UI",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#2E2E2E",
+        "#7B2D3B",
+        "#545454",
+        "#A04555",
+        "#808080",
+        "#C46D7D"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 18.15,
+      "brand_override_flag": false,
+      "grid_component_placement": "Grayscale-print-safe legal/humanities deck",
+      "focal_highlight_mechanics": "#7B2D3B wine isolates statutory citations, historical inflection dates, and dissertation defense theses"
+    },
+    {
+      "id": "ACAD-12",
+      "name": "Defense Petrol & Warm Sand",
+      "category": "ACAD",
+      "sub_mood": "Doctoral Defense, Environmental Law & Maritime History",
+      "reference_benchmark": "Petrol Blue & Sand & Envato Scholarly",
+      "reference_urls": [
+        "https://paletadecolores.org/en/thesis-color-palette.html"
+      ],
+      "polarity": "light_tinted",
+      "tokens": {
+        "bg_60": "#FAF6EE",
+        "surface": "#E8DCC4",
+        "primary_30": "#1F5F6B",
+        "accent_10": "#C9A66B",
+        "ink": "#15323A",
+        "muted_ink": "#5D6E73",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Lora",
+        "body": "Open Sans",
+        "mono": "Consolas",
+        "win_native_major": "Georgia",
+        "win_native_minor": "Corbel",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#1F5F6B",
+        "#C9A66B",
+        "#357D8B",
+        "#DEBF85",
+        "#569EAC",
+        "#EED6A6"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 22.33,
+      "brand_override_flag": false,
+      "grid_component_placement": "Modern oral-defense architecture; #1F5F6B deep petrol section dividers bookend airy #FAF6EE",
+      "focal_highlight_mechanics": "Methodology and findings slides highlighted with #C9A66B sand accents"
+    },
+    {
+      "id": "ACAD-13",
+      "name": "Social Sciences Understated Plum",
+      "category": "ACAD",
+      "sub_mood": "Sociology, Ethnography, Qualitative Research & Psychology",
+      "reference_benchmark": "Understated Purple Thesis & Psychology Defense",
+      "reference_urls": [
+        "https://paletadecolores.org/en/thesis-color-palette.html"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F1EEF6",
+        "primary_30": "#5A4A7A",
+        "accent_10": "#B3A6CC",
+        "ink": "#2B2438",
+        "muted_ink": "#6F677D",
+        "accent_role": "fill_only"
+      },
+      "fonts": {
+        "display": "Bitter",
+        "body": "Mulish",
+        "mono": "Consolas",
+        "win_native_major": "Constantia",
+        "win_native_minor": "Candara",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "extreme_scale_contrast",
+      "chart_palette_6": [
+        "#5A4A7A",
+        "#B3A6CC",
+        "#776599",
+        "#C8BEDC",
+        "#9887B8",
+        "#DCD5EC"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 32.49,
+      "brand_override_flag": false,
+      "grid_component_placement": "Qualitative & survey-research deck; #F1EEF6 participant-quote panels",
+      "focal_highlight_mechanics": "#5A4A7A Likert-scale bar plots (distinct from bright Tailwind purple)"
+    },
+    {
+      "id": "ACAD-14",
+      "name": "UT Austin Burnt Orange & Slate",
+      "category": "ACAD",
+      "sub_mood": "Large-Auditorium Lecture, Engineering Colloquium & Public Flagship",
+      "reference_benchmark": "UT Austin Brand & Academic Prestige",
+      "reference_urls": [
+        "https://umac.utexas.edu/brand-center/templates/"
+      ],
+      "polarity": "light",
+      "tokens": {
+        "bg_60": "#FFFFFF",
+        "surface": "#F0F1F3",
+        "primary_30": "#333F48",
+        "accent_10": "#BF5700",
+        "ink": "#1B2236",
+        "muted_ink": "#5E6875",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Vollkorn",
+        "body": "Source Sans 3",
+        "mono": "Consolas",
+        "win_native_major": "Bookman Old Style",
+        "win_native_minor": "Calibri",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#333F48",
+        "#BF5700",
+        "#4F5F6B",
+        "#DF7219",
+        "#728391",
+        "#F59345"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 20.13,
+      "brand_override_flag": false,
+      "grid_component_placement": "Large-hall readability standard (1-inch letters per 10 ft viewing distance); left-aligned concise points",
+      "focal_highlight_mechanics": "#BF5700 highlights experimental outcomes"
+    },
+    {
+      "id": "ACAD-15",
+      "name": "Dark Academia Literary Seminar",
+      "category": "ACAD",
+      "sub_mood": "Evening Colloquium, Medieval History & Comparative Literature",
+      "reference_benchmark": "Dark Academia & German History Thesis",
+      "reference_urls": [
+        "https://paletadecolores.org/en/aesthetic-color-palette.html"
+      ],
+      "polarity": "dark",
+      "tokens": {
+        "bg_60": "#2B2118",
+        "surface": "#4E3B2A",
+        "primary_30": "#D9C9A8",
+        "accent_10": "#A68A64",
+        "ink": "#F5EFE6",
+        "muted_ink": "#B8AA98",
+        "accent_role": "text_safe"
+      },
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Lora",
+        "mono": "Consolas",
+        "win_native_major": "Garamond",
+        "win_native_minor": "Georgia",
+        "type_scale": {
+          "title_pt": 36,
+          "body_pt": 16,
+          "action_title_ratio": 2.25,
+          "line_spacing": 1.5,
+          "derivation_line_spacing": 1.25
+        }
+      },
+      "grid_system": "Standard asymmetric 8-column layout with 2/3 focus area",
+      "margin_in": 0.5,
+      "gutter_in": 0.35,
+      "layout_pool": [
+        "anchor_cover_hero",
+        "two_column_exhibit_split",
+        "three_pillar_issue_tree",
+        "kpi_monument_callout",
+        "process_milestone_strip",
+        "decision_cta_closing"
+      ],
+      "photo_treatment": "publication_vector_figure",
+      "shape_grammar": {
+        "corner_radius_max_pt": 4,
+        "border_width_pt": 0.5,
+        "border_style": "hairline_flat",
+        "nested_cards_allowed": false
+      },
+      "focal_highlight_tactic": "pre_attentive_color_pop",
+      "chart_palette_6": [
+        "#D9C9A8",
+        "#A68A64",
+        "#F5EFE6",
+        "#735A3E",
+        "#4E3B2A",
+        "#2B2118"
+      ],
+      "chart_rules": {
+        "native_2d_only": true,
+        "direct_inline_labels": true,
+        "strip_chart_junk": true,
+        "max_consecutive_dense": 2
+      },
+      "rag_replacement": "neutral_gray_baseline_with_accent1_spotlight",
+      "slop_delta_e_min": 22.93,
+      "brand_override_flag": false,
+      "grid_component_placement": "Evening humanities keynote or museum lecture; warm walnut-ink canvas eliminates clinical white glare",
+      "focal_highlight_mechanics": "Archival plates framed with thin #A68A64 borders"
+    }
+  ]
+}
