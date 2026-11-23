@@ -1,0 +1,27 @@
+{
+  "name": "human-presentation",
+  "version": "1.0.0",
+  "description": "Anti-slop presentation architecture and agentic skill enforcing 165 design systems, cognitive neuro-design, and native OOXML compilation.",
+  "main": "scripts/build_native_deck.js",
+  "scripts": {
+    "test": "node scripts/ingest_design_systems.js --audit-all",
+    "audit-systems": "node scripts/ingest_design_systems.js --audit-all",
+    "lint": "node scripts/lint_slop.js",
+    "select": "node scripts/select_design_system.js",
+    "compile-theme": "node scripts/compile_theme_xml.js",
+    "embed-fonts": "node scripts/embed_fonts_ooxml.js",
+    "render-qa": "node scripts/render_qa.js"
+  },
+  "keywords": [
+    "powerpoint",
+    "presentation",
+    "anti-slop",
+    "design-systems",
+    "ooxml",
+    "neuro-design",
+    "slide-deck",
+    "typography"
+  ],
+  "author": "Sheron Randewa",
+  "license": "MIT"
+}
